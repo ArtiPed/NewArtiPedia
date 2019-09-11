@@ -1,0 +1,44 @@
+I"z<h2 id="header">Header</h2>
+<p>Penulisan sub judul</p>
+
+<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Judul &lt;h1&gt; tag
+## Sub Judul &lt;h2&gt; tag
+### Sub Judul &lt;h3&gt; tag
+#### Sub Judul &lt;h4&gt; tag
+##### Sub Judul &lt;h5&gt; tag
+###### This is an &lt;h6&gt; tag
+</code></pre></div></div>
+
+<p>Hasilnya</p>
+<h1 id="judul-h1">Judul h1</h1>
+<h2 id="sub-judul-h2">Sub Judul h2</h2>
+<h3 id="sub-judul-h3">Sub Judul h3</h3>
+<h4 id="sub-judul-h4">Sub Judul h4</h4>
+<h5 id="sub-judul-h5">Sub Judul h5</h5>
+<h6 id="sub-judul-h6">Sub Judul h6</h6>
+
+<h2 id="bold">Bold</h2>
+<p>Menebalkan huruf terdapat dua cara</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1. **Contoh**
+2. __Contoh__.
+</code></pre></div></div>
+<p>Hasilnya
+<strong>Contoh</strong></p>
+
+<h2 id="italic">Italic</h2>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1. *Contoh*
+2. _Contoh_.
+</code></pre></div></div>
+<p>Hasilnya
+<em>Contoh</em></p>
+
+<h2 id="blockquote">Blockquote</h2>
+<p>Untuk menambahkan <code>blockquote</code> tambahkan <code>&gt;</code> sebelum/pada awal paragraf</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; Tes penulisan blockquote
+</code></pre></div></div>
+<p>Hasilnya</p>
+<blockquote>
+  <p>Tes penulisan blockquote</p>
+</blockquote>
+
+:ET

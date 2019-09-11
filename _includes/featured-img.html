@@ -1,0 +1,4 @@
+<div class="desc">
+  <img itemprop="image" class="post-image" src="/img/{{page.image}}" alt="{{page.title}}" title="{{page.title}}">
+  <small itemprop="description" class="intros">{% if page.description %}{{ page.description | strip_html }}{% else %}{{ site.description | strip_html}}{% endif %}</small>
+</div>

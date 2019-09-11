@@ -1,0 +1,41 @@
+{% assign author = site.authors[page.author] %}
+<div class="article grid mt-3 mb-1">
+    <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
+        <div class="h-100 tofront">
+            <div class="row {% if page.image %} justify-content-between {% else %} justify-content-center {% endif %}">
+                <div class="col-md-6  pr-0 pr-md-4 pt-4 pb-4 align-self-center">
+                    <p class="text-uppercase font-weight-bold">
+                        <span class="catlist">
+						{% for category in page.categories %}
+                          <a class="sscroll text-danger" href="{{site.url}}/kategori#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span> {% endfor %}
+                        </span>
+                    </p>
+                    <h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
+                    <div class="d-flex align-items-center">
+
+                        <img class="rounded-circle i lazyload" src="{{site.url}}{{author.avatarlow | replace: 'artipedia','you'}}" data-src="{{site.url}}{{author.avatar | replace: 'artipedia','you'}}" alt="{{author.name}}" width="70" height="70" />
+
+                        <span class="ml-3"> <a href="{{site.url}}/author-{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','you'}} </a><span><a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
+                        <small class="text-muted d-block mt-1"><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ page.date | date_to_string }} <span class="read-time" title="Estimated read time">
+         &nbsp; <i class="fa fa-clock-o" aria-hidden="true"></i>      
+          <span itemprop="timeRequired">
+          {% assign words = content | number_of_words %}
+          {% if words < 360 %}
+            1 min read
+          {% else %}
+            {{ words | divided_by:180 }} Mins read
+          {% endif %}
+          </span>
+        </span></small>
+                        </span>
+                    </div>
+                </div>
+                {% if page.image %}
+                <div class="col-md-6 pr-0 align-self-center">
+                    <img class="rounded lazyload" src="/img/low/twitter-card.png" data-src="/img/{{page.image}}" alt="{{ page.title }}"/>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>

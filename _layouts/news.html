@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+  <section class="news">
+    {% include atas-post.html %}
+    <div class="grid">
+
+       <div class="unit four-fifths">
+      <h2 class="konten">
+        {{ page.title }}</h2>
+{{content}}
+      </div>
+
+      {% include news_contents.html %}
+
+      <div class="clear"></div>
+
+    </div>
+  </section>

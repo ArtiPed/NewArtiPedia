@@ -1,0 +1,34 @@
+   <h2>
+    {{ page.title }}
+    <a href="{{ page.url }}" class="header-link" title="Permalink">
+      <span class="sr-only">Permalink</span>
+      <i class="fa fa-link"></i>
+    </a>
+  </h2>
+  <span class="post-category no-print">
+    <span class="label">
+      {{ page.categories | array_to_sentence_string }}
+    </span>
+  </span>
+  <div class="post-meta no-print">
+        <!-- Reading time -->
+        <span class="read-time" title="Estimated read time">
+         &nbsp; <i class="fa fa-clock-o" aria-hidden="true"></i>      
+          <span itemprop="timeRequired">
+          {% assign words = content | number_of_words %}
+          {% if words < 360 %}
+            1 min read
+          {% else %}
+            {{ words | divided_by:180 }} Mins read
+          {% endif %}
+          </span>
+        </span>
+    <span class="post-date no-print">
+      <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ page.date | date_to_string }}
+    </span>
+    <a href="https://github.com/{{ page.author }}" class="post-author">
+      {% avatar {{ page.author}} size=24 %}
+      {{ page.author }}
+    </a>     
+           </div><div class="clear"></div>
+      {% include ads-text.html %}

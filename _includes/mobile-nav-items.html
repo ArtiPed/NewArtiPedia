@@ -1,0 +1,14 @@
+<ul>
+  <li class="{% if page.overview %}current{% endif %}">
+    <a href="/" title="Halaman Utama">Home</a>
+  </li>
+  <li class="{% if page.url contains '/docs/' %}current{% endif %}">
+    <a href="/docs/sambutan" title="Sambutan">Panduan</a>
+  </li>
+  <li class="{% if page.url contains '/buku/' %}current{% endif %}">
+    <a title="Buku" href="/buku">Buku</a>
+  </li>
+  <li>
+    <a href="/authors-list" title="Author" id="Author">Author</a>
+  </li>
+</ul>

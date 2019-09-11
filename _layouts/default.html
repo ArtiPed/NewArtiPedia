@@ -1,0 +1,20 @@
+---
+layout: compress
+---
+
+{% include top.html %}
+<body class="wrap">
+{% include header.html %}
+{{ content }}
+<div class="clear"></div>
+{% include ads_chitika.html %}	
+{% include footer.html %}
+<div id='kotak-dialog' class="no-print"><h5 class='title'>Tunggu hingga dokumen muncul<a class='closed' href='#'>Tutup <i aria-hidden='true' class='fa fa-window-close'></i></a></h5><div class='isi-dialog'><div id='iframeContainer'></div></div></div><div id='dialog-overlay'></div>
+<script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<script type='text/javascript' src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.min.js"></script><script type='text/javascript'>var anchorForId=function(b){var a=document.createElement("a");a.className="header-link";a.href="#"+b;a.innerHTML='<span class="sr-only">Permalink</span><i class="fa fa-link"></i>';a.title="Permalink";return a},linkifyAnchors=function(b,a){for(var f=a.getElementsByTagName("h"+b),c=0;c<f.length;c++){var d=f[c];"undefined"!==typeof d.id&&""!==d.id&&d.appendChild(anchorForId(d.id))}};(function(b){function a(a){return(a=window.localStorage.getItem(a))?JSON.parse(a):a}var f={};b.cachedAjaxPromise=function(c,d){var e=f[c],g;e||(e=new jQuery.Deferred,f[c]=e,(g=a(c))&&e.resolve(g),d||(d={}),b.extend(d,{error:function(a,f,b){console.log("User info request failed: "+b);e.resolve(null)},success:function(a){var b=JSON.stringify(a);window.localStorage.setItem(c,b);e.resolve(a)}}),b.ajax(c,d));return e.promise()}})(jQuery);
+$(".open-dialog").click(function(){return $("#kotak-dialog").show().find("#iframeContainer").html('<iframe src="'+this.href+'"></iframe>'),$("#dialog-overlay").fadeTo(400,.8),!1});$("#kotak-dialog .closed").click(function(){return $("#kotak-dialog").fadeOut("normal",function(){$("iframe",this).remove()}),$("#dialog-overlay").hide(),!1});$('a[href*="#"]').not('[href="#"]').not('[href="#0"]').click(function(b){if(location.pathname.replace(/^\//,"")==this.pathname.replace(/^\//,"")&&location.hostname==this.hostname){var a=$(this.hash);(a=a.length?a:$("[name="+this.hash.slice(1)+"]")).length&&(b.preventDefault(),$("html, body").animate({scrollTop:a.offset().top},1E3,function(){var b=$(a);if(b.focus(),b.is(":focus"))return!1;b.attr("tabindex","-1");b.focus()}))}});window.addEventListener("scroll", function(event){let timeout = setTimeout(function(){lazyload();}, 3000);});{% include loadCss.js %}</script>
+{% if page.layout == 'news_item' %}
+<script type='text/javascript'>var disqus_shortname="{{ site.disqus.shortname }}",disqus_config=function(){this.page.url="{{ page.url | absolute_url }}",this.page.identifier="{{ page.url | absolute_url }}"},is_disqus_loaded=!1;function loadDisqus(){if(!is_disqus_loaded){is_disqus_loaded=!0;var s=document,e=s.createElement("script");e.src="//"+disqus_shortname+".disqus.com/embed.js",e.setAttribute("data-timestamp",+new Date),(s.head||s.body).appendChild(e)}}
+</script>{% endif %}
+</body>
+</html>
