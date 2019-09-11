@@ -84,3 +84,5 @@ paginate: 16
 paginate_path: /page/:num/
   
 include: ['.htaccess']
+
+theme: jekyll-theme-minimal
