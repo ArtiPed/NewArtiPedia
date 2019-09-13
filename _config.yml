@@ -55,8 +55,11 @@ defaults:
     path: _posts/buku
     type: posts
   values:
-    layout: post
+    layout: news_item
     category: buku
+    image: twitter-card.png
+    author: you
+    avatar: /img/you.jpg
     read_time: true
     comments: true
     support: true
