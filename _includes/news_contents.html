@@ -38,7 +38,7 @@
       </li>  {% endfor %}
 	  </ul></div>
 	  <div class="aside w6">
-        <h3 class="widget-title">Tags</h3>
+        <h3 class="widget-title">Kategori</h3>
         <div class="tagcloud">
 {% capture site_categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
     {% assign sortedCategories = site_categories | split:',' | sort %}
