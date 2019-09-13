@@ -39,9 +39,9 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
         name: "image"
         widget: "object"
@@ -59,16 +59,16 @@ collections:
       - {label: "Comments", name: "comments", widget: "boolean", default: false}
       - {label: "Support block", name: "support", widget: "boolean", default: false}
       - {label: "Body", name: "body", widget: "markdown"}
-
+      
   - name: "buku"
     label: "Buku"
     folder: "_posts/buku"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
         name: "image"
         widget: "object"
@@ -93,9 +93,9 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
         name: "image"
         widget: "object"
@@ -120,9 +120,9 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
         name: "image"
         widget: "object"
@@ -153,6 +153,13 @@ collections:
       - label: "Image"
         name: "image"
         widget: "object"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "object"
         fields:
           - {label: "Path", name: "path", widget: "image"}
           - {label: "Feature image path", name: "feature", widget: "image"}
@@ -174,9 +181,9 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
         name: "image"
         widget: "object"
@@ -194,4 +201,5 @@ collections:
       - {label: "Comments", name: "comments", widget: "boolean", default: false}
       - {label: "Support block", name: "support", widget: "boolean", default: false}
       - {label: "Body", name: "body", widget: "markdown"}
+
 
