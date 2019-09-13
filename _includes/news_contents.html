@@ -7,7 +7,7 @@
    <h3><a href="https://artipedia.id/rpp" title="Kumpulan RPP">RPP</a></h3>
     <ul>
       
-	  {% for post in site.categories.rpp limit:5 %}
+	  {% for post in site.categories.rpp limit:3 %}
       <li class="{% if page.title == post.title %}current{% endif %}">
         <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span class="postdate"><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;{{ post.date | date_to_string }}</span>
       </li>  {% endfor %}</ul>
@@ -16,14 +16,14 @@
 	  <h3><a href="https://artipedia.id/buku" title="Kumpulan Buku">Buku</a></h3>
     <ul>
     
-	  {% for post in site.categories.buku limit:5 %}
+	  {% for post in site.categories.buku limit:3 %}
       <li class="{% if page.title == post.title %}current{% endif %}">
         <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span class="postdate"><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;{{ post.date | date_to_string }}</span>
       </li>  {% endfor %}</ul></div><div class="aside w4">
 	  
 	  <h3><a href="https://artipedia.id/berita" title="Kumpulan Berita">Berita</a></h3>
     <ul>
-     	  {% for post in site.categories.berita limit:5 %}
+     	  {% for post in site.categories.berita limit:3 %}
       <li class="{% if page.title == post.title %}current{% endif %}">
         <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span class="postdate"><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;{{ post.date | date_to_string }}</span>
       </li>
@@ -32,7 +32,7 @@
     </ul></div><div class="aside w5">
 	   <h3><a href="https://artipedia.id/teori" title="Kumpulan teori">Teori</a></h3>
     <ul>
-      {% for post in site.categories.teori limit:5 %}
+      {% for post in site.categories.teori limit:3 %}
       <li class="{% if page.title == post.title %}current{% endif %}">
         <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span class="postdate"><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;{{ post.date | date_to_string }}</span>
       </li>  {% endfor %}
