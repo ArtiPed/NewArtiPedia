@@ -15,16 +15,16 @@ description: Halaman ini berisi posting yang dikelompokkan kembali menjadi beber
 
 Halaman ini berisi posting yang dikelompokkan berdasarkan kategori tertentu
 <div id="archives">
-{% for category in site.categories %}
+{% for tag in site.tags %}
   <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
-    <h3 class="category-head"><i class="fa fa-tags" aria-hidden="true"></i> {{ category_name }}</h3>
+    <h3 class="category-head"><i class="fa fa-tags" aria-hidden="true"></i> {{ tag_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
     <ol class="arti">
-      {% for post in site.categories[category_name] %}
+      {% for post in site.tags[tag_name] %}
           <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
        {% endfor %}
        </ol>
