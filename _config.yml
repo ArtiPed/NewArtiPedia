@@ -66,6 +66,81 @@ defaults:
     breadcrumbs:
       - label: "Buku"
         url: /buku/
+- scope:
+    path: _posts/artikel
+    type: posts
+  values:
+    layout: news_item
+    category: artikel
+    image: twitter-card.png
+    author: you
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Artikel"
+        url: /artikel/
+- scope:
+    path: _posts/berita
+    type: posts
+  values:
+    layout: news_item
+    category: berita
+    image: twitter-card.png
+    author: you
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Berita"
+        url: /berita/
+- scope:
+    path: _posts/materi
+    type: posts
+  values:
+    layout: news_item
+    category: materi
+    image: twitter-card.png
+    author: you
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Materi"
+        url: /mater/
+- scope:
+    path: _posts/soal
+    type: posts
+  values:
+    layout: news_item
+    category: soal
+    image: twitter-card.png
+    author: you
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "soal"
+        url: /soal/
+- scope:
+    path: _posts/teori
+    type: posts
+  values:
+    layout: news_item
+    category: teori
+    image: twitter-card.png
+    author: you
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "teori"
+        url: /teori/
 
 plugins:
 - jekyll-avatar
