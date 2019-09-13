@@ -110,7 +110,7 @@ defaults:
     support: true
     breadcrumbs:
       - label: "Materi"
-        url: /mater/
+        url: /materi/
 - scope:
     path: _posts/soal
     type: posts
