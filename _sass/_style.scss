@@ -2354,3 +2354,70 @@ img.rounded,.butedit.w-100 {
 }h1.display-4.mb-4.article-headline{font-size:1.7em}.konten {
         padding: 5px 0 5px 15px;text-transform: none;
 }
+@media (min-width:48em){.breadcrumbs{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}}
+.breadcrumbs {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex
+}
+
+@media (min-width:48em) {
+    .breadcrumbs .breadcrumb {
+        border-left: 2px solid #000
+    }
+    .breadcrumbs .breadcrumb:not(:first-child) {
+        margin-left: 2em
+    }
+}
+
+.breadcrumbs .breadcrumb:first-child {
+    border-left: 2px solid #000
+}
+
+@media (max-width:47.99875em) {
+    .breadcrumbs .breadcrumb:not(: first-child) {
+        padding-left: .25em;
+        border-left-width: 0
+    }
+}
+
+.breadcrumbs .breadcrumb a {
+    position: relative;
+    display: block
+}
+
+.breadcrumbs .breadcrumb a:after,
+.breadcrumbs .breadcrumb a:before {
+    position: absolute;
+    display: block;
+    content: ''
+}
+
+.breadcrumbs .breadcrumb a:before {
+    top: 50%;
+    width: 1rem;
+    height: 2px;
+    background-color: #000
+}
+
+.breadcrumbs .breadcrumb a:after {
+    left: -2px;
+    bottom: 0;
+    width: calc(1rem + 2px);
+    height: calc(50% - 2px);
+    background-color: #fff
+}
+
+.sr-shortcut,
+.visually-hidden {
+    position: absolute!important;
+    overflow: hidden
+}
+
+.breadcrumbs .breadcrumb span {
+    padding-left: 1.25rem
+}
+
+span+.breadcrumbs {
+    margin-top: 1.0875rem
+}
