@@ -15,3 +15,5 @@ ExpiresByType application/x-shockwave-flash "access plus 1 month"
 ExpiresByType image/x-icon "access plus 1 year"
 ExpiresDefault "access plus 2 days"
 </IfModule>
+
+redirect 301 /wiki/pelaksanaan-cpns-2018.html https://artipedia.id/berita/pelaksanaan-cpns-2018.html
