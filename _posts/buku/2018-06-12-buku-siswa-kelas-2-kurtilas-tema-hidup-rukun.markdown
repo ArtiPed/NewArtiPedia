@@ -7,6 +7,7 @@ description: Buku siswa kelas 2 tema 1 Hidup Rukun merupakan buku kurikulum 2013
 author: artipedia
 tags: [buku,pendidikan,sd,kelasII]
 image: buku-siswa-sd.png
+redirect_from: /wiki/buku-siswa-kelas-2-kurtilas-tema-hidup-rukun.html
 published: true
 ---
 * TOC
