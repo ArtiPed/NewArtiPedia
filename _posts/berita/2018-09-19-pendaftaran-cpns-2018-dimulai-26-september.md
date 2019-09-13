@@ -10,7 +10,7 @@ tags:
   - cpns
   - cpns2018
 ---
-<div class="note">berita ini sudah usang silahkan cari berita cpns terbaru</div>
+<div class="note">berita ini sudah usang silahkan cari berita tentang CPNS terbaru</div>
 
 * TOC
 {:toc}
