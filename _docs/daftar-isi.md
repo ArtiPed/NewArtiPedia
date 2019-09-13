@@ -56,7 +56,7 @@ redirect_from: /docs/daftar-isi/
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 </li>  {% endfor %}
 </ol>
-          <h4><a href="https://artipedia.id/teori" title="Kumpulan Teori">Teori</a></h4>
+  <h4><a href="https://artipedia.id/teori" title="Kumpulan Teori">Teori</a></h4>
 <ol class="arti">
 {% for post in site.categories.teori %}
 <li class="{% if page.title == post.title %}current{% endif %}">
