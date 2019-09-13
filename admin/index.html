@@ -8,8 +8,19 @@
 </head>
 <body>
   <script src="https://unpkg.com/netlify-cms@^2.0/dist/netlify-cms.js"></script>
-  <script>
-    CMS.registerPreviewStyle("/admin/preview.css");
+<script>
+    $(function() {
+      $("#login").on("click", function(e) {
+        e.preventDefault();
+        var authenticator = new netlify.default ({});
+        authenticator.authenticate({provider:"github", scope: "user"}, function(err, data) {
+          if (err) {
+            return $("#output").text("Error Authenticating with GitHub: " + err);
+          }
+          $("#output").text("Authenticated with GitHub. Access Token: " + data.token);
+        });
+      });
+    });
   </script>
 </body>
 </html>
