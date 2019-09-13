@@ -13,21 +13,21 @@ redirect_from: /docs/daftar-isi/
 </button></form>
               </div>
 
-<h4><a href="https://artipedia.id/docs/administrasi" title="Kumpulan Administrasi">Administrasi</a></h4>
+<h4><a href="https://artipedia.id/artikel" title="Kumpulan Administrasi">Artikel</a></h4>
 <ol class="arti">
-{% for post in site.categories.administrasi %}
+{% for post in site.categories.artikel %}
 <li class="{% if page.title == post.title %}current{% endif %}">
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 </li>  {% endfor %}
 </ol>
-<h4><a href="https://artipedia.id/docs/berita/" title="Kumpulan Berita">Berita</a></h4>
+<h4><a href="https://artipedia.id/berita" title="Kumpulan Berita">Berita</a></h4>
 <ol class="arti">
 {% for post in site.categories.berita %}
 <li class="{% if page.title == post.title %}current{% endif %}">
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 </li>  {% endfor %}
 </ol>
-<h4><a href="https://artipedia.id/docs/buku/" title="Kumpulan Buku">Buku</a></h4>
+<h4><a href="https://artipedia.id/buku" title="Kumpulan Buku">Buku</a></h4>
 <ol class="arti">
 {% for post in site.categories.buku %}
 <li class="{% if page.title == post.title %}current{% endif %}">
@@ -35,16 +35,30 @@ redirect_from: /docs/daftar-isi/
 </li>
 {% endfor %}
 </ol>
- <h4><a href="https://artipedia.id/docs/referensi/" title="Kumpulan Berita">Referensi</a></h4>
+ <h4><a href="https://artipedia.id/rpp" title="Kumpulan RPP">RPP</a></h4>
 <ol class="arti">
-{% for post in site.categories.referensi %}
+{% for post in site.categories.rpp %}
 <li class="{% if page.title == post.title %}current{% endif %}">
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 </li>  {% endfor %}
 </ol>
-  <h4><a href="https://artipedia.id/docs/rpp" title="Kumpulan RPP">RPP</a></h4>
+  <h4><a href="https://artipedia.id/docs/materi" title="Kumpulan Materi">Materi</a></h4>
 <ol class="arti">
-{% for post in site.categories.rpp %}
+{% for post in site.categories.materi %}
+<li class="{% if page.title == post.title %}current{% endif %}">
+<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+</li>  {% endfor %}
+</ol>
+  <h4><a href="https://artipedia.id/soal" title="Kumpulan Soal">soal/a></h4>
+<ol class="arti">
+{% for post in site.categories.soal %}
+<li class="{% if page.title == post.title %}current{% endif %}">
+<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+</li>  {% endfor %}
+</ol>
+          <h4><a href="https://artipedia.id/teori" title="Kumpulan Teori">Teori</a></h4>
+<ol class="arti">
+{% for post in site.categories.teori %}
 <li class="{% if page.title == post.title %}current{% endif %}">
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 </li>  {% endfor %}
