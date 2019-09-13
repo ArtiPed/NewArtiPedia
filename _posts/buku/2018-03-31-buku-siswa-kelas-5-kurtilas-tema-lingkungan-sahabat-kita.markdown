@@ -13,6 +13,7 @@ tags:
   - pendidikan
 published: true
 image: buku-siswa-sd.png
+redirect_from: /wiki/buku-siswa-kelas-5-kurtilas-tema-lingkungan-sahabat-kita.html
 ---
 * TOC
 {:toc}
