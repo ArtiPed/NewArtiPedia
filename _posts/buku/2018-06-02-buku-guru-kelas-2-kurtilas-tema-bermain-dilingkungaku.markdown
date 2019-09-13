@@ -8,6 +8,7 @@ author: artipedia
 tags: [buku,pendidikan,guru]
 published: true
 image: bermain-dilingkunganku.jpg
+redirect_from: /wiki/buku-guru-kelas-2-kurtilas-tema-bermain-dilingkungaku.html
 ---
 
 * TOC
