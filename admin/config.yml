@@ -6,9 +6,9 @@ media_folder: "img/"
 public_folder: "/img"
 
 collections:
-  - name: "articles"
-    label: "Articles"
-    folder: "src/_posts/articles"
+  - name: "artikel"
+    label: "Artikel"
+    folder: "src/_posts/artikel"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
