@@ -5,25 +5,6 @@
             <div class="row {% if page.image %} justify-content-between {% else %} justify-content-center {% endif %}">
                 <div class="col-md-6  pr-0 pr-md-4 pt-0 pb-4 align-self-center">
                     <h1 class="display-4 mb-2 article-headline">{{ page.title }}</h1>
-			
-                    <div class="d-flex align-items-center">
-
-                        <img class="rounded-circle i lazyload" src="{{site.url}}{{author.avatarlow | replace: 'artipedia','you'}}" data-src="{{site.url}}{{author.avatar | replace: 'artipedia','you'}}" alt="{{author.name}}" width="70" height="70" />
-
-                        <span class="ml-3"> <a href="{{site.url}}/author-{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','you'}} </a><span><a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
-                        <small class="text-muted d-block mt-1"><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ page.date | date_to_string }} <span class="read-time" title="Estimated read time">
-         &nbsp; <i class="fa fa-clock-o" aria-hidden="true"></i>      
-          <span itemprop="timeRequired">
-          {% assign words = content | number_of_words %}
-          {% if words < 360 %}
-            1 min read
-          {% else %}
-            {{ words | divided_by:180 }} Mins read
-          {% endif %}
-          </span>
-        </span></small>
-                        </span>
-                    </div>
 			 {% if page.breadcrumbs %}
   <nav class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList" aria-label="Breadcrumbs">
     <span class="breadcrumb sr-only" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
@@ -50,6 +31,25 @@
     {% endfor %}
   </nav>
 {% endif %}    
+                    <div class="d-flex align-items-center">
+
+                        <img class="rounded-circle i lazyload" src="{{site.url}}{{author.avatarlow | replace: 'artipedia','you'}}" data-src="{{site.url}}{{author.avatar | replace: 'artipedia','you'}}" alt="{{author.name}}" width="70" height="70" />
+
+                        <span class="ml-3"> <a href="{{site.url}}/author-{{ author.slug | slugify }}">{{author.name | replace: 'artipedia','you'}} </a><span><a target="_blank" href="https://twitter.com/{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
+                        <small class="text-muted d-block mt-1"><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ page.date | date_to_string }} <span class="read-time" title="Estimated read time">
+         &nbsp; <i class="fa fa-clock-o" aria-hidden="true"></i>      
+          <span itemprop="timeRequired">
+          {% assign words = content | number_of_words %}
+          {% if words < 360 %}
+            1 min read
+          {% else %}
+            {{ words | divided_by:180 }} Mins read
+          {% endif %}
+          </span>
+        </span></small>
+                        </span>
+                    </div>
+			
                 </div>
                 {% if page.image %}
                 <div class="col-md-6 pr-0 align-self-center">
