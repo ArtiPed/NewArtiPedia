@@ -16,4 +16,4 @@ ExpiresByType image/x-icon "access plus 1 year"
 ExpiresDefault "access plus 2 days"
 </IfModule>
 
-redirect 301 /wiki/pelaksanaan-cpns-2018.html https://artipedia.id/berita/pelaksanaan-cpns-2018.html
+redirect 301 https://artipedia.id/wiki/pelaksanaan-cpns-2018.html https://artipedia.id/berita/pelaksanaan-cpns-2018.html
