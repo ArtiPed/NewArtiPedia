@@ -8,7 +8,7 @@ public_folder: "/img"
 collections:
   - name: "artikel"
     label: "Artikel"
-    folder: "src/_posts/artikel"
+    folder: "_posts/artikel"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
