@@ -2366,7 +2366,7 @@ img.rounded,.butedit.w-100 {
         border-left: 2px solid #000
     }
     .breadcrumbs .breadcrumb:not(:first-child) {
-        margin-left: 2em
+        margin-left: 2.45em;
     }
 }
 
@@ -2418,6 +2418,6 @@ img.rounded,.butedit.w-100 {
     padding-left: 1.25rem
 }
 
-span+.breadcrumbs {
+nav .breadcrumbs {
     margin-top: 1.0875rem
 }
