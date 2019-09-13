@@ -187,4 +187,4 @@ compress_html:
 paginate: 16
 paginate_path: /page/:num/
   
-include: [.htaccess]
+include: [.htaccess,_redirects]
