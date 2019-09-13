@@ -26,18 +26,18 @@
 			    
 			    
 			    {% for category in page.categories %}
-<div class="breadcrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList" aria-label="Breadcrumbs"><span class="breadcrumb sr-only" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="/" itemprop="item"><span itemprop="name">Home</span>
+<nav class="breadcrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList" aria-label="Breadcrumbs"><span class="breadcrumb sr-only" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="/" itemprop="item"><span itemprop="name">Home</span>
     <meta itemprop="position" content="1">
     </a>
     </span><span class="breadcrumb" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-	<a href="{{site.url}}/{{ category | downcase }}" itemprop="item"><span itemprop="name">{{category}}</span>
+	<a href="/{{ category | downcase }}" itemprop="item"><span itemprop="name">{{category}}</span>
     <meta itemprop="position" content="2">
     </a>
-    </span><span class="breadcrumb sr-only" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="{{ site.url }}{{ page.url }}" itemprop="item" aria-current="page"><span itemprop="name">{{ page.title }}</span>
+    </span><span class="breadcrumb sr-only" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="/{ page.url }}" itemprop="item" aria-current="page"><span itemprop="name">{{ page.title }}</span>
     <meta itemprop="position" content="3">
     </a>
     </span>
-</div>
+</nav>
 {% endfor %}
 			    
                 </div>
