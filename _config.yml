@@ -32,7 +32,7 @@ collections:
     permalink: "/:collection/:path/"
     output: true
   posts:
-    permalink: "/wiki/:title.html"
+    permalink: "/:categories/:title.html"
     output: true
   tutorials:
     output: true
@@ -124,7 +124,7 @@ defaults:
     comments: true
     support: true
     breadcrumbs:
-      - label: "soal"
+      - label: "Soal"
         url: /soal/
 - scope:
     path: _posts/teori
@@ -139,9 +139,23 @@ defaults:
     comments: true
     support: true
     breadcrumbs:
-      - label: "teori"
+      - label: "Teori"
         url: /teori/
-
+- scope:
+    path: _posts/rpp
+    type: posts
+  values:
+    layout: news_item
+    category: rpp
+    image: twitter-card.png
+    author: you
+    avatar: /img/you.jpg
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "RPP"
+        url: /rpp/
 plugins:
 - jekyll-avatar
 - jekyll-feed
