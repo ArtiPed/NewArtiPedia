@@ -10,6 +10,7 @@ tags:
   - cpns
   - cpns2018
 ---
+<div class="note">berita ini sudah usang</div>
 
 * TOC
 {:toc}
