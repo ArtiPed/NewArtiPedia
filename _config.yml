@@ -33,6 +33,7 @@ collections:
     output: true
   posts:
     permalink: "/:categories/:title.html"
+    redirect_from": "/wiki/:title.html"
     output: true
   tutorials:
     output: true
