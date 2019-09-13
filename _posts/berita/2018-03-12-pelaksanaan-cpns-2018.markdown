@@ -6,6 +6,7 @@ date: "2018-03-12 20:48:09"
 image: pelaksanaan-cpns-2018.png
 description: Pada Tahun 2018 Pemerintah akan melaksanakan kembali perekrutan CPNS. Pelaksanaan Tes CPNS Tahun 2018 ini seluruh kementrian, lembaga, dan daerah akan membuka formasi sesuai dengan kebutuhannya.
 author: artipedia
+redirect_from: https://artipedia.id/wiki/pelaksanaan-cpns-2018.html
 tags: [berita]
 ---
 
