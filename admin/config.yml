@@ -26,7 +26,7 @@ collections:
           - {label: "Image caption", name: "caption", widget: "string"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Reading time", name: "read_time", widget: "boolean", default: true}
-      - {label: "Categories", name: "categories", widget: "list", default: ["articles"]}
+      - {label: "Categories", name: "categories", widget: "list", default: ["artikel"]}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Table of contents", name: "toc", widget: "boolean", default: false}
       - {label: "Comments", name: "comments", widget: "boolean", default: false}
@@ -53,7 +53,7 @@ collections:
           - {label: "Image caption", name: "caption", widget: "string"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Reading time", name: "read_time", widget: "boolean", default: true}
-      - {label: "Categories", name: "categories", widget: "list", default: ["articles"]}
+      - {label: "Categories", name: "categories", widget: "list", default: ["berita"]}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Table of contents", name: "toc", widget: "boolean", default: false}
       - {label: "Comments", name: "comments", widget: "boolean", default: false}
@@ -80,7 +80,7 @@ collections:
           - {label: "Image caption", name: "caption", widget: "string"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Reading time", name: "read_time", widget: "boolean", default: true}
-      - {label: "Categories", name: "categories", widget: "list", default: ["articles"]}
+      - {label: "Categories", name: "categories", widget: "list", default: ["buku"]}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Table of contents", name: "toc", widget: "boolean", default: false}
       - {label: "Comments", name: "comments", widget: "boolean", default: false}
@@ -107,7 +107,7 @@ collections:
           - {label: "Image caption", name: "caption", widget: "string"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Reading time", name: "read_time", widget: "boolean", default: true}
-      - {label: "Categories", name: "categories", widget: "list", default: ["articles"]}
+      - {label: "Categories", name: "categories", widget: "list", default: ["materi"]}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Table of contents", name: "toc", widget: "boolean", default: false}
       - {label: "Comments", name: "comments", widget: "boolean", default: false}
@@ -134,7 +134,7 @@ collections:
           - {label: "Image caption", name: "caption", widget: "string"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Reading time", name: "read_time", widget: "boolean", default: true}
-      - {label: "Categories", name: "categories", widget: "list", default: ["articles"]}
+      - {label: "Categories", name: "categories", widget: "list", default: ["soal"]}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Table of contents", name: "toc", widget: "boolean", default: false}
       - {label: "Comments", name: "comments", widget: "boolean", default: false}
@@ -161,7 +161,7 @@ collections:
           - {label: "Image caption", name: "caption", widget: "string"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Reading time", name: "read_time", widget: "boolean", default: true}
-      - {label: "Categories", name: "categories", widget: "list", default: ["articles"]}
+      - {label: "Categories", name: "categories", widget: "list", default: ["rpp"]}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Table of contents", name: "toc", widget: "boolean", default: false}
       - {label: "Comments", name: "comments", widget: "boolean", default: false}
@@ -188,7 +188,7 @@ collections:
           - {label: "Image caption", name: "caption", widget: "string"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Reading time", name: "read_time", widget: "boolean", default: true}
-      - {label: "Categories", name: "categories", widget: "list", default: ["articles"]}
+      - {label: "Categories", name: "categories", widget: "list", default: ["teori"]}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Table of contents", name: "toc", widget: "boolean", default: false}
       - {label: "Comments", name: "comments", widget: "boolean", default: false}
