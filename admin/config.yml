@@ -6,7 +6,7 @@ backend:
   branch: master
 
 media_folder: "img/"
-public_folder: "/img"
+public_folder: "/img/uploads"
 
 collections:
   - name: "artikel"
