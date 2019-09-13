@@ -11,14 +11,14 @@ collections:
     folder: "_posts/artikel"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    field:
+    fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
         name: "image"
         widget: "object"
-        field:
+        fields:
           - {label: "Path", name: "path", widget: "image"}
           - {label: "Feature image path", name: "feature", widget: "image"}
           - {label: "Image width", name: "width", widget: "number", valueType: "int"}
@@ -38,14 +38,14 @@ collections:
     folder: "_posts/berita"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    field:
+    fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
         name: "image"
         widget: "object"
-        field:
+        fields:
           - {label: "Path", name: "path", widget: "image"}
           - {label: "Feature image path", name: "feature", widget: "image"}
           - {label: "Image width", name: "width", widget: "number", valueType: "int"}
@@ -65,14 +65,14 @@ collections:
     folder: "_posts/buku"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    field:
+    fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
         name: "image"
         widget: "object"
-        field:
+        fields:
           - {label: "Path", name: "path", widget: "image"}
           - {label: "Feature image path", name: "feature", widget: "image"}
           - {label: "Image width", name: "width", widget: "number", valueType: "int"}
@@ -92,14 +92,14 @@ collections:
     folder: "_posts/materi"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    field:
+    fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
         name: "image"
         widget: "object"
-        field:
+        fields:
           - {label: "Path", name: "path", widget: "image"}
           - {label: "Feature image path", name: "feature", widget: "image"}
           - {label: "Image width", name: "width", widget: "number", valueType: "int"}
@@ -119,14 +119,14 @@ collections:
     folder: "_posts/soal"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    field:
+    fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
         name: "image"
         widget: "object"
-        field:
+        fields:
           - {label: "Path", name: "path", widget: "image"}
           - {label: "Feature image path", name: "feature", widget: "image"}
           - {label: "Image width", name: "width", widget: "number", valueType: "int"}
@@ -146,14 +146,14 @@ collections:
     folder: "_posts/rpp"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    field:
+    fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
         name: "image"
         widget: "object"
-        field:
+        fields:
           - {label: "Path", name: "path", widget: "image"}
           - {label: "Feature image path", name: "feature", widget: "image"}
           - {label: "Image width", name: "width", widget: "number", valueType: "int"}
@@ -173,14 +173,14 @@ collections:
     folder: "_posts/teori"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    field:
+    fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
         name: "image"
         widget: "object"
-        field:
+        fields:
           - {label: "Path", name: "path", widget: "image"}
           - {label: "Feature image path", name: "feature", widget: "image"}
           - {label: "Image width", name: "width", widget: "number", valueType: "int"}
