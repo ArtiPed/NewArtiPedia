@@ -1,6 +1,8 @@
 backend:
-  name: github
-  repo: ArtiPedia/NewArtiPedia.github.io
+  name: git-gateway
+  accept_roles: #optional - accepts all users if left out
+    - admin
+    - editor
   branch: master
 
 media_folder: "img/"
