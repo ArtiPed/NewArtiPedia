@@ -51,7 +51,19 @@ defaults:
     image: twitter-card.png
     author: you
     avatar: /img/you.jpg
-    
+- scope:
+    path: _posts/buku
+    type: posts
+  values:
+    layout: post
+    category: buku
+    read_time: true
+    comments: true
+    support: true
+    breadcrumbs:
+      - label: "Buku"
+        url: /buku/
+
 plugins:
 - jekyll-avatar
 - jekyll-feed
