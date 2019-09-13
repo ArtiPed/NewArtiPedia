@@ -2358,7 +2358,7 @@ img.rounded,.butedit.w-100 {
 .breadcrumbs {
     display: -webkit-box;
     display: -ms-flexbox;
-    display: flex
+    display: flex;text-align: right;
 }
 
 @media (min-width:48em) {
@@ -2416,8 +2416,4 @@ img.rounded,.butedit.w-100 {
 
 .breadcrumbs .breadcrumb span {
     padding-left: 1.25rem
-}
-
-nav .breadcrumbs {
-    margin-top: 1.0875rem
 }
