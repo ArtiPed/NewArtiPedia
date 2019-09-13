@@ -2371,7 +2371,7 @@ img.rounded,.butedit.w-100 {
 }
 
 .breadcrumbs .breadcrumb:first-child {
-    border-left: 2px solid #000
+    border-left: 2px solid #333
 }
 
 @media (max-width:47.99875em) {
@@ -2392,12 +2392,12 @@ img.rounded,.butedit.w-100 {
     display: block;
     content: ''
 }
-
 .breadcrumbs .breadcrumb a:before {
     top: 50%;
-    width: 1rem;
+    width: 85%;
     height: 2px;
-    background-color: #000
+    overflow: hidden;
+    background-color: #333;
 }
 
 .breadcrumbs .breadcrumb a:after {
