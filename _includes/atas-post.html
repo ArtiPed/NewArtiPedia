@@ -53,7 +53,7 @@
                 </div>
                 {% if page.image %}
                 <div class="col-md-6 pr-0 align-self-center">
-                    <img class="rounded lazyload" src="/img/low/twitter-card.png" data-src="/img/{{page.image}}" alt="{{ page.title }}"/>
+                    <img class="rounded lazyload" src="/img/low/twitter-card.png" data-src="/img/{{page.image | replace: '/img/',''}}" alt="{{ page.title }}"/>
                 </div>
                 {% endif %}
             </div>
