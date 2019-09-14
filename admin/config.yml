@@ -128,7 +128,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   
   - name: "panduan"
-    label: "panduan"
+    label: "Panduan"
     folder: "_docs"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
