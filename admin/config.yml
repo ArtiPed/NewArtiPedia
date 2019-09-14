@@ -15,18 +15,9 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - label: "Image"
-        name: "image"
-        widget: "object"
-        fields:
-          - {label: "Path", name: "path", widget: "image"}
-          - {label: "Feature image path", name: "feature", widget: "image"}
-          - {label: "Image width", name: "width", widget: "number", valueType: "int"}
-          - {label: "Image height", name: "height", widget: "number", valueType: "int"}
-          - {label: "Image caption", name: "caption", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
-
       - {label: "Body", name: "body", widget: "markdown"}
       
   - name: "berita"
@@ -38,18 +29,9 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - label: "Image"
-        name: "image"
-        widget: "object"
-        fields:
-          - {label: "Path", name: "path", widget: "image"}
-          - {label: "Feature image path", name: "feature", widget: "image"}
-          - {label: "Image width", name: "width", widget: "number", valueType: "int"}
-          - {label: "Image height", name: "height", widget: "number", valueType: "int"}
-          - {label: "Image caption", name: "caption", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
-
       - {label: "Body", name: "body", widget: "markdown"}
       
   - name: "buku"
@@ -61,18 +43,9 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - label: "Image"
-        name: "image"
-        widget: "object"
-        fields:
-          - {label: "Path", name: "path", widget: "image"}
-          - {label: "Feature image path", name: "feature", widget: "image"}
-          - {label: "Image width", name: "width", widget: "number", valueType: "int"}
-          - {label: "Image height", name: "height", widget: "number", valueType: "int"}
-          - {label: "Image caption", name: "caption", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
-
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "materi"
@@ -84,20 +57,11 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - label: "Image"
-        name: "image"
-        widget: "object"
-        fields:
-          - {label: "Path", name: "path", widget: "image"}
-          - {label: "Feature image path", name: "feature", widget: "image"}
-          - {label: "Image width", name: "width", widget: "number", valueType: "int"}
-          - {label: "Image height", name: "height", widget: "number", valueType: "int"}
-          - {label: "Image caption", name: "caption", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
-
       - {label: "Body", name: "body", widget: "markdown"}
-
+      
   - name: "soal"
     label: "Soal"
     folder: "_posts/soal"
@@ -107,20 +71,11 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - label: "Image"
-        name: "image"
-        widget: "object"
-        fields:
-          - {label: "Path", name: "path", widget: "image"}
-          - {label: "Feature image path", name: "feature", widget: "image"}
-          - {label: "Image width", name: "width", widget: "number", valueType: "int"}
-          - {label: "Image height", name: "height", widget: "number", valueType: "int"}
-          - {label: "Image caption", name: "caption", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
-
       - {label: "Body", name: "body", widget: "markdown"}
-
+      
   - name: "rpp"
     label: "Rpp"
     folder: "_posts/rpp"
@@ -130,20 +85,11 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - label: "Image"
-        name: "image"
-        widget: "object"
-        fields:
-          - {label: "Path", name: "path", widget: "image"}
-          - {label: "Feature image path", name: "feature", widget: "image"}
-          - {label: "Image width", name: "width", widget: "number", valueType: "int"}
-          - {label: "Image height", name: "height", widget: "number", valueType: "int"}
-          - {label: "Image caption", name: "caption", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
-
       - {label: "Body", name: "body", widget: "markdown"}
-
+      
   - name: "teori"
     label: "Teori"
     folder: "_posts/teori"
@@ -153,19 +99,11 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - label: "Image"
-        name: "image"
-        widget: "object"
-        fields:
-          - {label: "Path", name: "path", widget: "image"}
-          - {label: "Feature image path", name: "feature", widget: "image"}
-          - {label: "Image width", name: "width", widget: "number", valueType: "int"}
-          - {label: "Image height", name: "height", widget: "number", valueType: "int"}
-          - {label: "Image caption", name: "caption", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
-
+      
   - name: 'profil'
     label: 'Profil'
     delete: false # Prevent users from deleting documents in this collection
