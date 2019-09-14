@@ -33,7 +33,6 @@ collections:
     output: true
   posts:
     permalink: "/:categories/:title.html"
-    redirect_from: "/wiki/:title.html"
     output: true
   tutorials:
     output: true
@@ -188,5 +187,4 @@ compress_html:
 paginate: 16
 paginate_path: /page/:num/
   
-include:
-- .htaccess
+include: [.htaccess,_redirects]

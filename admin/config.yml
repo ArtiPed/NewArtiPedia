@@ -1,12 +1,9 @@
 backend:
   name: git-gateway
-  accept_roles: #optional - accepts all users if left out
-    - admin
-    - editor
   branch: master
 
 media_folder: "img/"
-public_folder: "/img"
+public_folder: "/img/"
 
 collections:
   - name: "artikel"
@@ -15,9 +12,9 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
       - label: "Image"
         name: "image"
         widget: "object"
@@ -28,10 +25,146 @@ collections:
           - {label: "Image height", name: "height", widget: "number", valueType: "int"}
           - {label: "Image caption", name: "caption", widget: "string"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
-      - {label: "Reading time", name: "read_time", widget: "boolean", default: true}
-      - {label: "Categories", name: "categories", widget: "list", default: ["articles"]}
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Table of contents", name: "toc", widget: "boolean", default: false}
-      - {label: "Comments", name: "comments", widget: "boolean", default: false}
-      - {label: "Support block", name: "support", widget: "boolean", default: false}
+
       - {label: "Body", name: "body", widget: "markdown"}
+      
+  - name: "berita"
+    label: "Berita"
+    folder: "_posts/berita"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "object"
+        fields:
+          - {label: "Path", name: "path", widget: "image"}
+          - {label: "Feature image path", name: "feature", widget: "image"}
+          - {label: "Image width", name: "width", widget: "number", valueType: "int"}
+          - {label: "Image height", name: "height", widget: "number", valueType: "int"}
+          - {label: "Image caption", name: "caption", widget: "string"}
+      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "list"}
+
+      - {label: "Body", name: "body", widget: "markdown"}
+      
+  - name: "buku"
+    label: "Buku"
+    folder: "_posts/buku"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "object"
+        fields:
+          - {label: "Path", name: "path", widget: "image"}
+          - {label: "Feature image path", name: "feature", widget: "image"}
+          - {label: "Image width", name: "width", widget: "number", valueType: "int"}
+          - {label: "Image height", name: "height", widget: "number", valueType: "int"}
+          - {label: "Image caption", name: "caption", widget: "string"}
+      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "list"}
+
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "materi"
+    label: "Materi"
+    folder: "_posts/materi"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "object"
+        fields:
+          - {label: "Path", name: "path", widget: "image"}
+          - {label: "Feature image path", name: "feature", widget: "image"}
+          - {label: "Image width", name: "width", widget: "number", valueType: "int"}
+          - {label: "Image height", name: "height", widget: "number", valueType: "int"}
+          - {label: "Image caption", name: "caption", widget: "string"}
+      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "list"}
+
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "soal"
+    label: "Soal"
+    folder: "_posts/soal"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "object"
+        fields:
+          - {label: "Path", name: "path", widget: "image"}
+          - {label: "Feature image path", name: "feature", widget: "image"}
+          - {label: "Image width", name: "width", widget: "number", valueType: "int"}
+          - {label: "Image height", name: "height", widget: "number", valueType: "int"}
+          - {label: "Image caption", name: "caption", widget: "string"}
+      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "list"}
+
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "rpp"
+    label: "Rpp"
+    folder: "_posts/rpp"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "object"
+        fields:
+          - {label: "Path", name: "path", widget: "image"}
+          - {label: "Feature image path", name: "feature", widget: "image"}
+          - {label: "Image width", name: "width", widget: "number", valueType: "int"}
+          - {label: "Image height", name: "height", widget: "number", valueType: "int"}
+          - {label: "Image caption", name: "caption", widget: "string"}
+      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "list"}
+
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "teori"
+    label: "Teori"
+    folder: "_posts/teori"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "object"
+        fields:
+          - {label: "Path", name: "path", widget: "image"}
+          - {label: "Feature image path", name: "feature", widget: "image"}
+          - {label: "Image width", name: "width", widget: "number", valueType: "int"}
+          - {label: "Image height", name: "height", widget: "number", valueType: "int"}
+          - {label: "Image caption", name: "caption", widget: "string"}
+      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "list"}
+
+      - {label: "Body", name: "body", widget: "markdown"}
+
+

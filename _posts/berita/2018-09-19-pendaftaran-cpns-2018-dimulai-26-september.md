@@ -1,13 +1,16 @@
 ---
-title: "Pendaftaran CPNS 2018 Dimulai Serentak 26 September"
 layout: news_item
-comments: true
-date: "2018-09-19 12:48:09"
-description: Pelaksanaan Tahapan CPNS 2018 diantaranya Pendaftaran CPNS yang akan dimulai secara serentak pada 26 September 2018 mendatang.
-author: artipedia
+title: Pendaftaran CPNS 2018 Dimulai Serentak 26 September
+description: >-
+  Pelaksanaan Tahapan CPNS 2018, Pendaftaran CPNS yang akan dimulai secara
+  serentak pada 26 September 2018 mendatang.
 image: pendaftaran-cpns.jpg
-tags: [cpns,cpns2018]
+last_modified_date: 2019-09-13T19:21:12.369Z
+tags:
+  - cpns
+  - cpns2018
 ---
+<div class="note">berita ini sudah usang silahkan cari berita tentang CPNS terbaru</div>
 
 * TOC
 {:toc}
