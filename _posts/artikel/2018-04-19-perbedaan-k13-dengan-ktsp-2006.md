@@ -1,11 +1,15 @@
 ---
 layout: news_item
-title: "Perbedaan Kurikulum 2013 dengan KTSP 2006"
-date: "2018-04-19 11:49:09"
+title: Perbedaan Kurikulum 2013 dengan KTSP 2006
+description: >-
+  Kurikulum 2013 dan kurikulum KTSP 2006 memiliki perbedaan  signifikan, salah
+  satunya dalam muatan/komponen-komponen masing-masing kurikulum.
+last_modified_date: 2019-09-14T16:59:14.729Z
 author: artipedia
-tags: [referensi,pendidikan,kurikulum]
-description: Kurikulum 2013 dan kurikulum KTSP 2006 memiliki perbedaan yang signifikan, salah satunya dalam muatan/komponen-komponen masing-masing kurikulum.
-comments: true
+tags:
+  - referensi
+  - pendidikan
+  - kurikulum
 ---
 
 * TOC
