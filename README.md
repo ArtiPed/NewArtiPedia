@@ -9,7 +9,7 @@ Cara berkontribusi
 1. Mendaftar di ArtiPedia : <a href="https://artipedia.id/admin">Daftar</a>
 2. Verifikasi email
 3. Masuk ke halaman <a href="https://artipedia.id/admin">dasboard </a>
-4. Klik New untuk membuat posting bari atau edit untuk memposting
+4. Klik New untuk membuat posting baru atau edit untuk memposting
 5. Save / Publish
 
 Salam..
