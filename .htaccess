@@ -978,7 +978,7 @@ RewriteRule [^/]$ %{REQUEST_URI}.html [QSA,L]
 # ----------------------------------------------------------------------
 # Remove trailing double slashes //
 # ----------------------------------------------------------------------
-
+RedirectMatch permanent
 redirect 301 /wiki/tunagrahita.html /teori/tunagrahita
 redirect 301 /wiki/buku-siswa-kelas-9-smp-mapel-b-indonesia-revisi-2018.html	/buku/buku-siswa-kelas-9-smp-mapel-b-indonesia-revisi-2018
 redirect 301 /wiki/buku-kelas-12-kurikulum-2013-revisi-2018.html	/buku/buku-kelas-12-kurikulum-2013-revisi-2018
