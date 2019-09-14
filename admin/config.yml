@@ -16,7 +16,10 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list"}
@@ -31,7 +34,10 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -62,7 +68,10 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -76,7 +85,10 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -90,7 +102,10 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -104,7 +119,10 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "news_item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -128,7 +146,10 @@ collections:
               - { label: "Nickname", name: "nickname", widget: "string", hint: "Nickname" }
               - { label: "Name", name: "name", widget: "string", hint: "First and Last" }
               - { label: "Slug", name: "slug", widget: "string", hint: "example firs-lastname" }
-              - { label: "Avatar", name: "avatar", widget: "image", hint: "First and Last" }
+              - label: "Avatar"
+                name: "avatar"
+                widget: "image"
+                required: false
               - { label: "Bio", name: "bio", widget: "string", hint: "Bio Description" }
               - { label: "Email", name: "email", widget: "string", hint: "contoh@gmail.com" }
               - { label: "Twitter", name: "twitter", widget: "string", hint: "contoh artipedia" }
