@@ -126,7 +126,24 @@ collections:
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
-      
+  
+  - name: "panduan"
+    label: "panduan"
+    folder: "_docs"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "docs"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
   - name: 'profil'
     label: 'Profil'
     delete: false # Prevent users from deleting documents in this collection
