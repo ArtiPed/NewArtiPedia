@@ -5,6 +5,13 @@
 Meskipun ini adalah sumber terbuka saya sarankan anda untuk tidak menggunakan tema web ini, apalagi dengan semua kode dan kontennya..
 Tetapi anda boleh berkontribusi di web ini, mengedit, atau memperbarui konten di blog ini..
 
+Cara berkontribusi
+1. Mendaftar di ArtiPedia : <a href="https://artipedia.id/admin">Daftar</a>
+2. Verifikasi email
+3. Masuk ke halaman <a href="https://artipedia.id/admin">dasboard </a>
+4. Klik New untuk membuat posting bari atau edit untuk memposting
+5. Save / Publish
+
 Salam..
 
 Pasang Iklan dll hub.
