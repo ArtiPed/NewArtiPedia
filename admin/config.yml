@@ -164,7 +164,29 @@ collections:
           - {label: "Image caption", name: "caption", widget: "string"}
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
-
       - {label: "Body", name: "body", widget: "markdown"}
 
-
+  - name: 'profil'
+    label: 'Profil'
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - name: "penulis"
+        label: "Penulis"
+        file: "_data/authors.yml"
+        description: "Author descriptions"
+        fields:
+          - name: authors
+            label: Authors
+            label_singular: "Author"
+            widget: list
+            fields:
+              - { label: "Nickname", name: "nickname", widget: "string", hint: "Nickname" }
+              - { label: "Name", name: "name", widget: "string", hint: "First and Last" }
+              - { label: "Slug", name: "slug", widget: "string", hint: "example firs-lastname" }
+              - { label: "Avatar", name: "avatar", widget: "image", hint: "First and Last" }
+              - { label: "Bio", name: "bio", widget: "string", hint: "Bio Description" }
+              - { label: "Email", name: "email", widget: "string", hint: "contoh@gmail.com" }
+              - { label: "Twitter", name: "twitter", widget: "string", hint: "contoh artipedia" }
+              - { label: "Facebook", name: "facebook", widget: "string", hint: "contoh artipedia" }
