@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/58c2a979-1d56-44a5-9608-65a8f29d92e6/deploy-status)](https://app.netlify.com/sites/artipedia/deploys)
+
 # ArtiPedia
 
 Meskipun ini adalah sumber terbuka saya sarankan anda untuk tidak menggunakan tema web ini, apalagi dengan semua kode dan kontennya..
