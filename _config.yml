@@ -32,7 +32,7 @@ collections:
     permalink: "/:collection/:path/"
     output: true
   posts:
-    permalink: "/:categories/:title.html"
+    permalink: "/:categories/:title"
     output: true
   tutorials:
     output: true
