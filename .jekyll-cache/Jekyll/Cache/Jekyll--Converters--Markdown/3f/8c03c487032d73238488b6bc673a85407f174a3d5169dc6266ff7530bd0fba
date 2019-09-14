@@ -1,0 +1,28 @@
+I"ì<div class="container">
+<div class="row gap-y listrecent listrecent listauthor">
+    
+        <div class="item-author">
+            <div class="pt-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="you" src="https://artipedia.id/img/you.png" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="https://artipedia.id/author-you">
+            <h2 class="text-dark mb-0" style="text-transform: capitalize;"> you </h2> </a>
+             <a href="https://artipedia.id/author-you">
+                 <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small></a>
+            <div class="excerpt">Hi, I am wahyu, the owner https://artipeda.id, https://www.livecointrackers.com, dan https://coinsprices.net, Website Crypto Currency </div>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+            <a target="_blank" href="https://twitter.com/wahyu37853583"><i class="fa fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href="https://coinsprices.net"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp; 
+                <a target="_blank" href="https://www.facebook.com/you.w4hyou"><i class="fa fa-facebook text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+    </div>
+</div>
+:ET

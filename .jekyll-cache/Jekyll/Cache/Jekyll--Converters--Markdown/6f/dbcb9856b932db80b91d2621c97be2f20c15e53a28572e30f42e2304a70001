@@ -1,4 +1,4 @@
-I"Â³	<div id="search-container">
+I"³	<div id="search-container">
         <form id="search-input" role="search" method="get" action="/search/">
         <input type="text" id="search-input" name="cari" placeholder="search..." />
         <button type="submit" title="Submit your search query." class="searchbox__submit">
