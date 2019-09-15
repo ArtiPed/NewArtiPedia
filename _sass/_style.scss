@@ -2393,7 +2393,7 @@ img.rounded,.butedit.w-100 {
     content: ''
 }
 .breadcrumbs .breadcrumb a:before {
-    top: 50%;
+    top: 40%;
     width: 85%;
     height: 2px;
     overflow: hidden;
@@ -2402,7 +2402,7 @@ img.rounded,.butedit.w-100 {
 
 .breadcrumbs .breadcrumb a:after {
     left: -2px;
-    bottom: 0;
+    top: 0;
     width: calc(1rem + 2px);
     height: calc(50% - 2px);
     background-color: #fff
