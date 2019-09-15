@@ -1,7 +1,8 @@
 backend:
   name: git-gateway
   branch: master
-  logo: https://artipedia.id/img/logos.png
+  
+logo_url: https://artipedia.id/img/logos.png
   
 media_folder: "img/"
 public_folder: "/img/"
