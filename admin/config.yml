@@ -4,7 +4,7 @@ backend:
 
 media_folder: "img/"
 public_folder: "/img/"
-
+logo: https://artipedia.id/img/logos.png
 publish_mode: editorial_workflow
 collections:
   - name: "artikel"
