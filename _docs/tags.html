@@ -13,8 +13,6 @@ Halaman ini berisi posting yang dikelompokkan berdasarkan kategori tertentu
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <div id="#{{ tag_name | slugize }}"></div>
-    <p></p>
-    
     <h3 class="category-head"><i class="fa fa-tags" aria-hidden="true"></i> {{ tag_name }}</h3>
  
     <ol class="arti">
