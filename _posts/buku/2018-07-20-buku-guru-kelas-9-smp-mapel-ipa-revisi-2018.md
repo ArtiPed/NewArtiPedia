@@ -5,7 +5,7 @@ title: "Buku Guru Kelas 9 Mapel IPA Revisi 2018"
 date: "2018-07-20 01:49:09"
 description: Buku Guru Kelas 9 SMP/MTs Mapel IPA Revisi 2018 merupakan buku bagi guru kurikulum 2013 sebagai pedoman guru dalam pembelajaran Ilmu Pengetahuan Alam.
 author: artipedia
-tags: [buku,pendidikan,smp,guru,revisi2018,kelasIX]
+tags: [buku,pendidikan,smp,guru,buku-guru,kelas-9,revisi-2018,mapel]
 published: true
 ---
 * TOC

@@ -5,7 +5,7 @@ comments: true
 date: "2018-06-25 11:48:09"
 description: Buku K13 - Buku Guru kelas 3 tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018 merupakan buku paket pelajaran dengan model tematik kurikulum 2013 revisi 2018.
 author: artipedia
-tags: [buku,pendidikan,sd,guru,kelasIII,revisi2018]
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-3,revisi-2018,tematik]
 published: true
 ---
 * TOC

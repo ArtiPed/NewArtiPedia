@@ -5,7 +5,7 @@ comments: true
 date: "2018-06-02 12:48:09"
 description: Buku guru kelas 2 tema 2 Bermain dilingkunganku merupakan buku kurikulum  2013 revisi 2017 yang digunakan sebagai penunjang bagi guru dalam melaksanakan pembelajaran di kelas.
 author: artipedia
-tags: [buku,pendidikan,guru]
+tags: [buku,pendidikan,guru,buku-guru,kelas-2,tematik]
 published: true
 image: bermain-dilingkunganku.jpg
 redirect_from: /wiki/buku-guru-kelas-2-kurtilas-tema-bermain-dilingkungaku.html

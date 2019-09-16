@@ -5,7 +5,7 @@ comments: true
 date: "2018-06-21 03:48:09"
 description: Buku guru kelas 1 tema 1 Diriku merupakan buku paket kurikulum 2013 revisi 2017 yang digunakan sebagai panduan penggunaan buku siswa, penunjang bagi guru dalam menyusun RPP dan Melaksanakan pembelajaran dikelas.
 author: artipedia
-tags: [buku,pendidikan,sd,guru]
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-1,tematik]
 published: true
 image: buku-guru-kelas-1-tema-diriku.png
 ---

@@ -5,7 +5,7 @@ comments: true
 date: "2018-06-24 03:48:09"
 description: Buku siswa kelas 1 tema 1 Diriku merupakan buku paket tematik kurikulum 2013 revisi 2017 yang diperuntukkan bagi siswa kelas 1 sekolah dasar sebagai penunjang dalam melaksanakan aktivitas pembelajaran dikelas.
 author: artipedia
-tags: [buku,pendidikan,sd,siswa,kelasI]
+tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-1,tematik]
 published: true
 image: buku-guru-kelas-1-tema-diriku.png
 ---

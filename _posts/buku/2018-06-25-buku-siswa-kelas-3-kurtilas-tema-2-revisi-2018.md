@@ -5,7 +5,7 @@ comments: true
 date: "2018-06-24 04:49:09"
 description: Buku siswa kelas 3 tema 2 Menyayangi Tumbuhan dan Hewan Revisi 2018 merupakan buku paket tematik kurikulum 2013 revisi terbaru tahun ajaran 2018/2019 terdiri dari 4 subtema 1. Manfaat Tumbuhan Bagi Kehidupan Manusia, 2. Manfaat Hewan Bagi Kehidupan Manusia, 3. Menyayangi Tumbuhan, 4. Menyayangi Hewan.
 author: artipedia
-tags: [buku,pendidikan,sd,siswa,revisi2018,kelasIII]
+tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik]
 published: true
 image: buku-siswa-sd.png
 ---

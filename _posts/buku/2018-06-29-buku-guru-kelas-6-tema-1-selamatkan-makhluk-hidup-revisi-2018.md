@@ -6,7 +6,7 @@ date: "2018-06-29 04:49:09"
 description: Download Buku Guru Tema 1 kelas 6. Tema 1 Selamatkan Makhluk Hidup Revisi 2018 terdiri dari 3 subTema. Buku ini adalah buku guru untuk tingkat satuan pendidikan dasar SD Kelas 6
 author: artipedia
 image: buku-guru-kelas-6-tema-1-revisi-2018.png
-tags: [buku,pendidikan,sd,guru,revisi2018,kelasVI]
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-6,revisi-2018,tematik]
 published: true
 ---
 * TOC

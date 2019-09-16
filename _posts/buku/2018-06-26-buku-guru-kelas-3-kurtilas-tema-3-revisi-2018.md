@@ -5,7 +5,7 @@ comments: true
 date: "2018-06-26 04:49:09"
 description: Download Buku Guru kelas 3 Tema 3 Benda di Sekitarku Revisi 2018, Buku paket tematik kurikulum 2013 revisi terbaru tahun ajaran 2018/2019 terdiri dari 4 subTema 1. Aneka Benda di Sekitarku, 2. Wujud Benda, 3. Perubahan Wujud Benda, 4. Keajaiban Perubahan Wujud di Sekitarku.
 author: artipedia
-tags: [buku,pendidikan,sd,guru,revisi2018,kelasIII]
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-3,revisi-2018,tematik]
 published: true
 ---
 * TOC

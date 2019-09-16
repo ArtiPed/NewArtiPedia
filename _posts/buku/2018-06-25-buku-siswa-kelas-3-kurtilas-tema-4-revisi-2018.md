@@ -5,7 +5,7 @@ comments: true
 date: "2018-06-25 04:49:09"
 description: Buku siswa kelas 3 Tema 4 Kewajiban dan Hakku Revisi 2018, buku paket tematik kurikulum 2013 revisi terdiri dari 4 subTema 1. Kewajiban dan Hakku di Rumah, 2. Kewajiban dan Hakku di Sekolah, 3. Kewajiban dan Hakku dalam Bertetangga, 4. Kewajiban dan Hakku sebagai Warga Negara.
 author: artipedia
-tags: [buku,pendidikan,sd,siswa,revisi2018,kelasIII]
+tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik]
 published: true
 image: buku-siswa-sd.png
 ---

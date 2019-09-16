@@ -5,7 +5,7 @@ comments: true
 date: "2018-06-25 04:49:09"
 description: Download Buku siswa kelas 3 Tema 3 Benda di Sekitarku Revisi 2018 terdiri dari 4 subTema 1. Aneka Benda di Sekitarku, 2. Wujud Benda, 3. Perubahan Wujud Benda, 4. Keajaiban Perubahan Wujud di Sekitarku.
 author: artipedia
-tags: [buku,pendidikan,sd,siswa,revisi2018,kelasIII]
+tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik]
 published: true
 image: buku-siswa-sd.png
 ---

@@ -5,7 +5,7 @@ comments: true
 date: "2018-06-21 03:48:09"
 description: Buku guru kelas 2 tema 1 Hidup Rukun merupakan buku kurikulum 2013 revisi 2017 yang digunakan oleh guru sebagai penunjang dan panduan penggunaan buku siswa kelas 2 SD.
 author: artipedia
-tags: [buku,pendidikan,sd]
+tags: [buku,pendidikan,sd,buku-guru,kelas-2,tematik]
 published: true
 ---
 * TOC

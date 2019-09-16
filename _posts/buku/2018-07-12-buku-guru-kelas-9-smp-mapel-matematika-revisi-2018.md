@@ -5,7 +5,7 @@ comments: true
 date: "2018-07-12 04:49:09"
 description: Buku paket Kurikulum 2013, Buku Guru Kelas 9 SMP Mapel Matematika Revisi 2018 merupakan buku bagi guru matematika kurikulum 2013 revisi 2018 sebagai penunjang pelajaran di kelas.
 author: artipedia
-tags: [buku,pendidikan,smp,guru,revisi2018,kelasIX]
+tags: [buku,pendidikan,smp,guru,buku-guru,kelas-9,revisi-2018,mapel]
 published: true
 ---
 * TOC

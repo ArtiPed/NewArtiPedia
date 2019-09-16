@@ -5,7 +5,7 @@ comments: true
 date: "2018-07-20 04:49:09"
 description: Buku paket K13 Buku Guru Kelas 9 SMP Mapel B. Inggris Revisi 2018 merupakan buku bagi guru kurikulum 2013 sebagai penunjang pembelajaran Bahasa Inggris.
 author: artipedia
-tags: [buku,pendidikan,smp,guru,revisi2018,kelasIX]
+tags: [buku,pendidikan,smp,guru,buku-siswa,kelas-9,revisi-2018,mapel]
 published: true
 ---
 * TOC
