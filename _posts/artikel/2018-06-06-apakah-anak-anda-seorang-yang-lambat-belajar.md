@@ -6,7 +6,7 @@ date: "2018-06-06 20:41:47"
 description: Lamban belajar adalah anak-anak yang memerlukan sedikit lebih banyak waktu daripada yang lain untuk memahami konsep baik itu dalam mengikuti pembelajaran di sekolah atau dalam mempelajari hal baru di rumah.
 author: artipedia
 image: apakah-anak-saya-lamban-belajar.jpg
-tags: [referensi,kesulitan belajar,abk, orang tua]
+tags: [referensi,kesulitan-belajar,abk, orang-tua]
 ---
 * TOC
 {:toc}
