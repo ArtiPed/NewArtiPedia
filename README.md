@@ -1,5 +1,6 @@
-[![GitHub issues](https://img.shields.io/github/issues/ArtiPedia/NewArtiPedia)](https://github.com/ArtiPedia/NewArtiPedia/issues)
+[![GitHub stars](https://img.shields.io/github/stars/ArtiPedia/NewArtiPedia)](https://github.com/ArtiPedia/NewArtiPedia/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ArtiPedia/NewArtiPedia)](https://github.com/ArtiPedia/NewArtiPedia/network)
+[![GitHub issues](https://img.shields.io/github/issues/ArtiPedia/NewArtiPedia)](https://github.com/ArtiPedia/NewArtiPedia/issues)
 [![GitHub license](https://img.shields.io/github/license/ArtiPedia/NewArtiPedia)](https://github.com/ArtiPedia/NewArtiPedia/blob/master/LICENSE)
 [![Backers on Open Collective](https://opencollective.com/artipedia/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/artipedia/sponsors/badge.svg)](#sponsors)
