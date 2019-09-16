@@ -3,7 +3,7 @@
 ![Issues](https://img.shields.io/github/issues/ArtiPedia/NewArtiPedia)
 ![Security](https://hakiri.io/github/ArtiPedia/NewArtiPedia/master.svg)
 [![Backers on Open Collective](https://opencollective.com/artipedia/backers/badge.svg)](#backers)
-[![Sponsors on Open Collective](https://opencollective.com/jekyll/sponsors/badge.svg)](#sponsors)
+[![Sponsors on Open Collective](https://opencollective.com/artipedia/sponsors/badge.svg)](#sponsors)
 
 
 
