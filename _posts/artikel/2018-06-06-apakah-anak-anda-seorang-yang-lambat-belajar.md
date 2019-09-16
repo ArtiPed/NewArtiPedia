@@ -25,7 +25,7 @@ Anak anak lamban belajar (*slow learner*) umumnya memiliki karakteristik seperti
 3. **Kepribadian**: Mudah frustasi, emosi kecemasan yang berlebihan, agresif, rendah diri yang berlebihan, dan ketidakstabilan emosi.
 4. **Pembelajaran**: Anak umumnya membutuhkan waktu yang lebih dalam dalam memproses informasi. Mereka mahir dan fokus dalam beberapa mata pelajaran atau tugas tertentu, tetapi memerlukan latihan tambahan untuk belajar dan melatih keterampilan baru.
 
-### Perbedaan Antara '[Anak Kesulitan Belajar (Learning disability)](https://artipedia.id/wiki/arti-kesulitan-belajar.html "Arti Kesulitan Belajar")' dan 'Lamban Belajar (low Learners)'
+### Perbedaan Antara '[Anak Kesulitan Belajar (Learning disability)](https://artipedia.id/artikel/arti-kesulitan-belajar.html "Arti Kesulitan Belajar")' dan 'Lamban Belajar (low Learners)'
 
 Seorang anak *slow learner* (lamban belajar) mungkin secara signifikan lebih lambat dalam mencapai tonggak untuk usianya, tetapi perkembangannya akan seimbang. Mereka menunjukkan kapasitas berpikir yang lebih rendah dari anak-anak seusianya, tetapi akan memiliki kemampuan atas tugas dan keterampilan tertentu. Anak lamban belajar, apabila di bawah panduan yang tepat baik itu orang tua atau guru dapat menunjukkan peningkatan yang signifikan. 
 
