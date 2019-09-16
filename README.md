@@ -1,5 +1,12 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/58c2a979-1d56-44a5-9608-65a8f29d92e6/deploy-status)](https://app.netlify.com/sites/artipedia/deploys)
 
+[![Issues](https://img.shields.io/github/issues/ArtiPedia/NewArtiPedia)][issues]
+[![Security](https://hakiri.io/github/ArtiPedia/NewArtiPedia/master.svg)][hakiri]
+[![Backers on Open Collective](https://opencollective.com/artipedia/backers/badge.svg)](#backers)
+[![Sponsors on Open Collective](https://opencollective.com/jekyll/sponsors/badge.svg)](#sponsors)
+
+
+
 # ArtiPedia
 
 Meskipun ini adalah sumber terbuka saya sarankan anda untuk tidak menggunakan tema web ini, apalagi dengan semua kode dan kontennya..
