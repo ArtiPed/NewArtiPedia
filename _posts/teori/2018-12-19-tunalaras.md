@@ -1,12 +1,16 @@
 ---
-title: "Tunalaras (Pengertian, Karakteristik & Klasifikasi)"
 layout: news_item
-comments: true
-date: "2018-12-19 12:48:09"
-description: Apa itu Tunalaras tunalaras adalah mereka yang terganggu perkembangan emosi, menunjukkan adanya konflik dan tekanan batin, menunjukkan kecemasan, penderita neurotis atau bertingkahlaku psikotis.
-author: artipedia
-
-tags: [referensi,abk,tunalaras,pendidikan khusus]
+title: 'Tunalaras (Pengertian, Karakteristik & Klasifikasi)'
+description: >-
+  Apa itu Tunalaras? Tunalaras adalah mereka yang terganggu perkembangan emosi,
+  menunjukkan adanya konflik dan tekanan batin, menunjukkan kecemasan, penderita
+  neurotis atau bertingkahlaku psikotis.
+last_modified_date: 2019-09-16T17:06:15.908Z
+tags:
+  - referensi
+  - abk
+  - tunalaras
+  - pendidikan-khusus
 ---
 
 
