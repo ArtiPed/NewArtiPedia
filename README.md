@@ -1,9 +1,9 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/58c2a979-1d56-44a5-9608-65a8f29d92e6/deploy-status)](https://app.netlify.com/sites/artipedia/deploys)
-
-![Issues](https://img.shields.io/github/issues/ArtiPedia/NewArtiPedia)
-![Security](https://hakiri.io/github/ArtiPedia/NewArtiPedia/master.svg)
+[![GitHub issues](https://img.shields.io/github/issues/ArtiPedia/NewArtiPedia)](https://github.com/ArtiPedia/NewArtiPedia/issues)
+[![GitHub forks](https://img.shields.io/github/forks/ArtiPedia/NewArtiPedia)](https://github.com/ArtiPedia/NewArtiPedia/network)
+[![GitHub license](https://img.shields.io/github/license/ArtiPedia/NewArtiPedia)](https://github.com/ArtiPedia/NewArtiPedia/blob/master/LICENSE)
 [![Backers on Open Collective](https://opencollective.com/artipedia/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/artipedia/sponsors/badge.svg)](#sponsors)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/58c2a979-1d56-44a5-9608-65a8f29d92e6/deploy-status)](https://app.netlify.com/sites/artipedia/deploys)
 
 
 
