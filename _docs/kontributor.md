@@ -16,16 +16,13 @@ Entah Anda seorang mahasiswa, perancang, atau siapa saja, anda bisa berkontribus
 5. Temukan masalah terbuka (terutama yang diberi labelhelp-wanted ), dan kirimkan perbaikan yang diajukan. 
 6. Bantu evaluasi dan meninjau apa yang diusulkan.
 
-Mengirimkan permintaan tarik via github.com Permalink
-Banyak perubahan kecil bisa dilakukan seluruhnya melalui antarmuka web github.com.
+Syarat menjadi kontributor
+1. Registrasi <a href="https://artipedia.id/admin" title="Daftar">Disini</a>
+2. Verifikasi email
+3. Buat Artikel baru dengan tema yang sudah tersedia
+4. Publish artikel anda
+5. Selain itu anda juga dapat mengedit Artikel yang sudah tersedia melalui tombol edit di masing-masing halaman.
 
-1. Klik Edit pada tombol yang terletak di bagian bawah artikel
-2. Buat perubahan yang Anda usulkan
-3. Klik "Mengusulkan perubahan file"
-4. Klik "Buat permintaan tarik"
-5. Tambahkan judul deskriptif dan deskripsi mendetail untuk perubahan yang Anda usulkan. Lebih banyak informasi lebih baik.
-6. Klik "Buat permintaan tarik"
-7. Anda akan secara otomatis berlangganan untuk menerima pembaruan karena orang lain meninjau perubahan yang Anda ajukan dan memberikan masukan.
 
 Setiap kontributor akan dimasukkan ke dalam daftar [kontributor](/author-list "Daftar Kontributor").
 
