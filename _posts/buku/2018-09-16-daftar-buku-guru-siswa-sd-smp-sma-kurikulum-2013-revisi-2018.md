@@ -22,7 +22,7 @@ Pada Tahun 2018 ini, pemerintah menerbitkan kembali **Buku Kurikulum 2013** Revi
 ## Download Buku Kurikulum 2013 Revisi 2018
 Berikut ini adalah daftar [Buku Kurikulum 2013 Revisi 2018](/wiki/daftar-buku-guru-siswa-sd-smp-sma-kurikulum-2013-revisi-2018.html "Buku Guru dan Siswa SD, SMP, SMA Kurikulum 2013 Revisi 2018") terdiri dari buku guru dan buku siswa yang bisa anda unduh di bawah ini:
 
-<ol class="arti">{% for post in site.categories.revisi2018 %}
+<ol class="arti">{% for post in site.tags.revisi-2018 %}
 <li class="{% if page.title == post.title %}current{% endif %}">
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 </li>
