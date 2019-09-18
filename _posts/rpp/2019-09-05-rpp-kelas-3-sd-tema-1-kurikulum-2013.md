@@ -5,7 +5,8 @@ title: "RPP Kelas 3 SD Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup"
 date: "2019-09-05 20:00:47"
 description: RPP K13 Kelas 3 SD Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidu Kurikulum 2013 Revisi 2017 ini sebagai referensi atau contoh dalam membuat program pembelajaran (RPP) tahun Ajaran Baru 2018-2019.
 author: artipedia
-tags: [administrasi,pendidikan,rpp,sd,kelasIII]
+tags: [administrasi,pendidikan,rpp,sd,kelas-3]
+redirect-from: /rpp/rpp-kelas-3-sd-tema-1-kurikulum-2013
 ---
 * TOC
 {:toc}
