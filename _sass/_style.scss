@@ -1899,13 +1899,13 @@ padding-top: 13px;
     border-radius: 0.2rem;
 }
 .btn-outline-success {
-    color: #00b5ad;
+    color: #00b5ad !important;
     background-color: transparent;
     background-image: none;
-    border-color: #00b5ad;
+border: 1px solid  #00b5ad;
 }
 .btn-outline-success:hover {
-    color: #fff;
+    color: #fff !important;
     background-color:#00b5ad;
 }.btn:hover, .btn:focus {
     outline: 0 !important;
