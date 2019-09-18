@@ -5,7 +5,7 @@ title: "RPP Kelas 2 SD Tema 1-8 Kurikulum 2013 Revisi 2017"
 date: "2018-06-18 20:00:47"
 description: RPP K13 Kelas 2 SD Tema 1 s/d 8 Kurikulum 2013 Revisi 2017 ini sebagai referensi atau contoh dalam membuat program pembelajaran (RPP) tahun Ajaran Baru 2018-2019.
 author: artipedia
-tags: [administrasi,pendidikan,rpp,sd]
+tags: [administrasi,pendidikan,rpp,sd,kelas-2]
 ---
 * TOC
 {:toc}
