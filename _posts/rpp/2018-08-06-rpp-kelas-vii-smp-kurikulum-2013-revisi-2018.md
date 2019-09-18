@@ -5,7 +5,7 @@ title: "RPP Kelas VII SMP Kurikulum 2013 Revisi 2018"
 description: RPP K13 Kelas VII SMP Kurikulum 2013 Revisi 2018, Berikut ini adalah contoh RPP K13 Kelas 7.
 date: "2018-08-06 20:48:09 -0500"
 author: artipedia
-tags: [administrasi,rpp,pendidikan,kelasVII,smp]
+tags: [administrasi,rpp,pendidikan,kelas-7,smp]
 ---
 * TOC
 {:toc}
@@ -13,7 +13,9 @@ tags: [administrasi,rpp,pendidikan,kelasVII,smp]
 ## Pendahuluan
 [ArtiPedia](/ "ArtiPedia") - **Rencana Pelaksanaan Pembelajaran (<acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym>)** merupakan salah satu penunjang guru dalam pembelajaran. Rencana pelaksanaan pembelajaran menjadi prasayarat guru dalam melaksanakan pembelajaran agar lebih optimal, karena dengan adanya <acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym> diharapkan kegiatan pembelajaran lebih terprogram. RPP Kurtilas untuk sekolah menengah pertama (SMP) dibuat permata pelajaran bukan dengan model tematik dengan meleburkan beberapa mata pelajaran dalam suatu tema seperti pada tingkat satuan pendidikan dasar (SD) terkecuali pada pendidikan khusus.
 
-*[RPP Kelas VII SMP Kurikulum 2013 Revisi 2018](/wiki/rpp-kelas-vii-smp-kurikulum-2013-revisi-2018.html "RPP Kelas VII SMP Kurikulum 2013 Revisi 2018")* terdiri dari bererapa mata pelajaran.
+*[RPP Kelas VII SMP Kurikulum 2013 Revisi 2018](/rpp/rpp-kelas-vii-smp-kurikulum-2013-revisi-2018.html "RPP Kelas VII SMP Kurikulum 2013 Revisi 2018")* terdiri dari bererapa mata pelajaran.
+
+Rencana pelaksanaan pembelajaran dihadapkan dapat membantu guru dalam mengelola kelas. Berikut ini link download RPP kelas 7
 
 ### RPP Kelas VII
 1. RPP Bahasa Indonesia Kelas 7 K13 Revisi 2018.rar,&nbsp;<a href="https://docs.google.com/uc?export=download&amp;id=1zn5bkuKdkRIR-tf-UmE7wlMpePpTqqes" rel="nofollow" target="_blank">Unduh</a><br />
