@@ -5,6 +5,7 @@ description: >-
   Buku Tematik Terpadu SD/Mi Kelas 3 Kurikulum 2013 Revisi 2018 digunakan dalam
   rangka mensukseskan implementasi kurikulum 2013.
 last_modified_date: 2019-09-18T13:21:13.634Z
+author: artipedia
 tags:
   - buku
   - revisi2018
