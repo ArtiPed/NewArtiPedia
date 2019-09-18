@@ -6,7 +6,7 @@ date: "2018-10-24 13:48:09"
 description: Download Buku Kurikulum 2013 Buku siswa Kelas Kelas 8 (VIII) SMP yang dibagikan kali ini merupakan buku kurikulum  2013 revisi 2017 yang digunakan sebagai penunjang bagi siswa dalam melaksanakan pembelajaran di kelas 9.
 author: artipedia
 image: buku-siswa-sd.png
-tags: [buku,pendidikan,siswa,kelasVIII]
+tags: [buku,pendidikan,siswa,buku-siswa,kelas-8,revisi-2017]
 published: true
 ---
 
