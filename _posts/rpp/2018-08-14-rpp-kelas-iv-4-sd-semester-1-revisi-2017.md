@@ -5,7 +5,7 @@ title: "RPP Kelas IV SD/Mi Semester 1 Kurikulum 2013 Revisi 2017"
 description: RPP Kelas IV SD/Mi Kurikulum 2013 Revisi 2017 dibuat dengan menggunakan model tematik dengan meleburkan beberapa mata pelajaran dalam satu tema.
 date: "2018-08-14 20:48:09 -0500"
 author: artipedia
-tags: [administrasi,rpp,pendidikan,kelasIV,sd,tematik]
+tags: [administrasi,rpp,pendidikan,kelas-4,sd,tematik]
 ---
 * TOC
 {:toc}
@@ -13,9 +13,10 @@ tags: [administrasi,rpp,pendidikan,kelasIV,sd,tematik]
 
 ## Pendahuluan
 **Rencana Pelaksanaan Pembelajaran (<acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym>)** merupakan salah satu penunjang guru dalam pembelajaran. Rencana pelaksanaan pembelajaran menjadi prasayarat guru dalam melaksanakan pembelajaran agar lebih optimal, karena dengan adanya <acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym> diharapkan kegiatan pembelajaran lebih terprogram. RPP Kurtilas untuk sekolah dasar dibuat dengan model tematik dengan meleburkan beberapa mata pelajaran dalam satu tema.
+RPP yang dibagikan dibawah ini adalah RPP kelas 4 SD. 
 
 ### Tema RPP Kelas IV
-<a  href="/wiki/rpp-kelas-iv-4-sd-semester-1-revisi-2017.html">RPP Kurikulum 2013 Kelas 4 Semester 1 Revisi 2017</a>, RPP dan tema-tema kelas 4 semester 1 kurikulum 2013 sebagai berikut:
+<a  href="/rpp/rpp-kelas-iv-4-sd-semester-1-revisi-2017.html">RPP Kurikulum 2013 Kelas 4 Semester 1 Revisi 2017</a>, RPP dan tema-tema kelas 4 semester 1 kurikulum 2013 sebagai berikut:
 
 1. RPP Kurikulum 2013 Revisi 2017 Tema 1 Indahnya Kebersamaan
 2. RPP Kurikulum 2013 Revisi 2017 Tema 2 Selalu Berhemat Energi
