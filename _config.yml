@@ -187,6 +187,7 @@ compress_html:
   blanklines: false
   ignore:
     envs: []
+    
 paginate: 16
 paginate_path: /page/:num/
   
