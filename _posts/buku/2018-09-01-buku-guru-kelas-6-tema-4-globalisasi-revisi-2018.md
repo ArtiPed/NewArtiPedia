@@ -5,7 +5,7 @@ comments: true
 date: "2018-09-01 04:49:09"
 description: Unduh Buku Guru kelas 6 Tema 4 Globalisasi Revisi 2018, buku paket tematik kurikulum 2013 revisi 2018 ini terdiri dari beberapa subtema.
 author: artipedia
-tags: [buku,pendidikan,sd,guru,revisi2018,kelasVI]
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-6,revisi-2018,tematik]
 published: true
 ---
 * TOC
