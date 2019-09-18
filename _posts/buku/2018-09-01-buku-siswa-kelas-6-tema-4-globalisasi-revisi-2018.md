@@ -5,7 +5,7 @@ comments: true
 date: "2018-07-11 04:49:09"
 description: Unduh Buku Siswa kelas 6 Tema 4 Globalisasi Revisi 2018. Buku paket tematik kelas 6 tema globalisasi kurikulum 2013 revisi 2018 terdiri dari 3 subTema.
 author: artipedia
-tags: [buku,pendidikan,sd,siswa,revisi2018,kelasVI]
+tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-6,revisi-2018,tematik]
 image: buku-siswa-sd.png
 published: true
 ---
