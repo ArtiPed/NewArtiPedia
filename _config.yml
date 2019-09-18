@@ -3,14 +3,21 @@ description: ArtiPedia - Web Referensi Pendidikan - berisi informasi tentang Pen
 url: https://artipedia.id
 repository: "ArtiPedia/NewArtiPedia"
 timezone: Asia/Jakarta
+
 twitter:
   username: artipedia243
+
 disqus:
   shortname: ArtiPedia
+
 logo: "/img/logo-2x.png"
+
 image: {{page.image}}
+
 google_analytics_id: UA-115101359-3
+
 google_site_verification: C1hGxjtzZwOcieGwAnCwFYFX2eSEVxz_JWWiytICEEc
+
 authors:
     artipedia:
       name:           you
@@ -22,6 +29,7 @@ authors:
       email:          wahyu243@gmail.com 
       twitter:        wahyu37853583
       facebook:       you.w4hyou
+
 collections:
   docs:
     permalink: "/:collection/:path/"
@@ -31,6 +39,7 @@ collections:
     output: true
   tutorials:
     output: true
+
 defaults:
 - scope:
     path: _docs
@@ -150,6 +159,7 @@ defaults:
     breadcrumbs:
       - label: "RPP"
         url: /rpp/
+
 plugins:
 - jekyll-avatar
 - jekyll-feed
@@ -159,13 +169,16 @@ plugins:
 - jekyll-sitemap
 - jemoji
 - jekyll-paginate
+
 sass:
   style: compressed
+
 exclude:
 - ".gitignore"
 - CNAME
 - icomoon-selection.json
 - readme.md
+
 compress_html:
   clippings: all
   comments: [""]
