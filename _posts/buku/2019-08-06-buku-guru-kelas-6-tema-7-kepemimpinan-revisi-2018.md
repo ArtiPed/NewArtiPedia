@@ -6,7 +6,7 @@ date: 2019-08-06 04:49:09
 description: Unduh Buku Guru kelas 6 Tema Kepemimpinan Kurikulum 2013 Revisi 2018, buku panduan guru menjadi faktor penunjang dalam pembelajaran.
 author: artipedia
 image: buku-guru-kelas-6-tema-7-revis.png
-tags: [buku,pendidikan,sd,guru,revisi2018,kelasVI]
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-6,revisi-2018,tematik]
 published: true
 ---
 
