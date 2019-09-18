@@ -5,7 +5,7 @@ title: "RPP Kelas 1 SD Tema 1-8 Kurikulum 2013 Revisi 2018"
 description: RPP K13 Kelas 1 SD Tema 1 s/d 8 Kurikulum 2013 Revisi 2018, RPP Tematik Kelas 1 SD Kurikulum 2013 Revisi 2018 semester 1 dan semester pdf/doc.
 date: "2019-01-27 10:48:09"
 author: artipedia
-tags: [administrasi,rpp,pendidikan,kelasI]
+tags: [administrasi,rpp,pendidikan,kelas-1,revisi-2018]
 ---
 * TOC
 {:toc}
