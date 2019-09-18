@@ -5,7 +5,7 @@ title: "Buku Guru Kelas 6 Mapel Matematika Kurikulum 2013"
 date: "2018-08-27 01:49:09"
 description: Download Buku Guru Kelas 6 SD/Mi Mapel Matematika Kurikulum 2013 digunakan sebagai referensi dalam pelaksanaan pembelajaran Matematika 6 SD/Mi kelas VI.
 author: artipedia
-tags: [buku,pendidikan,sd,guru,kelasVI]
+tags: [buku,pendidikan,sd,guru,kelas-6,buku-guru,revisi-2018]
 published: true
 ---
 * TOC
