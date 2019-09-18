@@ -5,7 +5,7 @@ comments: true
 date: "2018-09-01 04:49:09"
 description: Buku Siswa kelas 6 Tema 5 Wirausaha Revisi 2018 merupakan buku paket tematik kurikulum 2013 revisi 2018 terdiri dari beberapa atau 3 subTema Pembelajaran.
 author: artipedia
-tags: [buku,pendidikan,sd,siswa,revisi2018,kelasVI]
+tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-6,revisi-2018,tematik]
 published: true
 ---
 * TOC
