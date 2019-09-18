@@ -6,7 +6,7 @@ date: 2019-09-03 04:49:09
 description: Download Gratis Buku Guru kelas 6 Tema Menjelajah Angkasa Luar Kurikulum 2013, buku panduan guru menjadi faktor penunjang dalam pembelajaran.
 author: artipedia
 image: buku-guru-kelas-6-tema-9-menjelajah-angkasa.png
-tags: [buku,pendidikan,sd,guru,revisi2018,kelasVI]
+tags: [buku,pendidikan,sd,guru,buku-guru,kelas-6,revisi-2018,tematik]
 published: true
 ---
 
