@@ -182,7 +182,7 @@ exclude:
 compress_html:
   clippings: all
   comments: [""]
-  endings: []
+  endings: [all]
   profile: false
   blanklines: false
   ignore:
