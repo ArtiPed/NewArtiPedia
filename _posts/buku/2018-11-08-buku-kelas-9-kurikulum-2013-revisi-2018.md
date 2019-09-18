@@ -20,7 +20,7 @@ Dengan **mengunduh buku kurtilas kelas 9** ini dan menyimpannya di smartphone, t
 
 Berikut ini adalah daftar buku paket ("[Buku Guru dan Buku Siswa Kelas 9 Revisi 2018](/wiki/buku-kelas-9-kurikulum-2013-revisi-2018.html "Buku Kelas 9 Kurikulum 2013 Revisi 2018")")
 
-<ol class="arti">{% for post in site.categories.kelasIX %}
+<ol class="arti">{% for post in site.tags.kelasIX %}
 <li class="{% if page.title == post.title %}current{% endif %}">
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 </li>
