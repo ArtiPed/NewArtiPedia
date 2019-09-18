@@ -8,7 +8,10 @@ last_modified_date: 2019-09-18T13:21:13.634Z
 author: artipedia
 tags:
   - buku
-  - revisi2018
+  - tematik
+  - sd
+  - revisi-2018
+  - kelas-3
 ---
 
 [ArtiPedia](/ "ArtiPedia") - **Buku Sekolah Elektronik** sangatlah penting dalam menunjang kegiatan pembelajaran. Artipedi mempublikasikan Buku Digital (Buku Sekolah Elektronik) bertujuan untuk menyebarkan **buku pembelajaran** dalam bentuk digital untuk semua jenjang pendidikan **Sekolah Dasar (SD)** kelas 3 ini sebagai penunjang dalam mengimplementasikan **kurikulum 2013**.
