@@ -5,7 +5,7 @@ comments: true
 date: "2018-08-31 13:48:09"
 description: Download Buku paket Kurikulum 2013 Buku Guru Kelas Kelas 9 (IX) SMP yang dibagikan kali ini merupakan buku kurikulum  2013 revisi 2015 yang digunakan sebagai penunjang bagi guru dalam melaksanakan pembelajaran siswa di kelas 9.
 author: artipedia
-tags: [buku,pendidikan,guru,revisi2015,kelasIX]
+tags: [buku,pendidikan,guru,buku-guru,revisi-2015,kelas-9]
 published: true
 ---
 
