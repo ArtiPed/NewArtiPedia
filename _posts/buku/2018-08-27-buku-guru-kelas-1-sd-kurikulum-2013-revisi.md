@@ -5,7 +5,7 @@ comments: true
 date: "2018-08-27 20:49:09"
 description: Halaman ini berisi kumpulan BBuku Guru Kelas 1 SD/Mi Revisi 2017, Download buku tematik SD/Mi Kelas I Kurikulum 2013.
 author: artipedia
-tags: [buku,pendidikan,sd,guru,revisi2017,kelasI]
+tags: [buku,pendidikan,sd,guru,buku-guru,revisi-2017,kelas-1]
 published: true
 ---
 * TOC
