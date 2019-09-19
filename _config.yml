@@ -52,7 +52,7 @@ defaults:
   values:
     layout: news_item
     image: twitter-card.png
-    author: you
+    author: artipedia
     avatar: /img/you.jpg
 - scope:
     path: _posts/buku
@@ -61,7 +61,7 @@ defaults:
     layout: news_item
     category: buku
     image: twitter-card.png
-    author: you
+    author: artipedia
     avatar: /img/you.jpg
     read_time: true
     comments: true
@@ -76,7 +76,7 @@ defaults:
     layout: news_item
     category: artikel
     image: twitter-card.png
-    author: you
+    author: artipedia
     avatar: /img/you.jpg
     read_time: true
     comments: true
@@ -91,7 +91,7 @@ defaults:
     layout: news_item
     category: berita
     image: twitter-card.png
-    author: you
+    author: artipedia
     avatar: /img/you.jpg
     read_time: true
     comments: true
@@ -106,7 +106,7 @@ defaults:
     layout: news_item
     category: materi
     image: twitter-card.png
-    author: you
+    author: artipedia
     avatar: /img/you.jpg
     read_time: true
     comments: true
@@ -121,7 +121,7 @@ defaults:
     layout: news_item
     category: soal
     image: twitter-card.png
-    author: you
+    author: artipedia
     avatar: /img/you.jpg
     read_time: true
     comments: true
@@ -136,7 +136,7 @@ defaults:
     layout: news_item
     category: teori
     image: twitter-card.png
-    author: you
+    author: artipedia
     avatar: /img/you.jpg
     read_time: true
     comments: true
@@ -151,7 +151,7 @@ defaults:
     layout: news_item
     category: rpp
     image: twitter-card.png
-    author: you
+    author: artipedia
     avatar: /img/you.jpg
     read_time: true
     comments: true
