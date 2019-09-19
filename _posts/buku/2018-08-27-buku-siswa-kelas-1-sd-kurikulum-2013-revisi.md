@@ -5,7 +5,7 @@ comments: true
 date: "2018-08-27 20:49:09"
 description: Halaman ini berisi kumpulan Buku Siswa Kelas 1 SD Revisi 2017, Download buku tematik SD Kelas I Kurikulum 2013.
 author: artipedia
-tags: [buku,pendidikan,sd,siswa,revisi2017,kelasI]
+tags: [buku,pendidikan,sd,siswa,buku-siswa,revisi-2017,kelas-1,tematik]
 published: true
 image: buku-siswa-sd.png
 ---

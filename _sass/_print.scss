@@ -53,7 +53,7 @@
         display: table-header-group
     }
     img {
-        max-width: 100%
+        width: 100%
     }
     @page {
         margin: 1cm
@@ -69,7 +69,6 @@
         page-break-after: avoid
     }
     .button:after,
-    .dte_post-title a:after,
     .jsfiddle-demo,
     .no-print,
     .tooltip,
