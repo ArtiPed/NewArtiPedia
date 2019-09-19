@@ -1375,14 +1375,13 @@ h3.category-head,.tagcloud {
     background: #f7f7f7;
 }
 a.butedit {
-display: inline-block;
+    display: list-item;
     margin-top: 10px;
-    clear: both;
-    width: 100px;
     padding: 5px 7px;
-    background: #53b7b3;
+    background: #333333;
     border-radius: 3px;
     color: #fff;
+    text-align: center;
 }
 .edit {
     margin-left: 10px;
