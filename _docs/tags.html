@@ -12,7 +12,7 @@ Halaman ini berisi posting yang dikelompokkan berdasarkan kategori tertentu
 {% for tag in site.tags %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
-    <h3 id="{{ tag_name | slugize }}" class="category-head"><i class="fa fa-tags" aria-hidden="true"></i> {{ tag_name | replace:'-',''}}</h3>
+    <h3 id="{{ tag_name | slugize }}" class="category-head"><i class="fa fa-tags" aria-hidden="true"></i> {{ tag_name | replace:'-',' '}}</h3>
  
     <ol class="arti">
       {% for post in site.tags[tag_name] %}
