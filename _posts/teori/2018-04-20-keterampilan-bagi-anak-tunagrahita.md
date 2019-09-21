@@ -18,7 +18,7 @@ published: true
 * TOC
 {:toc}
 
-[ArtiPedia](/ "ArtiPedia") - Melatih anak dengan keterampilan sangatlah penting untuk dilakukan, terlebih lagi pada [anak tunagrahita ringan](https://artipedia.id/wiki/anak-tunagrahita-ringan.html) yang memiliki hambatan dalam mengoptimalkan fungsi kecerdasan dan memiliki IQ di bawah anak-anak normal pada umumnya agar dapat beradaptasi dengan lingkungannya serta hidup mandiri. 
+[ArtiPedia](/ "ArtiPedia") - Melatih anak dengan keterampilan sangatlah penting untuk dilakukan, terlebih lagi pada [anak tunagrahita ringan](/teori/anak-tunagrahita-ringan) yang memiliki hambatan dalam mengoptimalkan fungsi kecerdasan dan memiliki IQ di bawah anak-anak normal pada umumnya agar dapat beradaptasi dengan lingkungannya serta hidup mandiri. 
 
 ## Pengertian Keterampilan
 **Keterampilan** merupakan kemampuan anak dalam mempraktekkan atau melakukan suatu hal sesuai dengan potensi yang dimilikinya. Sejalan dengan hal tersebut, menurut *Widiastuti (2010:49)* bahwa “Keterampilan (skill) merupakan kemampuan untuk mengoperasikan pekerjaan secara mudah dan cermat”.
