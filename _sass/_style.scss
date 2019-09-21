@@ -455,7 +455,24 @@ ol.arti {
 }
 
 /* Right-side nav - used by both docs and news */
-
+.aside.w6 {
+    margin-bottom: 10px;
+}
+ul.tagcloud {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+}
+ul.tagcloud li {
+    background: #fff;
+    margin: .5em 5px;
+    padding: 10px 20px;
+    -webkit-box-shadow: 0 2px 4px rgba(0,0,0,.1);
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+    border-radius: 3px;
+    border: 0;
+    list-style: none;
+}
 .aside {
    padding: 5px;
     margin-bottom: 20px;
