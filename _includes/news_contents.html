@@ -22,7 +22,7 @@
     <ul>
         {% for post in site.posts limit:10 %}
                 <li class="{% if page.title == post.title %}current{% endif %}">
-          <a href="{{ post.url }}">{{ post.title }}</a>
+          <a href="{{ post.url }}">{{ post.title }}</a><span class="postdate"><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;{{ post.date | date_to_string }}</span>
         </li>
      
         {% endfor %}
