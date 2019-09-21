@@ -2,7 +2,7 @@
 layout: news_item
 title: Panduan Menulis di ArtiPedia
 description: Panduan atau langkah-langkah memulai menjadi kontributor di ArtiPeda.id
-image: /img/artipedia2.png
+image: /img/twitter-card.png
 last_modified_date: 2019-09-21T10:08:13.055Z
 author: artipedia
 tags:
