@@ -5,7 +5,7 @@ comments: true
 date: "2018-06-27 04:49:09"
 description: Buku Guru kelas 3 Mata pelajaran PAI Revisi 2018 merupakan buku paket mata pelajaran Pendidikan Agama Islam kurikulum 2013  cetakan kedua revisi 2018.
 author: artipedia
-tags: [buku,pendidikan,sd,guru,revisi2018,kelasIII]
+tags: [buku,pendidikan,sd,guru,buku-guru,mapel,revisi-2018,kelas-3]
 published: true
 ---
 * TOC
@@ -53,7 +53,7 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/wiki/buku-guru-kelas-3-mapel-pai-kurikulum-2013-revisi-2018.html" title="Buku Guru Kelas 3 Mata Pelajaran Pendidikan Agama Islam K13 Revisi 2018"><strong>PAI (Pendidikan Agama Islam)</strong></a>|
+|Mata Pelajaran|<a href="/buku/buku-guru-kelas-3-mapel-pai-kurikulum-2013-revisi-2018.html" title="Buku Guru Kelas 3 Mata Pelajaran Pendidikan Agama Islam K13 Revisi 2018"><strong>PAI (Pendidikan Agama Islam)</strong></a>|
 |Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
