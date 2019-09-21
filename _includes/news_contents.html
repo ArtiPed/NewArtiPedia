@@ -14,42 +14,18 @@
 	  
 	  <div class="aside"><h3>Ads</h3><div class="aside ads">
 	 {% include ads-sidebar.html %}
-    </div></div><div class="aside w1"><h3>Ikuti Kami</h3>
-	  <ul id="abt"><li data-alt="Follow us on Facebook"><a class="icon facebook" href="https://www.facebook.com/ArtiPedia.id" target="_blank" title="Follow us on Facebook">Follow us on Facebook</a></li><li data-alt="Follow us on twitter"><a class="icon twitter" href="https://twitter.com/artipedia243" target="_blank" title="Follow us on Twitte">Follow us on Twitter</a></li></ul></div>
-	  <div class="aside w2">
-   <h3><a href="https://artipedia.id/rpp" title="Kumpulan RPP">RPP</a></h3>
+    </div></div>
+	  <div class="aside w">
+    <h3>Terbaru</h3>
     <ul>
-      
-	  {% for post in site.categories.rpp limit:3 %}
-      <li class="{% if page.title == post.title %}current{% endif %}">
-        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span class="postdate"><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;{{ post.date | date_to_string }}</span>
-      </li>  {% endfor %}</ul>
-	  </div>
-	  <div class="aside w3">
-	  <h3><a href="https://artipedia.id/buku" title="Kumpulan Buku">Buku</a></h3>
-    <ul>
-    
-	  {% for post in site.categories.buku limit:3 %}
-      <li class="{% if page.title == post.title %}current{% endif %}">
-        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span class="postdate"><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;{{ post.date | date_to_string }}</span>
-      </li>  {% endfor %}</ul></div><div class="aside w4">
-	  
-	  <h3><a href="https://artipedia.id/berita" title="Kumpulan Berita">Berita</a></h3>
-    <ul>
-     	  {% for post in site.categories.berita limit:3 %}
-      <li class="{% if page.title == post.title %}current{% endif %}">
-        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span class="postdate"><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;{{ post.date | date_to_string }}</span>
-      </li>
-      {% endfor %}
-      
-    </ul></div><div class="aside w5">
-	   <h3><a href="https://artipedia.id/teori" title="Kumpulan teori">Teori</a></h3>
-    <ul>
-      {% for post in site.categories.teori limit:3 %}
-      <li class="{% if page.title == post.title %}current{% endif %}">
-        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span class="postdate"><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;{{ post.date | date_to_string }}</span>
-      </li>  {% endfor %}
-	  </ul></div>
+        {% for post in site.posts limit:10 %}
+                <li class="{% if page.title == post.title %}current{% endif %}">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+     
+        {% endfor %}
+    </ul>
+    </div>
 
 
   </aside>
