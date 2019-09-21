@@ -5,13 +5,13 @@ comments: true
 date: "2018-09-14 12:48:09"
 description: Autisme merupakan salah satu gangguan perkembangan fungsi otak yang bersifat pervasive (inco) yaitu meliputi gangguan kognitif, bahasa, perilaku, komunikasi, dan gangguan interaksi sosial.
 author: artipedia
-tags: [referensi,abk,autism,pendidikan khusus]
+tags: [referensi,abk,autism,pendidikan-khusus]
 ---
 
 * TOC
 {:toc}
 ## Definisi Autism
-Secara harfiah **[autisme](/wiki/apa-itu-autisme-bagaimana-ciri-anak-autism.html "Apa itu Autis")** berasal dari kata autos =diri dan isme= paham/aliran. American Psych: autisme adalah "**Gangguan perkembangan** yang terjadi pada anak yang mengalami kondisi menutup diri. Gangguan ini mengakibatkan anak mengalami keterbatasan dari segi komunikasi, interaksi sosial, dan perilaku “Sumber dari Pedoman Pelayanan Pendidikan Bagi Anak Austistik”. (American Psychiatic Association 2000)
+Secara harfiah **[autisme](/teori/apa-itu-autisme-bagaimana-ciri-anak-autism.html "Apa itu Autis")** berasal dari kata autos =diri dan isme= paham/aliran. American Psych: autisme adalah "**Gangguan perkembangan** yang terjadi pada anak yang mengalami kondisi menutup diri. Gangguan ini mengakibatkan anak mengalami keterbatasan dari segi komunikasi, interaksi sosial, dan perilaku “Sumber dari Pedoman Pelayanan Pendidikan Bagi Anak Austistik”. (American Psychiatic Association 2000)
 
 Menurut Mardiyatmi (2000), "Autisme merupakan salah satu *gangguan perkembangan fungsi otak* yang bersifat *pervasive (inco)* yaitu meliputi gangguan kognitif, bahasa, perilaku, komunikasi, dan gangguan interaksi sosial". 
 
@@ -86,7 +86,7 @@ Privalensi Autisme diperkirakan 1 per 150 kelahiran. Menurut penelitian di RSCM 
 4. Kadang-kadang menyerang orang lain tanpa diduga-duga.
 
 ### Bagaimana kondisi kognitif anak autistik ?
-Menurut Penelitian di Virginia University di Amerika Serikat diperkirakan 75 – 80 % penyandang autis mempunyai kemampuan berpikir di bawah [rata-rata/retardasi mental](/wiki/tunagrahita.html), sedangkan 20 % sisanya mempunyai tingkat kecerdasan normal ataupun di atas normal untuk bidang-bidang tertentu.
+Menurut Penelitian di Virginia University di Amerika Serikat diperkirakan 75 – 80 % penyandang autis mempunyai kemampuan berpikir di bawah [rata-rata/retardasi mental](/teori/tunagrahita.html), sedangkan 20 % sisanya mempunyai tingkat kecerdasan normal ataupun di atas normal untuk bidang-bidang tertentu.
 
 1. Sebagian kecil mempunyai daya ingat yang sangat kuat terutama yang berkaitan denga obyek visual (gambar)
 2. Sebagian kecil memiliki kemampuan lebih pada bidang yang berkaitan dengan angka.
