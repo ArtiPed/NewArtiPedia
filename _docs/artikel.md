@@ -1,5 +1,5 @@
 ---
-title: Kumpulan Berita Seputar Pendidikan
+title: Kumpulan Artikel
 description: Halaman ini berisi kumpulan artikel, ataupun lainnya yang sangat berguna bagi para pembaca.
 permalink: /artikel
 redirect_from: /docs/artikel/
