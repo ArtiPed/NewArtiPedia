@@ -5,7 +5,7 @@
         <ul class="tagcloud">
 {% capture site_categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
     {% assign sortedCategories = site_categories | split:',' | sort %}
-            {% for category in sortedTags  %}		
+            {% for category in sortedCategories  %}		
             <li><a href="https://artipedia.id/{{ category }}">{{ category }}</a></li>
             {% endfor %}<div class="clear"></div>
         </ul>
