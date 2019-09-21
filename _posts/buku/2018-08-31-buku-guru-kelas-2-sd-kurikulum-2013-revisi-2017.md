@@ -5,7 +5,7 @@ comments: true
 date: "2018-08-31 12:28:09"
 description: Download Buku Guru Kelas 2 (II) SD Kurikulum 2013 revisi 2017 sebagai penunjang bagi guru dalam melaksanakan pembelajaran siswa di kelas 2.
 author: artipedia
-tags: [buku,pendidikan,guru,kelasII]
+tags: [buku,pendidikan,guru,buku-guru,kelas-2]
 published: true
 ---
 
