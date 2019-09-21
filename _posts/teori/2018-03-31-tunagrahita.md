@@ -7,7 +7,7 @@ description: Apa itu Tunagrahita? Istilah tunagrahita (mental retardation) dapat
 author: artipedia
 image: tunagrahita.png
 
-tags: [referensi,abk,tunagrahita,pendidikan khusus]
+tags: [referensi,abk,tunagrahita,pendidikan-khusus]
 ---
 
 [ArtiPedia](/ "ArtiPedia") - **Istilah tunagrahita** (*mental retardation*) dapat diartikan sebagai individu atau anak yang memiliki IQ di bawah rata-rata normal antara 50 - 70 menurut skala Binet, disamping itu mereka memiliki kecerdasan dan kemampuan adaptasi tingkah laku yang terbatas yang dapat menyebabkan timbulnya permasalahan-permasalahan yang harus dihadapi pada masa perkembangannya (sejak masa konsepsi hingga usia 18 tahun).
@@ -18,7 +18,7 @@ tags: [referensi,abk,tunagrahita,pendidikan khusus]
 {:toc}
 
 ## Pengertian Tunagrahita Menurut Para Ahli
-**[Anak tunagrahita](/wiki/tunagrahita.html "Anak tunagrahita")** merupakan anak yang memiliki IQ di bawah rata-rata dan memiliki kemampuan adaptasi tingkah laku yang terbatas. Menurut *American Association on Mental Deficiency (AAMD)* yang dikutip oleh Grossman (Kirk & Gallagher, 1986) dan dialih bahasa oleh **Astati dan Mulyati (2010:9)** bahwa :
+**[Anak tunagrahita](/teori/tunagrahita.html "Anak tunagrahita")** merupakan anak yang memiliki IQ di bawah rata-rata dan memiliki kemampuan adaptasi tingkah laku yang terbatas. Menurut *American Association on Mental Deficiency (AAMD)* yang dikutip oleh Grossman (Kirk & Gallagher, 1986) dan dialih bahasa oleh **Astati dan Mulyati (2010:9)** bahwa :
 
 > Tunagrahita mengacu pada fungsi intelektual umum yang nyata berada di bawah rata-rata bersamaan dengan kekurangan dalam adaptasi tingkah laku dan berlangsung dalam masa perkembangan. 
 
@@ -83,7 +83,7 @@ Anak Tunagrahita sedang umumnya tidak mampu mempelajari pelajaran akademik, perk
 ### *Tunagrahita berat*: 
 Anak tunagrahita berat umumnya selalu tergantung pada orang lain, tidak mampu mengurus diri sendiri, tidak mengenali bahaya, tingkat kecerdasannya setara dengan anak usia 4 tahun.
 
-Mengacu pada beberapa pernyataan di atas dapat disimpulkan bahwa anak tunagrahita terdiri dari [tunagrahita ringan](/wiki/anak-tunagrahita-ringan.html "Anak Tunagrahita Ringan"), tunagrahita sedang, dan tunagrahita berat. 
+Mengacu pada beberapa pernyataan di atas dapat disimpulkan bahwa anak tunagrahita terdiri dari [tunagrahita ringan](/teori/anak-tunagrahita-ringan "Anak Tunagrahita Ringan"), tunagrahita sedang, dan tunagrahita berat. 
 
 **Tunagrahita ringan** memiliki kriteria mampu belajar membaca, menulis, dan berhitung yang sifatnya sederhana, dapat bersosialisasi, dapat diajarkan pekerjaan atau keterampilan yang sifatnya sederhana. 
 
