@@ -5,7 +5,7 @@ title: "Perkembangan Pendidikan Inklusi"
 date: "2018-04-14 12:48:09 -0500"
 description: Perkembangan Pendidikan Inklusi sejalan dengan berkembangnya dunia pendidikan dan juga Hak Asasi Manusia dalam Konvnsi PBB yang dikenal United Nations Convention on the Right of the Child
 author: artipedia
-tags: [referensi,pendidikan,pendidikan khusus]
+tags: [referensi,pendidikan,pendidikan-khusus]
 ---
 
 * TOC
@@ -30,7 +30,7 @@ Di masa-masa sebelumnya, pendidikan khusus ditujukan untuk sekolah terpisah yang
 
 Di Indonesia memisahkan anak berkebutuhan khusus dari anak normal di kelas merupakan hal lumrah. Namun, tanpa disadari, upaya pemisahan ini memiliki dampak besar, bukan hanya sesederhana memisahkan anak berkebutuhan khusus dalam kelas/sekolah yang khusus namun berdampak menjadi upaya pemisahan orang berkebutuhan khusus dari orang-orang normal dalam lingkungan masyarakat.
 
-Dari hasil penelitian-penelitian dari para profesional ini yang menghasilkan perubahan besar terhadap layanan [pendidikan anak berkebutuhan khusus](http://artipedia.id/wiki/pendidikan-inklusi.html) di Amerika, sehingga pada tahun 1975 dikeluarkan peraturan (Public Law 94-142) yang membawa perubahan mendasar dalam dunia pendidikan anak berkebutuhan khusus sampai saat ini.
+Dari hasil penelitian-penelitian dari para profesional ini yang menghasilkan perubahan besar terhadap layanan [pendidikan anak berkebutuhan khusus](/teori/pendidikan-inklusi.html) di Amerika, sehingga pada tahun 1975 dikeluarkan peraturan (Public Law 94-142) yang membawa perubahan mendasar dalam dunia pendidikan anak berkebutuhan khusus sampai saat ini.
 
 Perkembangan pendidikan ABK dipengaruhi oleh Public Law 94-142, the Education for All Handicapped Children Act. Peraturan ini dikeluarkan oleh kongres amerika pada 1975, namun baru dapat diimplementasikan pada 1980. Goodman dalam Heward dan Orlansky (1984) menyebutkan bahwa peraturan ini dapat dikatakan sebagai peraturan yang memberikan dampak paling besar dalam sejarah pendidikan.
 
