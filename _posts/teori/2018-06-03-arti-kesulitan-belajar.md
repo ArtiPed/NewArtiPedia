@@ -6,16 +6,16 @@ date: "2018-06-03 12:41:47"
 description: Kesulitan belajar merupakan hambatan yang dialami oleh siswa dalam proses belajar yang menyebabkan siswa mendapatkan hasil yang kurang optimal dalam proses belajarnya.
 author: artipedia
 image: kesulitan-belajar.jpg
-tags: [referensi,kesulitan belajar,abk]
+tags: [referensi,kesulitan-belajar,abk]
 ---
 * TOC
 {:toc}
 
 ### Anak dengan Kesulitan Belajar atau Berprestasi Rendah
-[Artipedia](https://artipedia.id "Artipedia") - Anak yang berprestasi rendah (*underachievers*) pada umumnya tidak mampu menguasai bidang studi tertentu yang diprogramkan oleh guru berdasarkan kurikulum sekolah yang berlaku. Sebagian dari mereka mempunyai nilai pelajaran sangat rendah ditandai pula dengan tes IQ berada di bawah re-rata normal atau sering disebut pula *slow learners*. Rendahnya prestasi [belajar](https://artipedia.id/wiki/arti-teori-belajar.html "teori belajar") mereka umumnya disebabkan oleh faktor minimal *brain dysfungction*, *dyslexia*, *perceptual disability*. Istilah lainnya yang digunakan di Amerika serikat anak yang berprestasi rendah disebut dengan *[Specific Learning Disability](https://en.wikipedia.org/wiki/Learning_disability)*.
+[Artipedia](https://artipedia.id "Artipedia") - Anak yang berprestasi rendah (*underachievers*) pada umumnya tidak mampu menguasai bidang studi tertentu yang diprogramkan oleh guru berdasarkan kurikulum sekolah yang berlaku. Sebagian dari mereka mempunyai nilai pelajaran sangat rendah ditandai pula dengan tes IQ berada di bawah re-rata normal atau sering disebut pula *slow learners*. Rendahnya prestasi [belajar](https://artipedia.id/teori/arti-teori-belajar.html "teori belajar") mereka umumnya disebabkan oleh faktor minimal *brain dysfungction*, *dyslexia*, *perceptual disability*. Istilah lainnya yang digunakan di Amerika serikat anak yang berprestasi rendah disebut dengan *[Specific Learning Disability](https://en.wikipedia.org/wiki/Learning_disability)*.
 
 ### Definisi Kesulitan Belajar 
-**[Definisi kesulitan belajar](/wiki/arti-kesulitan-belajar.html "Definisi Kesulitan belajar")** *Rumini dkk (Irham dan Wiyani, 2013:254)* mengemukakan bahwa "kesulitan belajar merupakan kondisi saat siswa mengalami hambatan-hambatan tertentu untuk mengikuti proses pembelajaran dan mencapai hasil belajar secara optimal". Selain itu Hamalik (1983:112) "Kesulitan belajar adalah hal-hal atau gangguan yang mengakibatkan kegagalan atau setidaknya menjadi gangguan yang dapat menghambat kemajuan belajar. 
+**[Definisi kesulitan belajar](/teori/arti-kesulitan-belajar.html "Definisi Kesulitan belajar")** *Rumini dkk (Irham dan Wiyani, 2013:254)* mengemukakan bahwa "kesulitan belajar merupakan kondisi saat siswa mengalami hambatan-hambatan tertentu untuk mengikuti proses pembelajaran dan mencapai hasil belajar secara optimal". Selain itu Hamalik (1983:112) "Kesulitan belajar adalah hal-hal atau gangguan yang mengakibatkan kegagalan atau setidaknya menjadi gangguan yang dapat menghambat kemajuan belajar. 
 
 Sejalan dengan pendapat diatas menurut Blassic & Jones (Irham & Wiyani 2013:253), kesulitan belajar yang dialami siswa menunjukkan adanya kesenjangan atau jarak antara prestasi akademik yang diharapkan dengan prestasi akademik yang dicapai oleh siswa pada kenyataannya ( prestasi aktual ).
 
@@ -36,7 +36,7 @@ Menurut Ahmadi dan Supriyono ( 2013:94), beberapa gejala sebagai pertanda adanya
 4. Menunjukkan sikap yang kurang wajar.
 5. Anak didik menunjukkan tingkah laku yang berlainan.
 
-Gejala-gejala tersebut harus diketahui oleh guru supaya guru dapat membantu siswa yang mengalami kesulitan belajar. Dari gejala tersebut maka guru dapat bekerja sama dengan orang tua atau psikolog untuk mengetahui faktor apa saja yang menyebabkan siswa mengalami gejala kesulitan belajar dan merencanakan [**metode pembelajaran**](https://artipedia.id/wiki/metode-pembelajaran-analisis-tugas.html "Metode Pembelajaran") yang tepat.
+Gejala-gejala tersebut harus diketahui oleh guru supaya guru dapat membantu siswa yang mengalami kesulitan belajar. Dari gejala tersebut maka guru dapat bekerja sama dengan orang tua atau psikolog untuk mengetahui faktor apa saja yang menyebabkan siswa mengalami gejala kesulitan belajar dan merencanakan [**metode pembelajaran**](https://artipedia.id/teori/metode-pembelajaran-analisis-tugas.html "Metode Pembelajaran") yang tepat.
 
 ### Kesimpulan 
 > Berdasarkan pemaparan diatas dapat disimpulkan bahwa kesulitan belajar merupakan hambatan yang dialami oleh siswa dalam proses belajar yang menyebabkan siswa mendapatkan hasil yang kurang optimal dalam proses belajarnya.
