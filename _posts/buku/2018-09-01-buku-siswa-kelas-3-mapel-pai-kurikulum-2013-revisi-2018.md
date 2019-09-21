@@ -54,7 +54,7 @@ image: buku-siswa-sd.png
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/wiki/buku-siswa-kelas-3-mapel-pai-kurikulum-2013-revisi-2018.html" title="Buku Siswa Kelas 3 Mata Pelajaran Pendidikan Agama Islam K13 Revisi 2018"><strong>PAI (Pendidikan Agama Islam)</strong></a>|
+|Mata Pelajaran|<a href="/buku/buku-siswa-kelas-3-mapel-pai-kurikulum-2013-revisi-2018.html" title="Buku Siswa Kelas 3 Mata Pelajaran Pendidikan Agama Islam K13 Revisi 2018"><strong>PAI (Pendidikan Agama Islam)</strong></a>|
 |Jenis|<a href="/buku" title="Buku Siswa">Buku Siswa</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
