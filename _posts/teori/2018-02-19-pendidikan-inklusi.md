@@ -6,12 +6,12 @@ description: Pendidikan inklusi merupakan bentuk penyelenggaraan pendidikan yang
 image: pendidikan-inklusi.png
 date: "2018-02-19 20:48:09 -0500"
 author: artipedia
-tags: [referensi,pendidikan,pendidikan khusus,definisi]
+tags: [referensi,pendidikan,pendidikan-khusus]
 ---
 * TOC
 {:toc}
 ## Definisi Pendidikan Inklusi
-[ArtiPedia](/ "ArtiPedia") - **[Pendidikan inklusi](/wiki/pendidikan-inklusi.html "Pendidikan Inklusi")** adalah bentuk penyelenggaraan pendidikan yang menyatukan anak-anak berkebutuhan khusus dengan anak-anak normal pada umumnya untuk belajar. Menurut Hildegun Olsen (Tarmansyah, 2007;82), pendidikan inklusi adalah sekolah harus mengakomodasi semua anak tanpa memandang kondisi fisik, intelektual, sosial emosional, linguistik atau kondisi lainnya. Ini harus mencakup anak-anak penyandang cacat, berbakat. Anak-anak jalanan dan pekerja anak berasal dari populasi terpencil atau berpindah-pindah. Anak yang berasal dari populasi etnis minoritas, linguistik, atau budaya dan anakanak dari area atau kelompok yang kurang beruntung atau termajinalisasi. 
+[ArtiPedia](/ "ArtiPedia") - **[Pendidikan inklusi](/teori/pendidikan-inklusi "Pendidikan Inklusi")** adalah bentuk penyelenggaraan pendidikan yang menyatukan anak-anak berkebutuhan khusus dengan anak-anak normal pada umumnya untuk belajar. Menurut Hildegun Olsen (Tarmansyah, 2007;82), pendidikan inklusi adalah sekolah harus mengakomodasi semua anak tanpa memandang kondisi fisik, intelektual, sosial emosional, linguistik atau kondisi lainnya. Ini harus mencakup anak-anak penyandang cacat, berbakat. Anak-anak jalanan dan pekerja anak berasal dari populasi terpencil atau berpindah-pindah. Anak yang berasal dari populasi etnis minoritas, linguistik, atau budaya dan anakanak dari area atau kelompok yang kurang beruntung atau termajinalisasi. 
 
 {% include ads-artikel.html %}
 
