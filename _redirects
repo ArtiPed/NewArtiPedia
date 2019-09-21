@@ -2,6 +2,7 @@
 https://artipedia.netlify.com/* https://artipedia.id/:splat 301!
 https://master--artipedia.netlify.com/* https://artipedia.id/:splat 301! 
 http://artipedia.netlify.com/* https://artipedia.id/:splat 301!
+https://artipedia.github.io/NewArtiPedia/ * https://artipedia.id/:splat 301!
 
 
 # ----------------------------------------------------------------------
