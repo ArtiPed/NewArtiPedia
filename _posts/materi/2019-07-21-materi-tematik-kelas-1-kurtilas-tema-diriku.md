@@ -5,7 +5,7 @@ comments: true
 date: "2019-07-21 03:48:09"
 description: Materi kelas 1 tema 1 Diriku, Materi pembelajaran tematik kurikulum 2013 revisi 2017 yang diperuntukkan bagi siswa kelas 1 sekolah dasar sebagai penunjang dalam melaksanakan aktivitas pembelajaran dikelas.
 author: artipedia
-tags: [materi,pendidikan,sd,siswa,kelasI]
+tags: [materi,pendidikan,sd,kelas-1]
 published: true
 image: buku-guru-kelas-1-tema-diriku.png
 ---
