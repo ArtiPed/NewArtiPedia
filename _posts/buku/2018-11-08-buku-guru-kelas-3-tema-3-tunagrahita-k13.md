@@ -5,7 +5,7 @@ comments: true
 date: "2018-11-08 04:49:09"
 description: Buku Guru Kelas 3 Tema 3 SDLB Tunagrahita Kurikulum 2013, buku paket tematik yang diperuntukkan bagi guru kelas 3 tunagrahita.
 author: artipedia
-tags: [buku,abk,pendidikan,sdlb,guru,buku-guru,pendidikan-khusus,kelas-3]
+tags: [buku,abk,pendidikan,sdlb,guru,buku-guru,pendidikan-khusus,kelas-3,tunagrahita,tematik]
 published: true
 ---
 * TOC
