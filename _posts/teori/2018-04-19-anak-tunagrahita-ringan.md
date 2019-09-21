@@ -3,7 +3,7 @@ layout: news_item
 title: "Anak Tunagrahita Ringan"
 date: "2018-04-19 11:48:09"
 author: artipedia
-tags: [referensi,tunagrahita,pendidikan khusus]
+tags: [referensi,tunagrahita,pendidikan-khusus]
 image: tunagrahita.png
 description: Anak tunagrahita ringan adalah anak yang memiliki IQ antara 50 sampai dengan 70 yang mengakibatkan terbatasnya perkembangan pencapaian tingkat usia mental mereka.
 comments: true
@@ -13,7 +13,7 @@ comments: true
 {:toc}
 
 ## Pengertian Anak Tunagrahita Ringan
-[Anak tunagrahita](https://artipedia.id/wiki/tunagrahita.html "Anak Tunagrahita") terdiri dari beberapa klasifikasi antara lain **[tunagrahita ringan](https://artipedia.id/wiki/anak-tunagrahita-ringan.html "Anak Tunagrahita Ringan")**, **[tunagrahita sedang](https://artipedia.id/wiki/pengertian-tunagrahita-sedang.html 'Definisi Tunagrahita Sedang')**, **tunagrahita berat** dan **tunagrahita sangat berat**. 
+[Anak tunagrahita](/teori/tunagrahita "Anak Tunagrahita") terdiri dari beberapa klasifikasi antara lain **[tunagrahita ringan](/teori/anak-tunagrahita-ringan "Anak Tunagrahita Ringan")**, **[tunagrahita sedang](/teori/pengertian-tunagrahita-sedang 'Definisi Tunagrahita Sedang')**, **tunagrahita berat** dan **tunagrahita sangat berat**. 
 
 Anak tunagrahita ringan merupakan anak tunagrahita yang tingkat kecerdasannya dikategorikan paling tinggi. Anak tunagrahita ringan menurut Mumpuniarti (2010:64) sebagai berikut:
 
