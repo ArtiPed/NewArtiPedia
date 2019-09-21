@@ -3,7 +3,8 @@ layout: news_item
 title: Buku Guru & Siswa Kelas 9 (IX) Kurikulum 2013 Revisi 2018
 description: >-
   Buku Paket Kelas 9 Kurikulum 2013 Revisi 2018 terdiri dari buku guru dan buku
-  siswa revisi terbaru. Download Buku Paket Kelas 9.
+  siswa revisi terbaru.  Link Download Buku Siswa SMP Kelas IX (9) Kurikulum
+  2013.
 last_modified_date: 2019-09-19T18:04:11.685Z
 tags:
   - buku
