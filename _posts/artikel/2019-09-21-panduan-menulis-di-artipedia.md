@@ -22,18 +22,14 @@ Hingga muncul halaman seperti di bawah ini
 4. Setelah anda login di ArtiPedia kemudian akan muncul halaman seperti dibawah ini.
 ![Gambar 4][artipedia4]
 5. Pada halaman tersebut anda dapat memilih kategori yang ingin anda tulis kemudian pilih Tombol New Artikel apabila anda memilih kategori artikel, New Berita apabila anda memilih kategori berita, dan seterusnya. Selain menulis artikel baru, anda juga dapat mengedit halaman yang sebelumnya sudah di posting. 
-
 6. Perhatikan gambar di bawah ini.
-
 ![Gambar 5][artipedia5]  
 <ul><li>Title diisi dengan judul</li>
 <li>Description diisi dengan deskripsi singkat</li>
 <li>Kolom image untuk menambahkan gambar bila ada </li>
 
 ![Gambar 6][artipedia6]
-
 ![Gambar 7][artipedia7]  
-
 <li>Last Modification diisi sesuai dengan tanggal posting yang anda inginkan</li>
 <li>Tags diisi dengan tag contoh anda menulis artikel tentang cara mengatasi anak kesulitan belajar maka tags nya dapat diisi dengan: anak, kesulitan-belajar, pembelajaran. Tags dipisahkan dengan koma apabila lebih dari satu, dan spasi diganti dengan tanda - apabila terdiri lebih dari satu kata.</li>
 <li>Pada kolom body silahkan isi dengan posting anda</li>
