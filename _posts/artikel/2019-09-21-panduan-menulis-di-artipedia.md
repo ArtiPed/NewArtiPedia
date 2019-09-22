@@ -33,7 +33,7 @@ Setelah anda login di ArtiPedia kemudian akan muncul halaman seperti dibawah ini
 
 ![Gambar 4][artipedia4]
 
-### Memilih Kategoru
+### Memilih Kategori
 Pada halaman tersebut anda dapat memilih kategori yang ingin anda tulis kemudian pilih Tombol New Artikel apabila anda memilih kategori artikel, New Berita apabila anda memilih kategori berita, dan seterusnya. Selain menulis artikel baru, anda juga dapat mengedit halaman yang sebelumnya sudah di posting. 
 
 ### Perhatikan gambar di bawah ini.
