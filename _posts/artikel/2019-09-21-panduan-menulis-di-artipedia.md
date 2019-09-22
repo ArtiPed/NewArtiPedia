@@ -57,5 +57,4 @@ Hingga muncul halaman seperti di bawah ini
 [artipedia5]: /img/artipedia5.png
 [artipedia6]: /img/artipedia6.png
 [artipedia7]: /img/artipedia7.png
-
-[artipedia6]: /img/artipedia8.png
+[artipedia8]: /img/artipedia8.png
