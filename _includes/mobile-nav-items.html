@@ -5,13 +5,13 @@
   <li class="{% if page.url contains '/docs/' %}current{% endif %}">
     <a href="/docs/sambutan" title="Sambutan">Panduan</a>
   </li>
-  <li class="{% if page.url contains '/buku/' %}current{% endif %}">
-    <a title="Buku" href="/buku">Buku</a>
-  </li>
   <li>
-    <a href="/authors-list" title="Author" id="Author">Author</a>
+    <a class="{% if page.url contains '/author-list %}current{% endif %}" href="/authors-list" title="Author" id="Author">Author</a>
   </li>
 <li>
-    <a href="/search" title="Author" id="Author">Cari</a>
+    <a href="/search" title="Cari">Cari</a>
+  </li>
+ <li class="current">
+    <a title="Login" href="/admin">Buku</a>
   </li>
 </ul>
