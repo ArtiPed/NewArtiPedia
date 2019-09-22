@@ -11,7 +11,8 @@ layout: compress
 {% include footer.html %}
 <div id='kotak-dialog' class="no-print"><h5 class='title'>Tunggu hingga dokumen muncul<a class='closed' href='#'>Tutup <i aria-hidden='true' class='fa fa-window-close'></i></a></h5><div class='isi-dialog'><div id='iframeContainer'></div></div></div><div id='dialog-overlay'></div>
 <script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-  <script type='text/javascript' src="/js/v-artipedia.js"></script><script>window.addEventListener("scroll",function(e){setTimeout(function(){lazyload()},3e3)}),</script>
+  <script type='text/javascript' src="/js/v-artipedia.js"></script>
+  <script>window.addEventListener("scroll", function(event){let timeout = setTimeout(function(){lazyload();}, 3000);});</script>
 {% if page.layout == 'news_item' %}
 <script type='text/javascript'>var disqus_shortname="{{ site.disqus.shortname }}",disqus_config=function(){this.page.url="{{ page.url | absolute_url }}",this.page.identifier="{{ page.url | absolute_url }}"},is_disqus_loaded=!1;function loadDisqus(){if(!is_disqus_loaded){is_disqus_loaded=!0;var s=document,e=s.createElement("script");e.src="//"+disqus_shortname+".disqus.com/embed.js",e.setAttribute("data-timestamp",+new Date),(s.head||s.body).appendChild(e)}}
 </script>{% endif %}
