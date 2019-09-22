@@ -31,7 +31,9 @@ Hingga muncul halaman seperti di bawah ini
 <li>Kolom image untuk menambahkan gambar bila ada </li>
 
 ![Gambar 6][artipedia6]
+
 ![Gambar 7][artipedia7]    
+
 <li>Last Modification diisi sesuai dengan tanggal posting yang anda inginkan</li>
 <li>Tags diisi dengan tag contoh anda menulis artikel tentang cara mengatasi anak kesulitan belajar maka tags nya dapat diisi dengan: anak, kesulitan-belajar, pembelajaran. Tags dipisahkan dengan koma apabila lebih dari satu, dan spasi diganti dengan tanda - apabila terdiri lebih dari satu kata.</li>
 <li>Pada kolom body silahkan isi dengan posting anda</li>
