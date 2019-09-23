@@ -45,7 +45,7 @@
             <a href="{{ site.baseurl }}{{ post.url }}">
               <div class="rel">
         
-                  <img class="lazyload" alt="{{post.title}}" title="{{post.title}}" src="/img/low/twitter-card.png" data-src="/img/thumb/{{post.image}}" width="170" height="80">
+                  <img class="lazyload" alt="{{post.title}}" title="{{post.title}}" src="/img/low/twitter-card.png" data-src="/img/thumb/{{post.image | replace: "/img/",""}}" width="170" height="80">
                             <p><small>{{ post.title | truncate: 300 }}</small></p>
               </div>
           </a>
