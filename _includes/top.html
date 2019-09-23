@@ -84,6 +84,7 @@
     <link rel="dns-prefetch" href="//realtime.services.disqus.com">
     {% endif %}
 	 {% if page.layout == 'news_item' %}
+    <link rel="canonical" href="{{ page.url | prepend: site.url }}">
     <link rel="amphtml" href="{{ page.url | prepend: site.url | replace: 'artipedia.id/','artipedia.id/amp/' }}">
 	 {% else %}
     <link rel="canonical" href="{{ page.url | prepend: site.url }}">
