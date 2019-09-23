@@ -15,30 +15,30 @@ Untuk mendaftar anda hanya perlu mengikuti langkah-langkah di bawah ini.
 ### Masuk ke halaman [login](/admin "login")
 Terletak pada menu sebelah kanan atas.
 
-![Gambar 1][artipedia1]{:data-src="/img/artipedia1.png"}{:class="lazyload"}
+![Gambar 1][artipedia1]{:data-src="/img/artipedia1.png"}{:class="lazyload image-post"}
 
 Hingga muncul halaman seperti di bawah ini
 
-![Gambar 2][artipedia2]{:data-src="/img/artipedia2.png"}{:class="lazyload"}
+![Gambar 2][artipedia2]{:data-src="/img/artipedia2.png"}{:class="lazyload image-post"}
 
 ### Pilih sign up
 Pilih cara mendaftar yang anda inginkan, dengan menggunakan email atau dengan akun google.com serta akun github.com.
 
-![Gambar 3][artipedia3]{:data-src="/img/artipedia3.png"}{:class="lazyload"}
+![Gambar 3][artipedia3]{:data-src="/img/artipedia3.png"}{:class="lazyload image-post"}
 
 ### Konfirmasi Email
 Setelah anda mendaftar kemudian buka email anda dan konfirmasi pendaftaran.
 ### Login kembali di ArtiPedia
 Setelah anda login di ArtiPedia kemudian akan muncul halaman seperti dibawah ini.
 
-![Gambar 4][artipedia4]{:data-src="/img/artipedia4.png"}{:class="lazyload"}
+![Gambar 4][artipedia4]{:data-src="/img/artipedia4.png"}{:class="lazyload image-post"}
 
 ### Memilih Kategori
 Pada halaman tersebut anda dapat memilih kategori yang ingin anda tulis kemudian pilih Tombol New Artikel apabila anda memilih kategori artikel, New Berita apabila anda memilih kategori berita, dan seterusnya. Selain menulis artikel baru, anda juga dapat mengedit halaman yang sebelumnya sudah di posting. 
 
 ### Perhatikan gambar di bawah ini.
 
-![Gambar 5][artipedia5]{:data-src="/img/artipedia5.png"}{:class="lazyload"}  
+![Gambar 5][artipedia5]{:data-src="/img/artipedia5.png"}{:class="lazyload image-post"}  
 
 <ol><li>Title diisi dengan judul</li>
 <li>Description diisi dengan deskripsi singkat</li>
@@ -49,7 +49,7 @@ Pada halaman tersebut anda dapat memilih kategori yang ingin anda tulis kemudian
 <li>Apabila sudah selesai kemudian klik save (simpan)</li>
 </ol>
 
-![Gambar 8][artipedia8]{:data-src="/img/artipedia8.png"}{:class="lazyload"}  
+![Gambar 8][artipedia8]{:data-src="/img/artipedia8.png"}{:class="lazyload image-post"}  
 
 [artipedia1]: /img/loading.gif 
 [artipedia2]: /img/loading.gif 
