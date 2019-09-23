@@ -51,11 +51,11 @@ Pada halaman tersebut anda dapat memilih kategori yang ingin anda tulis kemudian
 
 ![Gambar 8][artipedia8]  
 
-[artipedia1]: /img/artipedia1.png
-[artipedia2]: /img/artipedia2.png
-[artipedia3]: /img/artipedia3.png
-[artipedia4]: /img/artipedia4.png
-[artipedia5]: /img/artipedia5.png
-[artipedia6]: /img/artipedia6.png
-[artipedia7]: /img/artipedia7.png
-[artipedia8]: /img/artipedia8.png
+[artipedia1]: /img/loading.gif {:data-src="/img/artipedia1.png"}{:class="lazyload"}
+[artipedia2]: /img/loading.gif {:data-src="/img/artipedia2.png"}{:class="lazyload"}
+[artipedia3]: /img/loading.gif {:data-src="/img/artipedia3.png"}{:class="lazyload"}
+[artipedia4]: /img/loading.gif {:data-src="/img/artipedia4.png"}{:class="lazyload"}
+[artipedia5]: /img/loading.gif {:data-src="/img/artipedia5.png"}{:class="lazyload"}
+[artipedia6]: /img/loading.gif {:data-src="/img/artipedia6.png"}{:class="lazyload"}
+[artipedia7]: /img/loading.gif {:data-src="/img/artipedia7.png"}{:class="lazyload"}
+[artipedia8]: /img/loading.gif {:data-src="/img/artipedia8.png"}{:class="lazyload"}
