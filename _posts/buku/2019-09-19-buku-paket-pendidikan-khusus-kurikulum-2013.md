@@ -24,6 +24,26 @@ Pada kesempatan kali ini, buku yang dibagikan kali ini masih belum semua, oleh k
 Daftar Buku Pendidikan Khusus dan Layanan Khusus
 ## Buku Tunagrahita
 Berikut ini buku paket untuk jenis kekhususan Tunagrahita:
+### Kelas 3 Tunagrahita
+Buku paket tematik untuk satuan pendidikan SDLB Tunagrahita Kurikulum 2013
+1. Tema 1 Buku Guru [Download](https://docs.google.com/uc?export=download&id=1A6-WDvF82xlwOTH9mEMiMz0b5U_s6T6z)
+2. Tema 1 Buku Siswa [Download](docs.google.com/uc?export=download&id=1bX01rrz2Fkurf_FKvYSRfYD0GO3YRRpj)
+3. Tema 2 Buku Guru [Download](https://docs.google.com/uc?export=download&id=1m30LU_VN3tf621-qUWjg-GKbkwn7SLko)
+4. Tema 2 Buku Siswa [Download](https://docs.google.com/uc?export=download&id=1BU7e7ITo-RvibfXQbTaV_EEevH5rmFgb)
+5. Tema 3 Buku Guru [Download](https://docs.google.com/uc?export=download&id=1NBpfjFt3j7T1Of1DqOQ5DekNPOO9y7bL)
+6. Tema 3 Buku Siswa [Download](https://docs.google.com/uc?export=download&id=1Zk_tUKPNkVUxMZ2zJMkpPhAhMM28yIpA)
+7. Tema 4 Buku Guru Belum Tersedia
+8. Tema 4 Buku Siswa [Download](https://docs.google.com/uc?export=download&id=1QTmSbezbwrATw7oL6OphsQHpbQcEkoyr)
+9. Tema 5 Buku Guru   [Download](https://docs.google.com/uc?export=download&id=1VL-IKgSGxZX05Rt26ZgqpUpLjMxeDUT9)
+10. Tema 5 Buku Siswa [Download](https://docs.google.com/uc?export=download&id=1nA888MdBl5IMbuYtiY6gLfuJF2usxfTM)
+11. Tema 6 Buku Guru  [Download](https://docs.google.com/uc?export=download&id=124NfKbyMLXmhANdHF2ajqGXKAQsVY9k2)
+12. Tema 6 Buku Siswa [Download](https://docs.google.com/uc?export=download&id=1XqwNoJrHtPMvetzUWR7x1VOCvpjDKtID)
+13. Tema 7 Buku Guru  [Download](https://docs.google.com/uc?export=download&id=1VNDkDCfKvq3BJO992Ioqk5K6WbiNcjJe)
+14. Tema 7 Buku Siswa  [Download](https://docs.google.com/uc?export=download&id=1NVoN_ZImW2b8Ob2ZAfb-zbZbDUR_2I6p)
+15. Tema 8 Buku Guru   [Download](https://docs.google.com/uc?export=download&id=1YiAzFMlDEA2hbntijxr-9DiJOVheJWK8)
+16. Tema 8 Buku Siswa  [Download](https://docs.google.com/uc?export=download&id=1zB0HpsqJGa2H8LGixqnjldu2uazYhVCG)
+
+
 ### Kelas 7 Tunagrahita
 1. Tema 1 [Download](https://docs.google.com/uc?export=download&id=1fU7upTazN0i4-ZF6vlfBOB_sPILpS5gV)
 2. Tema 2 [Download](https://docs.google.com/uc?export=download&id=1km9sRE6fEwD3CdMAKUwLAkTgjmmHNhB3)
