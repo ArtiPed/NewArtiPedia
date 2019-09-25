@@ -47,6 +47,7 @@ Pada halaman tersebut anda dapat memilih kategori yang ingin anda tulis kemudian
 <li>Tags diisi dengan tag contoh anda menulis artikel tentang cara mengatasi anak kesulitan belajar maka tags nya dapat diisi dengan: anak, kesulitan-belajar, pembelajaran. Tags dipisahkan dengan koma apabila lebih dari satu, dan spasi diganti dengan tanda - apabila terdiri lebih dari satu kata.</li>
 <li>Pada kolom body silahkan isi dengan posting anda</li>
 <li>Apabila sudah selesai kemudian klik save (simpan)</li>
+<li>Ganti status menjadi ready. Tunggu hingga selesai. Kemudian Klik Publish</li>
 </ol>
 
 ![Gambar 8][artipedia8]{:data-src="/img/artipedia8.png"}{:class="lazyload image-post"}  
