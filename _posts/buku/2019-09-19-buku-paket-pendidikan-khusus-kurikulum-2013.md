@@ -4,7 +4,7 @@ title: Buku Paket Pendidikan Khusus Kurikulum 2013
 description: >-
   Buku Tematik Terpadu Pendidikan Khusus Kurikulum 2013 mulai buku guru sampai
   buku siswa.
-last_modified_date: 2019-09-19T13:51:18.469Z
+last_modified_date: 2019-09-26T13:51:18.469Z
 tags:
   - buku
   - abk
