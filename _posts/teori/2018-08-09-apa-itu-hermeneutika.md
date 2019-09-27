@@ -10,7 +10,7 @@ tags: [definisi,pengertian,referensi]
 * TOC
 {:toc}
 
-**[Hermeneutika](/wiki/apa-itu-hermeneutika.html "Hermeneutika")** merupakan metode yang paling sering digunakan dalam penelitian karya sastra, hermeneutika dianggap metode ilmiah paling tua.
+**[Hermeneutika](/teori/apa-itu-hermeneutika "Hermeneutika")** merupakan metode yang paling sering digunakan dalam penelitian karya sastra, hermeneutika dianggap metode ilmiah paling tua.
 ### Apa itu Hermeneutika?
 Secara etimologis, kata ‘*hermeneutika*’ berasal dari bahasa Yunani *hermeneuein* yang berarti menafsirkan. Maka, kata benda hermeneia secara harfiah dapat diartikan sebagai penafsiran atau interprestasi. Hermeneutika adalah salah satu jenis filsafat yang mempelajari tentang interprestasi makna atau penafsiran terhadap teks. Secara sederhana hermeneutika di artikan sebagai seni dan ilmu untuk menafsirkan teks-teks yang punya otoritas, khususnya teks suci. (*Ratna, 2004:44*)
 
