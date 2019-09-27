@@ -3,7 +3,7 @@ layout: news
 ---
 
 <article>
- {{ content }}
+ {{ content | replace: 'artipedia.site','artipedia.id' | replace: 'acronym', 'abbr'}}
  {% include ads-content.html %}
  {% include tags.html %}
  {% include edits.html %}
