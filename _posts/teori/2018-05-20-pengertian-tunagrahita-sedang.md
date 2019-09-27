@@ -7,12 +7,12 @@ description: Anak Tunagrahita Sedang adalah Anak memiliki antara IQ 51-36 menuru
 author: artipedia
 tags: [referensi,tunagrahita,abk]
 ---
-[ArtiPedia](https://artipedia.id "ArtiPedia") - [Anak tunagrahita](https://artipedia.id/wiki/tunagrahita.html "Tunagrahita") terbagi menjadi beberapa klasifikasi apabila dilihat dari Tingkat IQnya, salah satunya adalah Tunagrahita Sedang.
+[ArtiPedia](https://artipedia.id "ArtiPedia") - [Anak tunagrahita](https://artipedia.id/teori/tunagrahita "Tunagrahita") terbagi menjadi beberapa klasifikasi apabila dilihat dari Tingkat IQnya, salah satunya adalah Tunagrahita Sedang.
 * TOC
 {:toc}
 
 ## Pengertian Tunagrahita Sedang
-**[Anak tunagrahita sedang](/wiki/pengertian-tunagrahita-sedang.html "Pengertian Tunagrahita Sedang")** adalah: ”Mereka yang memiliki kemampuan intelektual umum dan adaptasi perilaku di bawah tunagrahita ringan” (Amin, 1995: 23). Pada bagian lain, Amin (1995: 39) mengemukakan bahwa : “Mereka masih mempunyai potensi untuk belajar memelihara diri dan menyesuaikan diri terhadap lingkungan, dan dapat mempelajari beberapa pekerjaan yang mempunyai arti ekonomi”.
+**[Anak tunagrahita sedang](/teori/pengertian-tunagrahita-sedang "Pengertian Tunagrahita Sedang")** adalah: ”Mereka yang memiliki kemampuan intelektual umum dan adaptasi perilaku di bawah tunagrahita ringan” (Amin, 1995: 23). Pada bagian lain, Amin (1995: 39) mengemukakan bahwa : “Mereka masih mempunyai potensi untuk belajar memelihara diri dan menyesuaikan diri terhadap lingkungan, dan dapat mempelajari beberapa pekerjaan yang mempunyai arti ekonomi”.
 
 Anak tunagrahita sedang memiliki IQ 51-36 menurut skala Binet dan 54-40 menurut skala Weshcler (WISC). Anak tunagrahita sedang bisa mencapai perkembangan MA atau usia perkembangan mental sampai kurang lebih 7 (tujuh) tahun, mereka dapat dididik membina diri sendiri dari bahaya seperti menghindari kebakaran, berjalan di jalan raya, berlindung dari hujan, memakai baju sendiri, dan sebagainya.
 
