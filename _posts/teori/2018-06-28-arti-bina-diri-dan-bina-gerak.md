@@ -2,7 +2,7 @@
 title: "Pengembangan Bina Diri dan Gerak Bagi Tunadaksa"
 layout: news_item
 comments: true
-date: "2018-06-28 14:49:09"
+date: "2019-06-28 14:49:09"
 description: Bina Diri dan Bina Gerak adalah serangkaian kegiatan pembinaan dan latihan yang dilakukan oleh guru secara terencana dan terprogram terhadap individu kemampuan mengurus diri, atau menolong diri sendiri (self help, self care).
 author: artipedia
 tags: [referensi,abk]
@@ -12,7 +12,7 @@ published: true
 {:toc}
 
 ## Pengertian/Definisi Bina Diri dan Bina Gerak
-[ArtiPedia](/ "ArtiPedia") - **[Bina Diri dan Bina Gerak](/wiki/arti-bina-diri-dan-bina-gerak.html "Pengertian Bina diri dan gerak")** adalah serangkaian kegiatan pembinaan dan latihan yang dilakukan oleh guru yang profesional dalam pendidikan khusus, secara terencana dan terprogram terhadap individu kemampuan mengurus diri, atau menolong diri sendiri (self help, self care) bukanlah kemampuan yang diwariskan dari orang tua, tetapi harus dipelajari terlebih dahulu serta individu yang mengalami gangguan pada otot, sendi, dan atau tulang, sehingga individu tersebut mengalami gangguan dalam melakukan aktivitas mobilisasi. Sejalan dengan hal tersebut, *Casmini (2010)* mengungkapkan bahwa “Bina Diri dan Bina Gerak (BDBG) merupakan suatu upaya pendidikan dalam bentuk kegiatan, pengembangan dan latihan dalam mengembangkan pengetahuan, keterampilan, nilai dan sikap bagi anak Tunadaksa, untuk membina gerakannya dalam melakukan aktivitas hidup sehari-hari”.
+[ArtiPedia](/ "ArtiPedia") - **[Bina Diri dan Bina Gerak](/teori/arti-bina-diri-dan-bina-gerak "Pengertian Bina diri dan gerak")** adalah serangkaian kegiatan pembinaan dan latihan yang dilakukan oleh guru yang profesional dalam pendidikan khusus, secara terencana dan terprogram terhadap individu kemampuan mengurus diri, atau menolong diri sendiri (self help, self care) bukanlah kemampuan yang diwariskan dari orang tua, tetapi harus dipelajari terlebih dahulu serta individu yang mengalami gangguan pada otot, sendi, dan atau tulang, sehingga individu tersebut mengalami gangguan dalam melakukan aktivitas mobilisasi. Sejalan dengan hal tersebut, *Casmini (2010)* mengungkapkan bahwa “Bina Diri dan Bina Gerak (BDBG) merupakan suatu upaya pendidikan dalam bentuk kegiatan, pengembangan dan latihan dalam mengembangkan pengetahuan, keterampilan, nilai dan sikap bagi anak Tunadaksa, untuk membina gerakannya dalam melakukan aktivitas hidup sehari-hari”.
 ## Ruang lingkup Bina Diri dan Bina Gerak
 **Ruang Lingkup Materi Pembelajaran Bina Diri dan Gerak** Ruang Iingkup materi kajian bagian bina diri dan bina gerak disusun menjadi beberapa pokok bahasan, yaitu: 1. Gerak kontrol kepala 2. Gerak anggota tubuh 3. Pindah diri 4. Gerak koordinasi 5. Menolong diri sendiri 6. Alat-alat bantu 7. Penyelamatan diri dari bahaya 8. Permainan 9. Mobilitas 10. Penggunaan waktu luang 11. Latihan menggunakan alat bantu 12. Penyesuaian diri 13. Kesibukan kerja 14. Komunikasi
 ## Tujuan Bina Diri dan Bina Gerak
