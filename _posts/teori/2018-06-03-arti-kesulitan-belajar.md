@@ -2,7 +2,7 @@
 layout: news_item
 comments: true
 title: "Arti Kesulitan Belajar"
-date: "2018-06-03 12:41:47"
+date: "2019-09-29 12:41:47"
 description: Kesulitan belajar merupakan hambatan yang dialami oleh siswa dalam proses belajar yang menyebabkan siswa mendapatkan hasil yang kurang optimal dalam proses belajarnya.
 author: artipedia
 image: kesulitan-belajar.jpg
