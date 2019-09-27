@@ -8,7 +8,7 @@ author: artipedia
 tags: [referensi]
 ---
 
-**[Dicovery Learning](/wiki/apa-itu-discovery-learning.html "Pengertian Pembelajaran Discovery Learning")** atau **pembelajaran berbasis penemuan** (*Discovery Based Learning*) memfasilitasi siswa untuk menemukan sendiri topik atau tema yang sedang dipelajari.
+**[Dicovery Learning](/teori/apa-itu-discovery-learning "Pengertian Pembelajaran Discovery Learning")** atau **pembelajaran berbasis penemuan** (*Discovery Based Learning*) memfasilitasi siswa untuk menemukan sendiri topik atau tema yang sedang dipelajari.
 
 * TOC
 {:toc}
