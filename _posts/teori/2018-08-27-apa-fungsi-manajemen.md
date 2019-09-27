@@ -12,7 +12,7 @@ published: true
 {:toc}
 
 ### Fungsi Manajemen
-[Fungsi manajemen](/wiki/apa-fungsi-manajemen.html "Fungsi manajemen") adalah elemen-elemen dasar yang selalu ada dan melekat di dalam proses manajemen yang akan dijadikan acuan oleh manajer dalam melaksanakan kegiatan untuk mencapai tujuan. Namun terdapat perbedaan pandangan mengenai fungsi-fungsi manajemen oleh beberapa ahli. 
+[Fungsi manajemen](/teori/apa-fungsi-manajemen.html "Fungsi manajemen") adalah elemen-elemen dasar yang selalu ada dan melekat di dalam proses manajemen yang akan dijadikan acuan oleh manajer dalam melaksanakan kegiatan untuk mencapai tujuan. Namun terdapat perbedaan pandangan mengenai fungsi-fungsi manajemen oleh beberapa ahli. 
 
 ### Fungsi Manajemen Menurut Para Ahli
 Menurut George R. Terry (Hasibuan, 2009 : 38) fungsi-fungsi manajemen meliputi “Perencanaan (*planning*), Pengorganisasian (*organizing*), Pengarahan (*actuating*) dan Pengendalian (*controlling*)”. 
