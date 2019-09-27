@@ -12,7 +12,7 @@ tags: [referensi,pendidikan]
 ## Apa itu Magang?
 [ArtiPedia](/ "ArtiPedia") - **Magang** dapat diartikan belajar di tempat kerja secara langsung. Magang menurut Kamus Besar Bahasa Indonesia (2009:444) adalah “calon pegawai yang belum diangkat secara tetap dan belum menerima gaji; calon ahli”. Sedangkan menurut Anwar (2015:77) magang adalah “proses belajar dimana seseorang memperoleh dan menguasai suatu keterampilan tanpa dan atau dengan petunjuk orang yang sudah terampil dalam pekerjaan itu” .
 
-Keterangan di atas dapat disimpulkan bahwa magang merupakan proses belajar  yang dilakukan anak di tempat tertentu baik itu didampingi oleh instruktur, ataupun tanpa didampingi yang bertujuan untuk meningkatkan dan memberikan pengalaman kepada anak tentang proses mengerjakan suatu pekerjaan secara langsung di tempat kerja. 
+Keterangan di atas dapat disimpulkan bahwa [magang merupakan](/teori/pengertian-magang "pengertian magang") proses belajar  yang dilakukan anak di tempat tertentu baik itu didampingi oleh instruktur, ataupun tanpa didampingi yang bertujuan untuk meningkatkan dan memberikan pengalaman kepada anak tentang proses mengerjakan suatu pekerjaan secara langsung di tempat kerja. 
 
 ## Tujuan Magang
 Secara umum magang bertujuan untuk memberi arahan kepada anak pada saat bekerja, baik itu di suatu perusahaan ataupun instansi. Tujuan magang menurut Anwar (2015:80) sebagai berikut:
