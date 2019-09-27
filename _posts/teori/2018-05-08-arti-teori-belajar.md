@@ -10,7 +10,7 @@ tags: [referensi,pendidikan]
 * TOC
 {:toc}
 
-[ArtiPedia](https://artipedia.id "ArtiPedia") - Kata **[Belajar](/wiki/arti-teori-belajar.html "Arti Belajar")** tentunya sudah tidak asing lagi bagi kita. Belajar secara sederhana dapat dikatakan sebagai suatu usaha untuk menambah pengetahuan, wawasan, keterampilan, pemahaman dll. Lebih jelasnya Belajar merupakan suatu proses usaha sadar yang dilakukan oleh individu untuk suatu perubahan dari tidak tahu menjadi tahu, dari tidak memiliki sikap menjadi bersikap benar, dari tidak terampil menjadi terampil melakukan sesuatu.  
+[ArtiPedia](https://artipedia.id "ArtiPedia") - Kata **[Belajar](/teori/arti-teori-belajar "Arti Belajar")** tentunya sudah tidak asing lagi bagi kita. Belajar secara sederhana dapat dikatakan sebagai suatu usaha untuk menambah pengetahuan, wawasan, keterampilan, pemahaman dll. Lebih jelasnya Belajar merupakan suatu proses usaha sadar yang dilakukan oleh individu untuk suatu perubahan dari tidak tahu menjadi tahu, dari tidak memiliki sikap menjadi bersikap benar, dari tidak terampil menjadi terampil melakukan sesuatu.  
 
 Belajar tidak hanya sekedar memetakan pengetahuan atau informasi yang disampaikan.  Namun bagaimana melibatkan individu secara aktif  membuat atau pun merevisi hasil belajar yang diterimanya menjadi suatu pengalamaan yang bermanfaat bagi pribadinya. 
 
@@ -20,7 +20,7 @@ Dalam dunia pendidikan teori belajar sangatlah penting dikuasai oleh pendidik. P
 
 Dari dua pendapat diatas Teori adalah seperangkat azaz tentang kejadian-kejadian yang didalamnnya memuat ide, konsep, prosedur dan prinsip yang dapat dipelajari, dianalisis dan diuji kebenarannya.  
 
-**[Teori Belajar](/wiki/arti-teori-belajar.html "Arti Teori Belajar")** adalah suatu teori yang di dalamnya memuat ide, konsep, prosedur dan prinsip tata cara pengaplikasian kegiatan belajar mengajar antara guru dan siswa, perancangan metode pembelajaran yang akan dilaksanakan di kelas maupun di luar kelas.
+**[Teori Belajar](/teori/arti-teori-belajar "Arti Teori Belajar")** adalah suatu teori yang di dalamnya memuat ide, konsep, prosedur dan prinsip tata cara pengaplikasian kegiatan belajar mengajar antara guru dan siswa, perancangan metode pembelajaran yang akan dilaksanakan di kelas maupun di luar kelas.
 
 Terdapat dua aliran teori belajar, yakni aliran **teori belajar tingkah laku (behavioristic)** dan **teori belajar kognitif**.
 
