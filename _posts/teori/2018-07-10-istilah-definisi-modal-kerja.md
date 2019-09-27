@@ -11,7 +11,7 @@ tags: [referensi,keuangan,definisi]
 * TOC
 {:toc}
 ### Istilah Modal Kerja
-[ArtiPedia](/ "ArtiPedia") - [Modal kerja](/wiki/istilah-definisi-modal-kerja.html "Modal kerja") merupakan aset yang digunakan untuk membiayai suatu kegiatan pada suatu bentuk usaha. 
+[ArtiPedia](/ "ArtiPedia") - [Modal kerja](/teori/istilah-definisi-modal-kerja "Modal kerja") merupakan aset yang digunakan untuk membiayai suatu kegiatan pada suatu bentuk usaha. 
 
 ### Definisi Modal Kerja Menurut Para Ahli
 Menurut I Made (2011:189) bahwa “terdapat beberapa konsep tentang modal kerja suatu perusahaan, dua diantaranya yang sering digunakan dalam praktik adalah modal kerja kotor (gross working capital) dan modal kerja bersih (net working capital)”. Modal kerja kotor adalah keseluruhan aktiva yang dimiliki perusahaan, sedangkan modal kerja bersih adalah selisih antara aktiva lancar dan utang lancar. 
