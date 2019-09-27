@@ -11,7 +11,7 @@ tags: [referensi,pendidikan]
 {:toc}
 
 ## Pendahuluan
-[ArtiPedia](/ "ArtiPedia") - Bagi para pendidik tentu saja istilah **[Kompetensi](/wiki/arti-kompetensi-inti-dan-kompetensi-dasar.html "Kompetensi")** sudah tidak asing lagi karena berkaitan erat dengan profesinya untuk mendidik peserta didik. 
+[ArtiPedia](/ "ArtiPedia") - Bagi para pendidik tentu saja istilah **[Kompetensi](/teori/arti-kompetensi-inti-dan-kompetensi-dasar "Kompetensi")** sudah tidak asing lagi karena berkaitan erat dengan profesinya untuk mendidik peserta didik. 
 
 **Definisi Kompetensi** menurut **UU No. 63 Tahun 2014** adalah seperangkat sikap, pengetahuan, dan keterampilan yang harus dimiliki, dihayati, dan dikuasai oleh peserta didik setelah mempelajari suatu muatan pembelajaran, menamatkan suatu program, atau menyelesaikan satuan pendidikan tertentu.
 
@@ -31,7 +31,7 @@ Isi KI harus mencerminkan harapan dari SKL Kompetensi inti (KI) terdiri dari KI-
 4. Kompetensi Inti-4 (KI-4) untuk kompetensi inti keterampilan.
 
 #### Fungsi Kompetensi Inti (KI)
-KI berfungsi sebagai unsur pengorganisasi (organising element) <acronym title="Kompetensi Dasar">KD</acronym>. Sebagai unsur pengorganisasi, KI merupakan pengikat untuk organisasi vertikal dan organisasi horizontal KD (Kompetensi Dasar). 
+KI berfungsi sebagai unsur pengorganisasi (organising element) <abbr title="Kompetensi Dasar">KD</abbr>. Sebagai unsur pengorganisasi, KI merupakan pengikat untuk organisasi vertikal dan organisasi horizontal KD (Kompetensi Dasar). 
 
 Organisasi vertikal KD adalah keterkaitan KD satu kelas dengan kelas di atasnya sehingga memenuhi prinsip belajar yaitu terjadi suatu akumulasi yang berkesinambungan antar kompetensi yang dipelajari peserta didik. 
 
