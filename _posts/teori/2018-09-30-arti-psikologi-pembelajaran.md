@@ -10,7 +10,7 @@ tags: [referensi]
 
 ## Konsep Dasar Psikologi Pembelajaran
 
-**[Psikologi pembelajaran](/wiki/arti-psikologi-pembelajaran.html "Arti Psikologi Pembelajaran")** berasal dari kata "**psikologi**" dan "**pembelajaran**". **Psikologi didefinisikan** sebagai kajian saintifik tentang tingkah laku dan proses mental organisme. Dengan demikian, ada tiga gagasan utama dalam definisi ini yaitu : 'saintifik', 'tingkah laku', 'proses mental'.
+**[Psikologi pembelajaran](/teori/arti-psikologi-pembelajaran "Arti Psikologi Pembelajaran")** berasal dari kata "**psikologi**" dan "**pembelajaran**". **Psikologi didefinisikan** sebagai kajian saintifik tentang tingkah laku dan proses mental organisme. Dengan demikian, ada tiga gagasan utama dalam definisi ini yaitu : 'saintifik', 'tingkah laku', 'proses mental'.
 
 * TOC
 {:toc}
@@ -35,4 +35,4 @@ Secara umum **pembelajaran** merupakan suatu proses perubahan tingkah laku yang 
 Dikutip dari wikipedia, [Pembelajaran](https://id.wikipedia.org/wiki/Pembelajaran "Pembelajaran") adalah proses, cara, perbuatan menjadikan orang atau makhluk hidup belajar.[1] Definisi sebelumnya menyatakan bahwa seorang manusia dapat melihat dalam perubahan yang terjadi, tetapi tidak pembelajaran itu sendiri.[2] Konsep tersebut adalah teoretis, dan dengan demikian tidak secara langsung dapat diamati. 
 
 ## Kesimpulan
-Dari uraian di atas, dapat disimpulkan "[Psikologi Pembelajaran](/wiki/arti-psikologi-pembelajaran.html)" adalah ilmu yang mengkaji mengapa, bilamana, dan bagaimana proses pembelajaran berlangsung sebagai suatu organisme. Semua organisme mempunyai kapasitas untuk belajar selagi organisme itu mempunyai otak. Tumpuan perhatian ahli **Psikologi Pembelajaran** adalah mengkaji mengapa, bilamana, dan bagaimana proses pembelajaran berlaku.
+Dari uraian di atas, dapat disimpulkan "[Psikologi Pembelajaran](/teori/arti-psikologi-pembelajaran "Psikologi Pembelajaran")" adalah ilmu yang mengkaji mengapa, bilamana, dan bagaimana proses pembelajaran berlangsung sebagai suatu organisme. Semua organisme mempunyai kapasitas untuk belajar selagi organisme itu mempunyai otak. Tumpuan perhatian ahli **Psikologi Pembelajaran** adalah mengkaji mengapa, bilamana, dan bagaimana proses pembelajaran berlaku.
