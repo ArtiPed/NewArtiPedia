@@ -76,9 +76,9 @@ Menurut Skala Weschler (WISC) dalam Somantri (2012:106-108) mengklasifikasikan a
 3.	Tunagrahita berat memiliki IQ antara 39-25. Mereka memerlukan bantuan perawatan secara total dalam hal berpakaian, mandi, makan, dan lainya.
 
 Pendapat lainnya menurut **Astuti dan Walentiningsih (2011:30-31)** klasifikasi anak tunagrahita antara lain : 
-### *[Tunagrahita ringan](/wiki/anak-tunagrahita-ringan.html "Tunagrahita Ringan")*
+### *[Tunagrahita ringan](/teori/anak-tunagrahita-ringan.html "Tunagrahita Ringan")*
 Anak tunagrahita ringan umumnya mampu belajar membaca, menulis, dan berhitung sederhana, pada usia 16 tahun tingkat kecerdasannya sama dengan anak kelas  tiga/ lima SD, kematangan belajar membaca dicapai pada usia 9 sampai dengan 12 tahun, dapat bergaul dan mampu mengerjakan pekerjaan ringan.
-### *[Tunagrahita sedang](/wiki/pengertian-tunagrahita-sedang.html "Tunagrahita Sedang")*
+### *[Tunagrahita sedang](/teori/pengertian-tunagrahita-sedang.html "Tunagrahita Sedang")*
 Anak Tunagrahita sedang umumnya tidak mampu mempelajari pelajaran akademik, perkembangan bahasa terbatas, berkomunikasi dengan beberapa kata, mampu menulis nama sendiri, nama orang tua adan alamat, mengenal angka tanpa pengertian, dapat dilatih bersosialisasi, mampu mengenali bahaya, tingkat kescerdasan setara anak usia 6 tahun.
 ### *Tunagrahita berat*: 
 Anak tunagrahita berat umumnya selalu tergantung pada orang lain, tidak mampu mengurus diri sendiri, tidak mengenali bahaya, tingkat kecerdasannya setara dengan anak usia 4 tahun.
