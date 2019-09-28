@@ -5,7 +5,7 @@ description: >-
   Buku Paket Kelas 9 Kurikulum 2013 Revisi 2018 terdiri dari buku guru dan buku
   siswa revisi terbaru.  Link Download Buku Siswa SMP Kelas IX (9) Kurikulum
   2013.
-last_modified_date: 2019-09-19T18:04:11.685Z
+last_modified_date: 2019-09-27T18:04:11.685Z
 tags:
   - buku
   - kelas-9
@@ -22,6 +22,8 @@ Kami mempublikasikan **Buku Guru dan Siswa Kelas 9 Kurikulum 2013 Revisi 2018** 
 {% include ads-artikel.html %}
 
 Dengan **mengunduh buku kurtilas kelas 9** ini dan menyimpannya di smartphone, tablet atau laptop, maka seluruh pelajar atau guru di Indonesia dapat menggunakannya dimana saja dan kapan saja.
+
+Buku ini disusun supaya guru dan siswa bisa mendapatkan gambaran yang terperinci dalam melaksanakan kegiatan pembelajaran
 
 Berikut ini adalah daftar buku paket ("[Buku Guru dan Buku Siswa Kelas 9 Revisi 2018](/wiki/buku-kelas-9-kurikulum-2013-revisi-2018.html "Buku Kelas 9 Kurikulum 2013 Revisi 2018")")
 
