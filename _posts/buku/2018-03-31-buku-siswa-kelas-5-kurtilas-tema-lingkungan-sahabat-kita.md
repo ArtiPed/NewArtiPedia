@@ -50,7 +50,7 @@ tags:
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku pelajaran sangatlah penting untuk menunjang kegiatan pembelajaran di kelas, khususnya kelas 5 Sekolah Dasar. Buku yang saat ini digunakan di kelas 5 adalah buku kurikulum 2013 (K13) Revisi. Seperti Buku Siswa Kelas 5 Tema 8 du Bawah ini:
+[ArtiPedia](/ "ArtiPedia") - Buku pelajaran sangatlah penting untuk menunjang kegiatan pembelajaran di kelas, khususnya kelas 5 Sekolah Dasar. Buku yang saat ini digunakan di kelas 5 adalah buku kurikulum 2013 (K13) Revisi. Seperti **Buku Siswa Kelas 5** Tema 8 du Bawah ini:
 
 Penggunaan buku siswa tema lingkungan sahabat kita dapat memberikan gambaran kepada siswa yang dapat membantu dalam belajar di kelas atau dirumah.
 
@@ -60,7 +60,7 @@ Penggunaan buku siswa tema lingkungan sahabat kita dapat memberikan gambaran kep
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-siswa-kelas-5-kurtilas-tema-lingkungan-sahabat-kita.html" title="Buku Siswa Kelas 5 semester 2 Tema 8 Lingkungan Sahabat Kita K13 Revisi 2017"><strong>Lingkungan Sahabat Kita</strong></a>|
+|Tema|<a href="/buku/buku-siswa-kelas-5-kurtilas-tema-lingkungan-sahabat-kita.html" title="Buku Siswa Kelas 5 semester 2 Tema 8 Lingkungan Sahabat Kita K13 Revisi 2017"><strong>Lingkungan Sahabat Kita</strong></a>|
 |Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
