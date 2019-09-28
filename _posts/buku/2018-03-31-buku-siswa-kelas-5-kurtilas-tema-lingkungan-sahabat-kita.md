@@ -1,21 +1,17 @@
 ---
-title: "Buku Siswa Kelas 5 Tema 8 Lingkungan Sahabat Kita Kurikulum 2013"
 layout: news_item
-comments: true
-date: '2018-03-31 12:48:09'
+title: Buku Siswa Kelas 5 Tema 8 Lingkungan Sahabat Kita Kurikulum 2013
 description: >-
   Buku siswa kelas 5 tema 8 Lingkungan Sahabat Kita merupakan buku kurikulum
   2013 revisi 2017 yang digunakan sebagai penunjang bagi pembelajaran siswa di
   kelas.
-author: artipedia
+image: buku-siswa-sd.png
+last_modified_date: 2019-09-28T09:51:17.380Z
 tags:
   - buku
   - pendidikan
   - kelas-5
   - tematik
-published: true
-image: buku-siswa-sd.png
-redirect_from: /wiki/buku-siswa-kelas-5-kurtilas-tema-lingkungan-sahabat-kita.html
 ---
 * TOC
 {:toc}
@@ -55,6 +51,8 @@ redirect_from: /wiki/buku-siswa-kelas-5-kurtilas-tema-lingkungan-sahabat-kita.ht
 </script>
 
 [ArtiPedia](/ "ArtiPedia") - Buku pelajaran sangatlah penting untuk menunjang kegiatan pembelajaran di kelas, khususnya kelas 5 Sekolah Dasar. Buku yang saat ini digunakan di kelas 5 adalah buku kurikulum 2013 (K13) Revisi. Seperti Buku Siswa Kelas 5 Tema 8 du Bawah ini:
+
+Penggunaan buku siswa tema lingkungan sahabat kita dapat memberikan gambaran kepada siswa yang dapat membantu dalam belajar di kelas atau dirumah.
 
 ## Buku Siswa Kelas 5 Tema 8 Lingkungan Sahabat Kita
 
