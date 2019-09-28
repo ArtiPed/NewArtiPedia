@@ -16,7 +16,7 @@ tags:
 {:toc}
 
 ### Pengertian 
-[Artipedia](https://artipedia.id "Artipedia") - [Psikometrik](https://artipedia.id/wiki/perspektif-psikometrik-anak-tunagrahita.html "Psikometrik") merupakan ukuran variabel patologis berkaitan dengan intelegensi, kemampuan berperilaku adaptif, dan kelainan atau gangguan emosional. Memperhatikan pada postingan selanjutnya tentang [Pengertian Tunagrahita](https://artipedia.id/teori/tunagrahita "Apa itu Tunagrahita") maka akan nampak jelas kelemahan-kelemahan dari definisi-definisi tersebut. Hal ini terjadi disebabkan dalam definisi tersebut hanya bersifat perbandingan secara garis besar dari individu tertentu yang diidentifikasikan sebagai "Anak Tunagrahita"
+[Artipedia](https://artipedia.id "Artipedia") - [Psikometrik](https://artipedia.id/artikel/perspektif-psikometrik-anak-tunagrahita.html "Psikometrik") merupakan ukuran variabel patologis berkaitan dengan intelegensi, kemampuan berperilaku adaptif, dan kelainan atau gangguan emosional. Memperhatikan pada postingan selanjutnya tentang [Pengertian Tunagrahita](https://artipedia.id/teori/tunagrahita "Apa itu Tunagrahita") maka akan nampak jelas kelemahan-kelemahan dari definisi-definisi tersebut. Hal ini terjadi disebabkan dalam definisi tersebut hanya bersifat perbandingan secara garis besar dari individu tertentu yang diidentifikasikan sebagai "Anak Tunagrahita"
 
 Dapat dikatakan bahwa definisi tersebut kurang dapat mewakili sebagai bentuk diagnosis secara objektif dengan alasan sebagai berikut:
 1. Tidak praktis atau susah dalam penerapannya, karena dalam definisi tidak dilengkapi dengan keobjektifan diagnosis.
