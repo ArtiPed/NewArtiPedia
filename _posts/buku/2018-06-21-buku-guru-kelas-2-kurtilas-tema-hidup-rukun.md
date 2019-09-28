@@ -1,12 +1,18 @@
 ---
-title: "Buku Guru Kelas 2 Tema Hidup Rukun Kurikulum 2013"
 layout: news_item
-comments: true
-date: "2018-06-21 03:48:09"
-description: Buku guru kelas 2 tema 1 Hidup Rukun merupakan buku kurikulum 2013 revisi 2017 yang digunakan oleh guru sebagai penunjang dan panduan penggunaan buku siswa kelas 2 SD.
-author: artipedia
-tags: [buku,pendidikan,sd,buku-guru,kelas-2,tematik]
-published: true
+title: Buku Guru Kelas 2 Tema Hidup Rukun Kurikulum 2013
+description: >-
+  Buku guru kelas 2 tema 1 Hidup Rukun merupakan buku kurikulum 2013 revisi 2017
+  yang digunakan oleh guru sebagai penunjang dan panduan penggunaan buku siswa
+  kelas 2 SD.
+last_modified_date: 2019-09-28T09:59:15.350Z
+tags:
+  - buku
+  - pendidikan
+  - sd
+  - buku-guru
+  - kelas-2
+  - tematik
 ---
 * TOC
 {:toc}
@@ -45,15 +51,15 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Setiap tahun ajaran baru, guru selalu disibukan dengan melakukan persiapan seperti menyiapkan program, buku, materi, dll. Salah satu yang tak kalah penting adalah menyiakan buku pelajaran atau buku guru dan buku siswa. Buku pelajaran sangatlah penting untuk menunjang kegiatan pembelajaran di kelas, khususnya kelas 2 Sekolah Dasar. 
+[ArtiPedia](/ "ArtiPedia") - Setiap tahun ajaran baru, guru selalu disibukan dengan melakukan persiapan seperti menyiapkan program, buku, materi, dll. Salah satu yang tak kalah penting adalah menyiakan buku pelajaran atau **buku guru** dan buku siswa. Buku pelajaran sangatlah penting untuk menunjang kegiatan pembelajaran di kelas, khususnya kelas 2 Sekolah Dasar. 
 
-Buku Guru Kelas II SD digunakan sebagai buku panduan bagi guru dalam penggunaan buku siswa. Selain itu buku ini dapat digunakan sebagai panduan dalam menyusun program pembelajaran dan pelaksanaan kegiatan pembelajaran.
+**Buku Guru Kelas II SD** **Tema Hidup Rukun** digunakan sebagai buku panduan bagi guru dalam penggunaan buku siswa. Selain itu buku ini dapat digunakan sebagai panduan dalam menyusun program pembelajaran dan pelaksanaan kegiatan pembelajaran.
 
 ## Buku Guru Kelas 2 Tema 1 Hidup Rukun
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-guru-kelas-2-kurtilas-tema-hidup-rukun.html" title="Buku Guru Kelas 2 semester 1 Tema 1 Hidup Rukun K13 Revisi 2017"><strong>Hidup Rukun</strong></a>|
+|Tema|<a href="/buku/buku-guru-kelas-2-kurtilas-tema-hidup-rukun.html" title="Buku Guru Kelas 2 semester 1 Tema 1 Hidup Rukun K13 Revisi 2017"><strong>Hidup Rukun</strong></a>|
 |Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
