@@ -23,6 +23,8 @@ Kami mempublikasikan **Buku Guru dan Siswa Kelas 9 Kurikulum 2013 Revisi 2018** 
 
 Dengan **mengunduh buku kurtilas kelas 9** ini dan menyimpannya di smartphone, tablet atau laptop, maka seluruh pelajar atau guru di Indonesia dapat menggunakannya dimana saja dan kapan saja.
 
+Buku ini disusun supaya guru dan siswa bisa mendapatkan gambaran yang terperinci dalam melaksanakan kegiatan pembelajaran
+
 Berikut ini adalah daftar buku paket ("[Buku Guru dan Buku Siswa Kelas 9 Revisi 2018](/wiki/buku-kelas-9-kurikulum-2013-revisi-2018.html "Buku Kelas 9 Kurikulum 2013 Revisi 2018")")
 
 <ol class="arti">{% for post in site.tags.kelas-9 %}
