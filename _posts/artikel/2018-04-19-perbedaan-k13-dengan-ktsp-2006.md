@@ -4,7 +4,7 @@ title: Perbedaan Kurikulum 2013 dengan KTSP 2006
 description: >-
   Kurikulum 2013 dan kurikulum KTSP 2006 memiliki perbedaan  signifikan, salah
   satunya dalam muatan/komponen-komponen masing-masing kurikulum.
-last_modified_date: 2019-09-14T16:59:14.729Z
+last_modified_date: 2019-09-28T16:59:14.729Z
 author: artipedia
 tags:
   - referensi
@@ -21,7 +21,7 @@ tags:
 ## Perbedaan Kurikulum 2013 dengan KTSP 2016
 Perbedaan antara **Kurikulum 2013 dengan KTSP 2016** antara lain nampak pada hal-hal sebagai berikut:
 
-Kurikulum 2013 dengan Kurikulum KTSP 2006 antara lain sangat signifikan perbedaannya seperti pada pada KTSP 2006 terdapat standar kompetensi dan kompetensi dasar sedangkan pada [K13 Kompetetensi Inti dan Kompetensi Dasar](https://artipedia.id/wiki/arti-kompetensi-inti-dan-kompetensi-dasar.html "Arti Kompetensi Inti dan Kompetensi Dasar"), mata pelajaran, jenis pendekatan pembelajaran, penilaian, dll. Pada kurikulum 2006 terdapat standar kompetensi sedangkan pada kurikulum 2013 diganti menjadi kompetensi Inti yang terdiri dari 4 kompetensi inti. 
+Kurikulum 2013 dengan Kurikulum KTSP 2006 antara lain sangat signifikan perbedaannya seperti pada pada KTSP 2006 terdapat standar kompetensi dan kompetensi dasar sedangkan pada [K13 Kompetetensi Inti dan Kompetensi Dasar](https://artipedia.id/teori/arti-kompetensi-inti-dan-kompetensi-dasar "Arti Kompetensi Inti dan Kompetensi Dasar"), mata pelajaran, jenis pendekatan pembelajaran, penilaian, dll. Pada kurikulum 2006 terdapat standar kompetensi sedangkan pada kurikulum 2013 diganti menjadi kompetensi Inti yang terdiri dari 4 kompetensi inti. 
 
 {% include ads-artikel.html %}
 
