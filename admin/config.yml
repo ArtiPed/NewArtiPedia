@@ -23,7 +23,10 @@ collections:
         widget: "image"
         required: false
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
-      - {label: "Author", name: "author", widget: "string"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
       
@@ -41,6 +44,10 @@ collections:
         widget: "image"
         required: false
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
       
@@ -58,6 +65,10 @@ collections:
         widget: "image"
         required: false
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
 
@@ -75,6 +86,10 @@ collections:
         widget: "image"
         required: false
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
       
@@ -92,6 +107,10 @@ collections:
         widget: "image"
         required: false
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
       
@@ -109,6 +128,10 @@ collections:
         widget: "image"
         required: false
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
       
@@ -126,6 +149,10 @@ collections:
         widget: "image"
         required: false
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
   
@@ -143,6 +170,10 @@ collections:
         widget: "image"
         required: false
       - {label: "Last modified date", name: "last_modified_date", widget: "datetime"}
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        required: false
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
