@@ -1,12 +1,18 @@
 ---
 layout: news_item
-comments: true
-title: "Apakah Anak Anda Lamban Belajar (Slow Learner)?"
-date: "2018-06-06 20:41:47"
-description: Lamban belajar adalah anak-anak yang memerlukan sedikit lebih banyak waktu daripada yang lain untuk memahami konsep baik itu dalam mengikuti pembelajaran di sekolah atau dalam mempelajari hal baru di rumah.
-author: artipedia
+title: Apakah Anak Anda Lamban Belajar (Slow Learner)?
+description: >-
+  Lamban belajar adalah anak-anak yang memerlukan sedikit lebih banyak waktu
+  daripada yang lain untuk memahami konsep baik itu dalam mengikuti pembelajaran
+  di sekolah atau dalam mempelajari hal baru di rumah.
 image: apakah-anak-saya-lamban-belajar.jpg
-tags: [referensi,kesulitan-belajar,abk, orang-tua]
+last_modified_date: 2019-09-28T10:10:10.262Z
+author: artipedia
+tags:
+  - referensi
+  - kesulitan-belajar
+  - abk
+  - orang-tua
 ---
 * TOC
 {:toc}
@@ -25,7 +31,7 @@ Anak anak lamban belajar (*slow learner*) umumnya memiliki karakteristik seperti
 3. **Kepribadian**: Mudah frustasi, emosi kecemasan yang berlebihan, agresif, rendah diri yang berlebihan, dan ketidakstabilan emosi.
 4. **Pembelajaran**: Anak umumnya membutuhkan waktu yang lebih dalam dalam memproses informasi. Mereka mahir dan fokus dalam beberapa mata pelajaran atau tugas tertentu, tetapi memerlukan latihan tambahan untuk belajar dan melatih keterampilan baru.
 
-### Perbedaan Antara '[Anak Kesulitan Belajar (Learning disability)](https://artipedia.id/artikel/arti-kesulitan-belajar.html "Arti Kesulitan Belajar")' dan 'Lamban Belajar (low Learners)'
+### Perbedaan Antara '[Anak Kesulitan Belajar (Learning disability)](https://artipedia.id/teori/arti-kesulitan-belajar "Arti Kesulitan Belajar")' dan 'Lamban Belajar (low Learners)'
 
 Seorang anak *slow learner* (lamban belajar) mungkin secara signifikan lebih lambat dalam mencapai tonggak untuk usianya, tetapi perkembangannya akan seimbang. Mereka menunjukkan kapasitas berpikir yang lebih rendah dari anak-anak seusianya, tetapi akan memiliki kemampuan atas tugas dan keterampilan tertentu. Anak lamban belajar, apabila di bawah panduan yang tepat baik itu orang tua atau guru dapat menunjukkan peningkatan yang signifikan. 
 
