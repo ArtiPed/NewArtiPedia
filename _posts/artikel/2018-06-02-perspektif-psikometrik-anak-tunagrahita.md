@@ -1,18 +1,22 @@
 ---
 layout: news_item
-comments: true
-title: "Perspektif Psikometrik Anak Tunagrahita"
-date: "2018-06-02 12:01:47"
-description: Psikometrik merupakan ukuran variabel patologis berkaitan dengan intelegensi, kemampuan berperilaku adaptif, dan kelainan atau gangguan emosional.
-author: artipedia
+title: Perspektif Psikometrik Anak Tunagrahita
+description: >-
+  Psikometrik merupakan ukuran variabel patologis berkaitan dengan intelegensi,
+  kemampuan berperilaku adaptif, dan kelainan atau gangguan emosional.
 image: psikometrik.jpg
-tags: [referensi,tunagrahita,abk]
+last_modified_date: 2019-09-28T10:08:09.503Z
+author: artipedia
+tags:
+  - referensi
+  - tunagrahita
+  - abk
 ---
 * TOC
 {:toc}
 
 ### Pengertian 
-[Artipedia](https://artipedia.id "Artipedia") - [Psikometrik](https://artipedia.id/wiki/perspektif-psikometrik-anak-tunagrahita.html "Psikometrik") merupakan ukuran variabel patologis berkaitan dengan intelegensi, kemampuan berperilaku adaptif, dan kelainan atau gangguan emosional. Memperhatikan pada postingan selanjutnya tentang [Pengertian Tunagrahita](https://artipedia.id/wiki/tunagrahita "Apa itu Tunagrahita") maka akan nampak jelas kelemahan-kelemahan dari definisi-definisi tersebut. Hal ini terjadi disebabkan dalam definisi tersebut hanya bersifat perbandingan secara garis besar dari individu tertentu yang diidentifikasikan sebagai "Anak Tunagrahita"
+[Artipedia](https://artipedia.id "Artipedia") - [Psikometrik](https://artipedia.id/wiki/perspektif-psikometrik-anak-tunagrahita.html "Psikometrik") merupakan ukuran variabel patologis berkaitan dengan intelegensi, kemampuan berperilaku adaptif, dan kelainan atau gangguan emosional. Memperhatikan pada postingan selanjutnya tentang [Pengertian Tunagrahita](https://artipedia.id/teori/tunagrahita "Apa itu Tunagrahita") maka akan nampak jelas kelemahan-kelemahan dari definisi-definisi tersebut. Hal ini terjadi disebabkan dalam definisi tersebut hanya bersifat perbandingan secara garis besar dari individu tertentu yang diidentifikasikan sebagai "Anak Tunagrahita"
 
 Dapat dikatakan bahwa definisi tersebut kurang dapat mewakili sebagai bentuk diagnosis secara objektif dengan alasan sebagai berikut:
 1. Tidak praktis atau susah dalam penerapannya, karena dalam definisi tidak dilengkapi dengan keobjektifan diagnosis.
