@@ -1,21 +1,27 @@
 ---
 layout: news_item
-comments: true
-title: "RPP Kelas 3 SD Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup"
-date: "2019-09-05 20:00:47"
-description: RPP K13 Kelas 3 SD Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidu Kurikulum 2013 Revisi 2017 ini sebagai referensi atau contoh dalam membuat program pembelajaran (RPP) tahun Ajaran Baru 2018-2019.
+title: RPP Kelas 3 SD Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup
+description: >-
+  RPP K13 Kelas 3 SD Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidu Kurikulum
+  2013 Revisi 2017 ini sebagai referensi atau contoh dalam membuat program
+  pembelajaran (RPP) tahun Ajaran Baru 2018-2019.
+date: '2019-09-05 20:00:47'
 author: artipedia
-tags: [administrasi,pendidikan,rpp,sd,kelas-3]
-redirect-from: /rpp/rpp-kelas-3-sd-tema-1-kurikulum-2013
+tags:
+  - administrasi
+  - pendidikan
+  - rpp
+  - sd
+  - kelas-3
 ---
 * TOC
 {:toc}
 
-Guru dalam mengelola kelas diwajibkan untuk menyusun program pembelajaran salah satunya adalah **RPP** dalam mempersiapkan pelaksanaan kegiatan pembelajaran yang akan ditempuh. karena kegiatan pelaksanaan pembelajaran akan lebih efektif apabila disertai dengan perencanaan dalam hal ini <b>rencana pelaksanaan pembelajaran (<acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym>)</b>. <b>Rencana pelaksanaan pembelajaran</b> menjadi prasayarat guru dalam melaksanakan pembelajaran agar lebih optimal. RPP disusun berdasarkan kurikulum yang berlaku seperti kurikulum 2013 atau sering disebut kurtilas. 
+Guru dalam mengelola kelas diwajibkan untuk menyusun program pembelajaran salah satunya adalah **RPP** dalam mempersiapkan pelaksanaan kegiatan pembelajaran yang akan ditempuh. karena kegiatan pelaksanaan pembelajaran akan lebih efektif apabila disertai dengan perencanaan dalam hal ini <b>rencana pelaksanaan pembelajaran (<abbr title="Rencana Pelaksanaan Pembelajaran">RPP</abbr>)</b>. <b>Rencana pelaksanaan pembelajaran</b> menjadi prasayarat guru dalam melaksanakan pembelajaran agar lebih optimal. RPP disusun berdasarkan kurikulum yang berlaku seperti **kurikulum 2013** atau sering disebut **kurtilas**. 
 
-Rencana pelaksanaan pembelajaran <b>(RPP)</b> bagi <i>Jenjang Sekolah Dasar</i> dibuat dalam bentuk <i>Tematik</i> dimana membaurkan beberapa mata pelajaran dalam satu tema. Setiap satuan pendidikan, kelas memiliki tema-tema tersendiri. 
+Rencana pelaksanaan pembelajaran <b>(RPP) kelas 3 tema 1</b> bagi <i>Jenjang Sekolah Dasar</i> dibuat dalam bentuk <i>Tematik</i> dimana membaurkan beberapa mata pelajaran dalam satu tema. Setiap satuan pendidikan, kelas memiliki tema-tema tersendiri. 
 
-Pada Kelas 3 Sekolah Dasar Tahun ajaran baru (2018-2019) terdiri dari delapan tema yang didalamnya memuat masing-masing 4 subtema. RPP yang dipublikasikan di sini hanyalah sebagai contoh atau panduan bagi guru dalam merumuskan program pembalajaran untuk tahun ajaran baru (2018-2019) sehingga tidak sepenuhnya rencana program pembelajaran yang dimuat disini benar. Berikut ini adalah contoh [RPP Kelas 3 SD Semester 1 Kelas 3 Tema 1 kurikulum 2013](https://artipedia.id/wiki/rpp-kelas-3-sd-tema-1-kurikulum-2013.html "RPP Kelas 3 SD Semester 1 Tema Pertumbuhan dan Perkembangan Makhluk Hidup kurikulum 2013").
+Pada Kelas 3 Sekolah Dasar Tahun ajaran baru terdiri dari delapan tema yang didalamnya memuat masing-masing 4 subtema. RPP yang dipublikasikan di sini hanyalah sebagai contoh atau panduan bagi guru dalam merumuskan program pembalajaran untuk tahun ajaran baru sehingga tidak sepenuhnya rencana program pembelajaran yang dimuat disini benar. Berikut ini adalah contoh [RPP Kelas 3 SD Semester 1 Kelas 3 Tema 1 kurikulum 2013](https://artipedia.id/rpp/rpp-kelas-3-sd-tema-1-kurikulum-2013 "RPP Kelas 3 SD Semester 1 Tema Pertumbuhan dan Perkembangan Makhluk Hidup kurikulum 2013").
 
 
 ## RPP Kelas 3 Tema 1 Perkembangan dan Pertumbuhan Makhluk Hidup
