@@ -116,7 +116,7 @@ overview: true
           <div class="card">
                 <span class="image">
                  <img alt="{{ post.title }}" title="{{ post.title }}" class="post-image-index lazyload"  src="/img/low/twitter-card.png" data-src="/img/thumb/{{post.image | replace: '/img/',''}}" width="300" height="146.25" />
-                <p class="time"><time datetime="{{post.date | date: '%Y-%m-%d'}}">{{post.date | date: "%Y %b %d"}}</time></p>
+                <p class="time"><time datetime="{{post.date | date: '%Y-%m-%d'}}">{{ post.date | date_to_string }}</time></p>
                 </span>
             <div class="card-footer">
                     <h2 class="post-index-title">{{ post.title }}</h2>
