@@ -17,7 +17,7 @@ tags:
 * TOC
 {:toc}
 
-Guru dalam mengelola kelas diwajibkan untuk menyusun program pembelajaran salah satunya adalah **RPP** dalam mempersiapkan pelaksanaan kegiatan pembelajaran yang akan ditempuh. karena kegiatan pelaksanaan pembelajaran akan lebih efektif apabila disertai dengan perencanaan dalam hal ini <b>rencana pelaksanaan pembelajaran (<abbr title="Rencana Pelaksanaan Pembelajaran">RPP</abbr>)</b>. <b>Rencana pelaksanaan pembelajaran</b> menjadi prasayarat guru dalam melaksanakan pembelajaran agar lebih optimal. RPP disusun berdasarkan kurikulum yang berlaku seperti kurikulum 2013 atau sering disebut kurtilas. 
+Guru dalam mengelola kelas diwajibkan untuk menyusun program pembelajaran salah satunya adalah **RPP** dalam mempersiapkan pelaksanaan kegiatan pembelajaran yang akan ditempuh. karena kegiatan pelaksanaan pembelajaran akan lebih efektif apabila disertai dengan perencanaan dalam hal ini <b>rencana pelaksanaan pembelajaran (<abbr title="Rencana Pelaksanaan Pembelajaran">RPP</abbr>)</b>. <b>Rencana pelaksanaan pembelajaran</b> menjadi prasayarat guru dalam melaksanakan pembelajaran agar lebih optimal. RPP disusun berdasarkan kurikulum yang berlaku seperti **kurikulum 2013** atau sering disebut **kurtilas**. 
 
 Rencana pelaksanaan pembelajaran <b>(RPP) kelas 3 tema 1</b> bagi <i>Jenjang Sekolah Dasar</i> dibuat dalam bentuk <i>Tematik</i> dimana membaurkan beberapa mata pelajaran dalam satu tema. Setiap satuan pendidikan, kelas memiliki tema-tema tersendiri. 
 
