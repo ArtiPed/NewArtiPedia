@@ -4,7 +4,7 @@ title: Buku Paket Pendidikan Khusus Kurikulum 2013
 description: >-
   Buku Tematik Terpadu Pendidikan Khusus Kurikulum 2013 mulai buku guru sampai
   buku siswa.
-last_modified_date: 2019-09-26T13:51:18.469Z
+date: 2019-09-29T03:58:32.913Z
 tags:
   - buku
   - abk
@@ -17,7 +17,7 @@ tags:
 ---
 Buku yang dibagikan kali ini adalah Buku Tematik Terpadu Pendidikan Khusus Kurikulum 2013 mulai buku guru sampai buku siswa yang dapat dijadikan sebagai penunjang pembelajaran di kelas.
 
-Seperti halnya pendidikan umum, dalam mengelola pendidikan khusus diperlukan buku pembelajaran yang sifatnya tematik bagi satuan pendidikan SDLB, mata pelajaran bagi satuan pendidikan SMPLB dan SMALB kecuali Tunagrahita, yang mulai dari SD, SMP, dan SMA tetap tematik.
+Seperti halnya pendidikan umum, dalam mengelola pendidikan khusus diperlukan buku pembelajaran yang sifatnya tematik bagi **satuan pendidikan SDLB**, mata pelajaran bagi satuan pendidikan SMPLB dan SMALB kecuali Tunagrahita, yang mulai dari **SD, SMP, dan SMA** tetap **tematik**.
 
 Pada kesempatan kali ini, buku yang dibagikan kali ini masih belum semua, oleh karena itu kami mohon kepada pembaca, bila ingin menambahkan buku paket yang masih belum tersedia di ArtiPedia dapat dilakukan dengan menekan tombol edit dibawah artikel ini.
 
@@ -25,7 +25,7 @@ Daftar Buku Pendidikan Khusus dan Layanan Khusus
 ## Buku Tunagrahita
 Berikut ini buku paket untuk jenis kekhususan Tunagrahita:
 ### Kelas 3 Tunagrahita
-Buku paket tematik untuk satuan pendidikan SDLB Tunagrahita Kurikulum 2013
+Buku paket tematik untuk satuan pendidikan **SDLB Tunagrahita Kurikulum 2013**
 1. Tema 1 Buku Guru [Download](https://docs.google.com/uc?export=download&id=1A6-WDvF82xlwOTH9mEMiMz0b5U_s6T6z)
 2. Tema 1 Buku Siswa [Download](docs.google.com/uc?export=download&id=1bX01rrz2Fkurf_FKvYSRfYD0GO3YRRpj)
 3. Tema 2 Buku Guru [Download](https://docs.google.com/uc?export=download&id=1m30LU_VN3tf621-qUWjg-GKbkwn7SLko)
