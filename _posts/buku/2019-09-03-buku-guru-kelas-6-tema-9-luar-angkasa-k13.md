@@ -1,13 +1,21 @@
 ---
-title: Buku Guru Kelas 6 Tema 9 Menjelajah Angkasa Luar Kurikulum 2013
 layout: news_item
-comments: true
-date: 2019-09-03 04:49:09
-description: Download Gratis Buku Guru kelas 6 Tema Menjelajah Angkasa Luar Kurikulum 2013, buku panduan guru menjadi faktor penunjang dalam pembelajaran.
-author: artipedia
+title: Buku Guru Kelas 6 Tema 9 Menjelajah Angkasa Luar Kurikulum 2013
+description: >-
+  Download Gratis Buku Guru kelas 6 Tema Menjelajah Angkasa Luar Kurikulum 2013,
+  buku panduan guru menjadi faktor penunjang dalam pembelajaran.
 image: buku-guru-kelas-6-tema-9-menjelajah-angkasa.png
-tags: [buku,pendidikan,sd,guru,buku-guru,kelas-6,revisi-2018,tematik]
-published: true
+date: 2019-09-29T04:49:09.000Z
+author: artipedia
+tags:
+  - buku
+  - pendidikan
+  - sd
+  - guru
+  - buku-guru
+  - kelas-6
+  - revisi-2018
+  - tematik
 ---
 
 * TOC
@@ -49,17 +57,17 @@ published: true
 
 [ArtiPedia](/ "ArtiPedia") - **Buku Paket Kelas 6 Tema 9**, memiliki peran penting dalam implementasi **Kurikulum 2013** khususnya di kelas 6 SD. Buku Paket Kurtilas Kelas 6 terdiri dari dua jenis buku, yang pertama **buku guru** dan yang kedua **buku siswa**. 
 
-**Tema 9** pada **kelas 6** kurikulum 2013 revisi 2018 ini yaitu **Tema Menjelajah LuarAngkasa**. Tema Menjelajah LuarAngkasa terbagi menjadi beberapa subtema.
+**Tema 9** pada **kelas 6** kurikulum 2013 revisi 2018 ini yaitu **Tema Menjelajah Angkasa Luar**. Tema Menjelajah Angkasa Luar terbagi menjadi beberapa subtema.
 
-Buku Guru Kelas 6 <abbr title="Sekolah Dasar">SD</abbr> semester 2 (dua) Tema 9 (Bumiku) ini merupakan buku paket tematik bagi guru sebagai panduan dalam menyusun program dan juga panduan penggunaan buku siswa. Buku dengan jumlah halaman sebanyak 192 halaman ini merupakan buku cetakan ke 1 dan disusun oleh Angie Siti Anggari, Afriki, Al Farani, Dara Retno Wulan, Fitria Purnihastuti, Hanni Darwanti, Nuniek Puspitawati, Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2015. 
+**Buku Guru Kelas 6 <abbr title="Sekolah Dasar">SD</abbr>** semester 2 (dua) Tema 9 (Menjelajah Angkasa Luar) ini merupakan buku paket tematik bagi guru sebagai panduan dalam menyusun program dan juga panduan penggunaan buku siswa. Buku dengan jumlah halaman sebanyak 192 halaman ini merupakan buku cetakan ke 1 dan disusun oleh Angie Siti Anggari, Afriki, Al Farani, Dara Retno Wulan, Fitria Purnihastuti, Hanni Darwanti, Nuniek Puspitawati, Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2015. 
 
 Buku ini disusun agar memudahkan guru dalam menyusun program pembelaran, dan dapat dijadikan acuan atau gambaran yang jelas dan rinci dalam menyusun dan melaksanakan kegiatan pembelajaran untuk membangun sikap serta perilaku positif, penguasaan konsep, keterampilan berpikir saintifik, berpikir tingkat tinggi, kemampuan menyelesaikan masalah, inkuiri, kreativitas, dan pribadi reflektif.
 
-Selain itu, buku kurikulum 2013 ini dapat dijadikan sebagai acuan dalam mempersiapkan materi pembelajaran, menyusun soal-soal yang relevan dengan tema wirausaha ini. 
+Selain itu, **buku kurikulum 2013** ini dapat dijadikan sebagai acuan dalam mempersiapkan materi pembelajaran, menyusun soal-soal yang relevan dengan tema ini. 
 
 {% include ads-artikel.html %}
 
-## Buku Guru Kelas VI Tema 9 Menjelajah LuarAngkasa
+## Buku Guru Kelas VI Tema 9 Menjelajah Angkasa Luar
 
 |Uraian|Keterangan|
 | --- | --- |
@@ -93,7 +101,7 @@ Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _sisw
 Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
 ### Download Buku Tema 9 Menjelajah Angkasa Luar
-Buku Kurtilas Kelas 6 Tema Menjelajah Angkasa Luar ini dapat anda unduh melalui tombol dibawah:
+**Buku Kurtilas Kelas 6** Tema Menjelajah Angkasa Luar ini dapat anda unduh melalui tombol dibawah:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1JZPOaRpdQ-k1UmBSv1wlrDvDVyab8Mxb" rel="nofollow" target="_blank" title="Download">Download</a>
 <a class="button demo open-dialog" href="https://drive.google.com/file/d/1JZPOaRpdQ-k1UmBSv1wlrDvDVyab8Mxb/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
 
