@@ -12,9 +12,9 @@ published: true
 {:toc}
 
 ## Pendahuluan
-[ArtiPedia](/ "Artipedia") - **Buku Kelas 12 (XII) Kurikulum 2013 Revisi 2018** terbagi menjadi dua jenis buku yaitu **Buku Guru** dan **Buku Siswa**. Keduanya sangat diperlukan untuk kelancaran dalam pelaksanaan kegiatan pembelajaran. Saat ini buku memiliki peran penting terlebih lagi kurikulum yang sekarang ini kurikulum 2013. 
+[ArtiPedia](/ "Artipedia") - **Buku Kelas 12 (XII) Kurikulum 2013 Revisi 2018** terbagi menjadi dua jenis buku yaitu **Buku Guru** dan **Buku Siswa**. Keduanya sangat diperlukan untuk kelancaran dalam pelaksanaan kegiatan pembelajaran. Saat ini buku memiliki peran penting terlebih lagi kurikulum yang sekarang ini **kurikulum 2013**. 
 
-Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menyelenggarakan program **BSE (Buku Sekolah Elektronik)** dimana BSE merupakan **buku teks pelajaran** yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
+Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menyelenggarakan program **BSE (Buku Sekolah Elektronik)** dimana BSE merupakan **buku teks pelajaran** yang disediakan secara **gratis** dan dapat **diunduh (download)** serta disebar luaskan tanpa pelanggaran hak cipta. 
 
 {% include ads-artikel.html %}
 
@@ -22,6 +22,7 @@ Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menye
 Berikut ini adalah daftar *buku kelas XII Kurikulum 2013 Revisi 2018* yang bisa anda unduh:
 
 ### Buku Guru Kelas 12 Kurikulum 2013 Revisi 2018
+Buku guru kelas 12 yang dapat diunduh terdiri dari beberapa mata pelajaran yang tercantum di bawah ini
 <ol class="arti">
 <li>Buku Guru K13 Kelas 12 Bahasa Indonesia (<b><i><a href="https://docs.google.com/uc?export=download&id=1bV8gZAV_ycW3OhQIb7xxkOqt1UOvgeQ6" title="Buku Guru Kelas 12 Kurikulum 2013 Bahasa Indonesia">Download</a></i></b>)</li>
 <li>Buku Guru K13 Kelas 12 Bahasa Inggris (<b><i><a href="https://docs.google.com/uc?export=download&id=1eJVqyIJBS3Ubhp77bpEOGlRNo9YVuNjC" title="Buku Guru Kelas 12 Kurikulum 2013 Bahasa Inggris">Download</a></i></b>)</li>
@@ -32,6 +33,7 @@ Berikut ini adalah daftar *buku kelas XII Kurikulum 2013 Revisi 2018* yang bisa 
 </ol>
 
 ### Buku Siswa Kelas 12 Kurikulum 2013 Revisi 2018
+Sedangkan untuk buku siswa terdiri dari mata pelajaran sebagai berikut:
 <ol class="arti">
 <li>Buku Siswa Kurikulum 2013 Kelas 12 Bahasa Indonesia (<b><i><a href="https://docs.google.com/uc?export=download&id=1RhjnM-QawkCleRM7ItJDzFqHdK-m9Cn3" title="Buku siswa kelas 12 Bahasa Indonesia Revisi 2018">Download</a></i></b>)</li>
 <li>Buku Siswa Kurikulum 2013 Kelas 12 Bahasa Inggris (<b><i><a href="https://docs.google.com/uc?export=download&id=1Z0-JxT-OyZGnrojo3mGnfH_pIcsGIOO-" title="Buku siswa kelas 12 Bahasa Inggris Revisi 2018">Download</a></i></b>)</li>
