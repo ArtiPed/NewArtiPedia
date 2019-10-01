@@ -52,7 +52,7 @@ image: buku-siswa-sd.png
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-siswa-kelas-3-kurtilas-tema-1-revisi-2018.html" title="Buku Siswa Kelas 3 semester 1 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup K13 Revisi 2018"><strong>Pertumbuhan dan Perkembangan Makhluk Hidup</strong></a>|
+|Tema|<a href="/buku/buku-siswa-kelas-3-kurtilas-tema-1-revisi-2018.html" title="Buku Siswa Kelas 3 semester 1 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup K13 Revisi 2018"><strong>Pertumbuhan dan Perkembangan Makhluk Hidup</strong></a>|
 |Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
