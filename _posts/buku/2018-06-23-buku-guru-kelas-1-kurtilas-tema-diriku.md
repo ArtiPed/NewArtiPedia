@@ -2,15 +2,19 @@
 title: "Buku Guru Kelas 1 Tema Diriku Kurikulum 2013"
 layout: news_item
 comments: true
-date: "2018-06-21 03:48:09"
-description: Buku guru kelas 1 tema 1 Diriku merupakan buku paket kurikulum 2013 revisi 2017 yang digunakan sebagai panduan penggunaan buku siswa, penunjang bagi guru dalam menyusun RPP dan Melaksanakan pembelajaran dikelas.
+date: "2019-09-29 03:48:09"
+description: Buku guru kelas 1 tema 1 Diriku merupakan buku paket kurikulum 2013 revisi 2017 yang digunakan sebagai panduan penggunaan buku siswa, penunjang bagi guru dalam menyusun Program Pembelajaran RPP dan Melaksanakan pembelajaran dikelas.
 author: artipedia
 tags: [buku,pendidikan,sd,guru,buku-guru,kelas-1,tematik]
 published: true
 image: buku-guru-kelas-1-tema-diriku.png
 ---
+
+Buku Paket sangat lah penting baik itu sebagai penunjang guru dalam mengelola kelas ataupun sebagai penunjang siswa dalam mengikuti pelaksanaan pembelajaran. Bagi satuan pendidikan SD saat ini kurikulum yang digunakan adalah kurikulum 2013 dengan model pembelajaran tematik. Jadi buku yang digunakanpun harus lah buku tematik mengikuti kurikulum yang berlaku saat ini.
+
 * TOC
 {:toc}
+
 
 <script type="application/ld+json">
 {
@@ -46,13 +50,13 @@ image: buku-guru-kelas-1-tema-diriku.png
  
 </script>
 
-**Buku Paket Kelas 1** <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) tema 1 (diriku) ini merupakan buku paket yang diperuntukkan bagi guru. *Buku tematik* ini merupakan buku cetakan ke 4 (revisi 2017) dan ditulis oleh Yusfina Hendrifiana, Panca Ariguntar, dan Lubna Assagaf yang selanjutnya ditelaah oleh Lise Chamisijatin, H. Sufyani Prabawanto, dkk kemudian diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+**Buku Paket Kelas 1** <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) tema 1 (diriku) ini merupakan buku paket yang diperuntukkan bagi guru. *Buku tematik* ini merupakan buku cetakan ke 4 (revisi 2017) dan ditulis oleh Yusfina Hendrifiana, Panca Ariguntar, dan Lubna Assagaf yang selanjutnya ditelaah oleh Lise Chamisijatin, H. Sufyani Prabawanto, dkk kemudian diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 ## Buku Guru Kelas 1 Tema 1 Diriku
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-guru-kelas-1-kurtilas-tema-diriku.html" title="Buku Guru Kelas 1 semester 1 Tema 1 Diriku K13 Revisi 2017"><strong>Diriku</strong></a>|
+|Tema|<a href="/buku/buku-guru-kelas-1-kurtilas-tema-diriku.html" title="Buku Guru Kelas 1 semester 1 Tema 1 Diriku K13 Revisi 2017"><strong>Diriku</strong></a>|
 |Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
