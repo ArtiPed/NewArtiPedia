@@ -46,7 +46,7 @@ image: buku-guru-kelas-1-tema-diriku.png
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - *Buku Siswa Kelas 1 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) tema 1 (diriku)* ini merupakan buku paket tematik yang diperuntukkan bagi siswa. Buku ini merupakan buku cetakan ke 4 (revisi 2017) dan ditulis oleh Yusfina Hendrifiana, Panca Ariguntar, dan Lubna Assagaf yang selanjutnya ditelaah oleh Lise Chamisijatin, H. Sufyani Prabawanto, dkk kemudian diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[ArtiPedia](/ "ArtiPedia") - *Buku Siswa Kelas 1 <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) tema 1 (diriku)* ini merupakan buku paket tematik yang diperuntukkan bagi siswa. Buku ini merupakan buku cetakan ke 4 (revisi 2017) dan ditulis oleh Yusfina Hendrifiana, Panca Ariguntar, dan Lubna Assagaf yang selanjutnya ditelaah oleh Lise Chamisijatin, H. Sufyani Prabawanto, dkk kemudian diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 **Buku paket tematik** yang berbasis aktivitas ini disusun sebagai salah satu penunjang penerapan Kurikulum 2013 yang disempurnakan yang sangat mengedepankan pada pencapaian kompetensi siswa sesuai standar kelulusan yang ditetapkan.
 
@@ -54,7 +54,7 @@ image: buku-guru-kelas-1-tema-diriku.png
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-siswa-kelas-1-kurtilas-tema-diriku.html" title="Buku Siswa Kelas 1 semester 1 Tema 1 Diriku K13 Revisi 2017"><strong>Diriku</strong></a>|
+|Tema|<a href="/buku/buku-siswa-kelas-1-kurtilas-tema-diriku" title="Buku Siswa Kelas 1 semester 1 Tema 1 Diriku K13 Revisi 2017"><strong>Diriku</strong></a>|
 |Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
