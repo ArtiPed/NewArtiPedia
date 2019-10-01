@@ -88,6 +88,6 @@ Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _sisw
 
 Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
-## Download Buku
+## Download Buku Siswa Kelas 1 Tema Diriku
 **Download buku tematik kelas 1 tema diriku** di bawah ini.
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=0B18mXGGKnIqvUG52Nk5oNTJYWDQ" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/0B18mXGGKnIqvUG52Nk5oNTJYWDQ/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
