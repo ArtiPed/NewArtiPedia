@@ -84,4 +84,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 Buku SMP Kurtilas Revisi 2018 ini dapat anda unduh melalui tombol dibawah:
 <p class="center"><a href="http://bsd.pendidikan.id/data/2013/kelas_9smp/siswa/Kelas_09_SMP_Ilmu_Pengetahuan_Alam_Siswa_1.pdf">Semester 1 <a> <a href="http://bsd.pendidikan.id/data/2013/kelas_9smp/siswa/Kelas_09_SMP_Ilmu_Pengetahuan_Alam_Siswa_2.pdf">Semester 2</a></p>
 
-Alternative Lihat [Buku Siswa Kelas 9 SMP Kurikulum 2013 Revisi 2015 Lengkap](https://artipedia.id/wiki/buku-siswa-kelas-9-smp-kurikulum-2013-revisi-2015.html "Buku Siswa Kelas 9 SMP Kurikulum 2013 Revisi 2015 Lengkap")
+Alternative Lihat [Buku Siswa Kelas 9 SMP Kurikulum 2013 Revisi 2015 Lengkap](https://artipedia.id/buku/buku-siswa-kelas-9-smp-kurikulum-2013-revisi-2015 "Buku Siswa Kelas 9 SMP Kurikulum 2013 Revisi 2015 Lengkap")
