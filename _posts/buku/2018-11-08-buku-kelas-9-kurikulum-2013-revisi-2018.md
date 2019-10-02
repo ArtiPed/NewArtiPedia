@@ -25,9 +25,10 @@ Dengan **mengunduh buku kurtilas kelas 9** ini dan menyimpannya di smartphone, t
 
 Buku ini disusun supaya guru dan siswa bisa mendapatkan gambaran yang terperinci dalam melaksanakan kegiatan pembelajaran
 
-Berikut ini adalah daftar buku paket ("[Buku Guru dan Buku Siswa Kelas 9 Revisi 2018](/wiki/buku-kelas-9-kurikulum-2013-revisi-2018.html "Buku Kelas 9 Kurikulum 2013 Revisi 2018")")
+Berikut ini adalah daftar buku paket ("[Buku Guru dan Buku Siswa Kelas 9 Revisi 2018](/buku/buku-kelas-9-kurikulum-2013-revisi-2018 "Buku Kelas 9 Kurikulum 2013 Revisi 2018")")
 
-<ol class="arti">{% for post in site.tags.kelas-9 %}
+<ol class="arti">
+  {% for post in site.tags.kelas-9 %}
 <li class="{% if page.title == post.title %}current{% endif %}">
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 </li>
