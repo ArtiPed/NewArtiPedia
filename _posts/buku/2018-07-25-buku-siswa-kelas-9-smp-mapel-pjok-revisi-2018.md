@@ -44,13 +44,15 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran <acronym title="Pendidikan Jasmani Olah Raga dan Kesehatan">PJOK</acronym> kelas 9 (IX).
+[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran <abbr title="Pendidikan Jasmani Olah Raga dan Kesehatan">PJOK</abbr> kelas 9 (IX).
 
-## Buku Guru Kelas IX <acronym title="Pendidikan Jasmani Olah Raga dan Kesehatan">PJOK</acronym>
+Buku Guru Kelas IX mapel PJOK ini adalah buku kurikulum 2013 revisi terbaru. Buku dapat dijadikan oleh guru ataupun sisa sebagai panduan baik itu dalam mengelola kegiatan dikelas ataupun sebagai sumber materi bagi sisa.
+
+## Buku Guru Kelas IX <abbr title="Pendidikan Jasmani Olah Raga dan Kesehatan">PJOK</abbr>
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/wiki/buku-guru-kelas-9-smp-mapel-pjok-revisi-2018.html" title="Buku Guru Kelas 9 SMP/MTs Mapel IPA Revisi 2018"><strong><acronym title="Pendidikan Jasmani Olah Raga dan Kesehatan">PJOK</acronym></strong></a>|
+|Mata Pelajaran|<a href="/buku/buku-guru-kelas-9-smp-mapel-pjok-revisi-2018.html" title="Buku Guru Kelas 9 SMP/MTs Mapel IPA Revisi 2018"><strong><abbr title="Pendidikan Jasmani Olah Raga dan Kesehatan">PJOK</abbr></strong></a>|
 |Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
@@ -62,7 +64,7 @@ Penulis|Suherman|
 |Tahun|<strong>Edisi Revisi 2018</strong>|
 |ISBN|<strong>978-602-427-019-3</strong>|
 
-## Isi Buku Guru Kelas IX <acronym title="Pendidikan Jasmani Olah Raga dan Kesehatan">PJOK</acronym>
+## Isi Buku Guru Kelas IX <abbr title="Pendidikan Jasmani Olah Raga dan Kesehatan">PJOK</abbr>
 1. BAB I Interaksi Antarnegara Asia dan Negara Lainnya
 2. BAB II Perubahan Sosial Budaya dan Globalisasi
 3. BAB III Ketergantungan Antarruang dan Pengaruhnya terhadap Kesejahteraan Masyarakat
