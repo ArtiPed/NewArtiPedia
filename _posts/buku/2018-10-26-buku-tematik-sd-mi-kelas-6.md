@@ -5,7 +5,7 @@ comments: true
 date: "2018-10-26 20:49:09"
 description: Buku Tematik Terpadu SD/Mi Kelas 6 Kurikulum 2013 Revisi 2018 digunakan dalam rangka mensukseskan implementasi kurikulum 2013.
 author: artipedia
-tags: [buku,revisi-2018,tematik]
+tags: [buku,revisi-2018,tematik,kelas-6]
 ---
 
 [ArtiPedia](/ "ArtiPedia") - **Buku Paket Kurikulum 2013 Kelas 6** sangatlah penting dalam menunjang kegiatan pembelajaran. Artipedi mempublikasikan Buku Digital (Buku Sekolah Elektronik) bertujuan untuk menyebarkan **buku pembelajaran** dalam bentuk digital untuk semua jenjang pendidikan **Sekolah Dasar (SD)** kelas 6 ini sebagai penunjang dalam mengimplementasikan **kurikulum 2013**.
@@ -19,7 +19,7 @@ Diharapkan dengan tersedianya *Buku Sekolah Digital* ini, serta menyimpannya di 
 Buku yang dibagikan di blog ini terdiri dari *buku guru* dan *buku siswa*.
 
 ## Download Buku Paket Kelas 6 SD Revisi 2018
-Berikut ini adalah daftar [Buku Paket Tematik Terpadu Kelas 6 Kurikulum 2013 Revisi 2018](/wiki/buku-tematik-sd-mi-kelas-6.html "Buku Tematik Kelas 6 SD Terpadu Kurikulum 2013 Revisi 2018")
+Berikut ini adalah daftar [Buku Paket Tematik Terpadu Kelas 6 Kurikulum 2013 Revisi 2018](/buku/buku-tematik-sd-mi-kelas-6.html "Buku Tematik Kelas 6 SD Terpadu Kurikulum 2013 Revisi 2018")
 
 <ol class="arti">{% for post in site.tags.kelas-6 %}
 <li class="{% if page.title == post.title %}current{% endif %}">
