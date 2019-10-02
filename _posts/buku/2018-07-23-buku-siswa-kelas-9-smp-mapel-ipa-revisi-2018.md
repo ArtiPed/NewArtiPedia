@@ -44,13 +44,17 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran <acronym title="Ilmu Pengetahuan Alam">IPA</acronym> kelas 9 (IX).
+[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran <abbr title="Ilmu Pengetahuan Alam">IPA</abbr> kelas 9 (IX).
+
+Buku kelas 9 ini dapat bermanfaat bagi guru dalam mengelola kelas, menyusun pembelajaran, dan sebagai panduan buku siswa.
+
+Buku kelas 9 mapel IPA ini merupakan buku terbaru yang mengacu pada kurikulum 2013.
 
 ## Buku Siswa Kelas IX IPA
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/wiki/buku-guru-kelas-9-smp-mapel-ipa-revisi-2018.html" title="Buku Guru Kelas 9 SMP/MTs Mapel IPA Revisi 2018"><strong><acronym title="Ilmu Pengetahuan Alam">IPA</acronym></strong></a>|
+|Mata Pelajaran|<a href="/buku/buku-guru-kelas-9-smp-mapel-ipa-revisi-2018" title="Buku Guru Kelas 9 SMP/MTs Mapel IPA Revisi 2018"><strong><abbr title="Ilmu Pengetahuan Alam">IPA</abbr></strong></a>|
 |Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
