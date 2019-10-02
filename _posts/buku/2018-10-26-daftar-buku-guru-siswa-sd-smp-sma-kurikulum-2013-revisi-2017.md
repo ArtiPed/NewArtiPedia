@@ -22,7 +22,7 @@ Berikut ini adalah daftar [Buku Guru dan Buku Siswa Revisi 2017](/buku/daftar-bu
 
 <ol class="arti">{% for post in site.categories.revisi-2017 %}
 <li class="{% if page.title == post.title %}current{% endif %}">
-<a href="{{ post.url }}">{{ post.title }}</a>
+<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 </li>
 {% endfor %}
 </ol>
