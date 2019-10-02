@@ -46,7 +46,7 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Seiring berganti tahun ajaran, buku pelajaran pun dirubah mengikuti perkembangan ke arah yang lebih baik. Buku Paket Kurtilas, Buku Tematik siswa Kelas 6 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) Tema 3 (Tokoh dan Penemuan) ini merupakan buku paket tematik sebagai sumber belajar bagi anak. Buku dengan jumlah halaman sebanyak 178 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St. Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
+[ArtiPedia](/ "ArtiPedia") - Seiring berganti tahun ajaran, buku pelajaran pun dirubah mengikuti perkembangan ke arah yang lebih baik. Buku Paket Kurtilas, Buku Tematik siswa Kelas 6 <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) Tema 3 (Tokoh dan Penemuan) ini merupakan buku paket tematik sebagai sumber belajar bagi anak. Buku dengan jumlah halaman sebanyak 178 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St. Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
 
 Buku ini disusun agar guru mendapat gambaran yang jelas dan rinci dalam melaksanakan kegiatan pembelajaran untuk membangun sikap dan perilaku positif, penguasaan konsep, keterampilan berpikir saintifik, berpikir tingkat tinggi, kemampuan menyelesaikan masalah, inkuiri, kreativitas, dan pribadi reflektif.
 
@@ -54,7 +54,7 @@ Buku ini disusun agar guru mendapat gambaran yang jelas dan rinci dalam melaksan
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-guru-kelas-6-tema-3-tokoh-dan-penemuan-revisi-2018.html" title="Buku Guru Kelas 6 SD Tema 3 Tokoh dan Penemuan Revisi 2018"><strong>Tema 3 : Tokoh dan Penemuan </strong></a>|
+|Tema|<a href="/buku/buku-guru-kelas-6-tema-3-tokoh-dan-penemuan-revisi-2018" title="Buku Guru Kelas 6 SD Tema 3 Tokoh dan Penemuan Revisi 2018"><strong>Tema 3 : Tokoh dan Penemuan </strong></a>|
 |Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
