@@ -45,13 +45,13 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku Paket Tematik bagi guru Kelas 3 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) Tema 4 (Kewajiban dan Hakku) ini merupakan buku paket tematik yang diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 202 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Iba Muhibba dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[ArtiPedia](/ "ArtiPedia") - Buku Paket Tematik bagi guru Kelas 3 <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) Tema 4 (Kewajiban dan Hakku) ini merupakan buku paket tematik yang diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 202 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Iba Muhibba dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 ## Buku Guru Kelas 3 Tema 4 Kewajiban dan Hakku
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-guru-kelas-3-kurtilas-tema-3-revisi-2018.html" title="Buku Guru Kelas 3 semester 1 Tema 4 Kewajiban dan Hakku K13 Revisi 2018"><strong>Tema 4 : Kewajiban dan Hakku</strong></a>|
+|Tema|<a href="/buku/buku-guru-kelas-3-kurtilas-tema-3-revisi-2018.html" title="Buku Guru Kelas 3 semester 1 Tema 4 Kewajiban dan Hakku K13 Revisi 2018"><strong>Tema 4 : Kewajiban dan Hakku</strong></a>|
 |Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
