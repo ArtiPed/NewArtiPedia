@@ -45,7 +45,11 @@ published: true
  
 </script>
 
-Kurikulum 2013 mewajibkan siswa untuk berpikir kritis, untuk menunjang tersebut diperlukan buku-buku yang dapat menjadi referensi siswa dalam belajar. Buku yang dibagikan kali ini adalah buku siswa bagi satuan pendidikan SMP (SLTP) mata pelajaran B. Indonesia kelas 9 (IX).
+**Kurikulum 2013** mewajibkan siswa untuk berpikir kritis, untuk menunjang tersebut diperlukan buku-buku yang dapat menjadi referensi siswa dalam belajar. 
+
+Buku yang dibagikan kali ini adalah **buku siswa** bagi satuan pendidikan SMP (SLTP) **mata pelajaran B. Indonesia kelas 9 (IX)**.
+
+Buku ini ini merupakan buku yang mengacu pada kurikulum 2013, dimana dapat dijadikan sebagai sumber belajar siswa sehingga memudahkan siswa dalam mengikuti proses pembelajaran.
 
 ## Buku Siswa Kelas IX B. Indonesia
 
