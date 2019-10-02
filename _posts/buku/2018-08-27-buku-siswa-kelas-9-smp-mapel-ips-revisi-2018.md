@@ -44,13 +44,15 @@ published: true
  
 </script>
 
-Buku yang dibagikan kali ini adalah buku siswa bagi satuan pendidikan SMP (SLTP) mata pelajaran <acronym title="Ilmu Pengetahuan Sosial">IPS</acronym> kelas 9 (IX).
+Buku yang dibagikan kali ini adalah buku siswa bagi satuan pendidikan SMP (SLTP) mata pelajaran <abbr title="Ilmu Pengetahuan Sosial">IPS</abbr> kelas 9 (IX).
+
+Buku mapel IPS kelas 9 ini dapat anda unduh dengan mudah di blog ini, buku siswa dapat dijadikan pedoman atau sumber belajar bagi siswa kelas 9 mata pelajaran Ilmu Pengetahuan Sosial.
 
 ## Buku Siswa Kelas IX IPS
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/wiki/buku-siswa-kelas-9-smp-mapel-ips-revisi-2018.html" title="Buku Siswa Kelas 9 SMP/MTs Mapel IPS Revisi 2018"><strong><acronym title="Ilmu Pengetahuan Sosial">IPS</acronym></strong></a>|
+|Mata Pelajaran|<a href="/buku/buku-siswa-kelas-9-smp-mapel-ips-revisi-2018" title="Buku Siswa Kelas 9 SMP/MTs Mapel IPS Revisi 2018"><strong><abbr title="Ilmu Pengetahuan Sosial">IPS</abbr></strong></a>|
 |Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
