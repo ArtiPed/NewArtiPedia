@@ -47,11 +47,13 @@ published: true
 
 [ArtiPedia](/ "ArtiPedia") - Bergantinya kurikulum menjadi kurikulum 2013 mengakibatkan komponen-kompenen lainnya seperti buku sumber mengikuti dengan dengan perkembangan kurikulum tersebut, seperti halnya buku yang akan dibagikan kali ini adalah buku siswa kelas 9 mata pelajaran matematika revisi tahun 2018 yang merupakan edisi lengkap.
 
+**Buku Siswa Kelas IX Matematika** ini sangat penting bagi guru ataupun siswa. buku paket bagi guru dapat bermanfaat sebagai panduan dalam membuat program pembelajaran seperti **RPP**. Sedangkan bagi siswa dapat bermanfaat sebagai sumber belajar bagi siswa dalam mengikuti pelaksanaan pembelajaran.
+
 ## Ikhtisar Buku Siswa Kelas IX Matematika
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/wiki/buku-siswa-kelas-9-smp-mapel-matematika-revisi-2018.html" title="Buku siswa Kelas 9 SMP Mapel Matematika Revisi 2018"><strong>Matematika</strong></a>|
+|Mata Pelajaran|<a href="/buku/buku-siswa-kelas-9-smp-mapel-matematika-revisi-2018" title="Buku siswa Kelas 9 SMP Mapel Matematika Revisi 2018"><strong>Matematika</strong></a>|
 |Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
