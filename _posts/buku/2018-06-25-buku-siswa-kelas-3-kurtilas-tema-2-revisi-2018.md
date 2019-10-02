@@ -53,7 +53,7 @@ image: buku-siswa-sd.png
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-siswa-kelas-3-kurtilas-tema-2-revisi-2018.html" title="Buku Siswa Kelas 3 semester 1 Tema 2 Menyayangi Tumbuhan dan Hewan K13 Revisi 2018"><strong>Tema 2 : Menyayangi Tumbuhan dan Hewan</strong></a>|
+|Tema|<a href="/buku/buku-siswa-kelas-3-kurtilas-tema-2-revisi-2018.html" title="Buku Siswa Kelas 3 semester 1 Tema 2 Menyayangi Tumbuhan dan Hewan K13 Revisi 2018"><strong>Tema 2 : Menyayangi Tumbuhan dan Hewan</strong></a>|
 |Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
