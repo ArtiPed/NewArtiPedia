@@ -45,13 +45,13 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku Guru Kelas 3 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) Tema 3 (Benda di Sekitarku) ini merupakan buku paket tematik yang diperuntukkan bagi Guru. Buku dengan jumlah halaman sebanyak 210 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Sari Kusuma Dewi dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[ArtiPedia](/ "ArtiPedia") - Buku Guru Kelas 3 <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) Tema 3 (Benda di Sekitarku) ini merupakan buku paket tematik yang diperuntukkan bagi Guru. Buku dengan jumlah halaman sebanyak 210 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Sari Kusuma Dewi dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 ## Buku Guru Kelas 3 Tema 3 Benda di Sekitarku
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-guru-kelas-3-kurtilas-tema-3-revisi-2018.html" title="Buku Guru Kelas 3 semester 1 Tema 3 Benda di Sekitarku K13 Revisi 2018"><strong>Tema 3 : Benda di Sekitarku</strong></a>|
+|Tema|<a href="/buku/buku-guru-kelas-3-kurtilas-tema-3-revisi-2018.html" title="Buku Guru Kelas 3 semester 1 Tema 3 Benda di Sekitarku K13 Revisi 2018"><strong>Tema 3 : Benda di Sekitarku</strong></a>|
 |Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
