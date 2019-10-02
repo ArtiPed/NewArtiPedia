@@ -46,13 +46,13 @@ image: buku-siswa-kelas-6-tema-1-revisi-2018.png
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - **Buku siswa kelas 6** <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) **Tema 1 (Selamatkan Makhluk Hidup)** ini merupakan **buku paket tematik** sebagai sumber belajar bagi *siswa sd* kelas 6. Buku dengan jumlah halaman sebanyak 178 halaman, buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mifthachul Khasanah, dan Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
+[ArtiPedia](/ "ArtiPedia") - **Buku siswa kelas 6** <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) **Tema 1 (Selamatkan Makhluk Hidup)** ini merupakan **buku paket tematik** sebagai sumber belajar bagi *siswa sd* kelas 6. Buku dengan jumlah halaman sebanyak 178 halaman, buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mifthachul Khasanah, dan Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
 
 ## Buku Siswa Kelas 6 Tema 1 Selamatkan Makhluk Hidup
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-siswa-kelas-6-tema-1-selamatkan-makhluk-hidup-revisi-2018.html" title="Buku Siswa Kelas 6 SD Tema 1 Selamatkan Makhluk Hidup Revisi 2018"><strong>Tema 1 : Selamatkan Makhluk Hidup</strong></a>|
+|Tema|<a href="/buku/buku-siswa-kelas-6-tema-1-selamatkan-makhluk-hidup-revisi-2018" title="Buku Siswa Kelas 6 SD Tema 1 Selamatkan Makhluk Hidup Revisi 2018"><strong>Tema 1 : Selamatkan Makhluk Hidup</strong></a>|
 |Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
