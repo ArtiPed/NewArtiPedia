@@ -46,13 +46,13 @@ image: buku-siswa-sd.png
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku Siswa Kelas 3 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) Tema 4 (Kewajiban dan Hakku) ini merupakan buku paket tematik yang diperuntukkan bagi siswa. Buku dengan jumlah halaman sebanyak 200 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Iba Muhibba dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[ArtiPedia](/ "ArtiPedia") - Buku Siswa Kelas 3 <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) Tema 4 (Kewajiban dan Hakku) ini merupakan buku paket tematik yang diperuntukkan bagi siswa. Buku dengan jumlah halaman sebanyak 200 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Iba Muhibba dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 ## Buku Siswa Kelas 3 Tema 4 Kewajiban dan Hakku
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-siswa-kelas-3-kurtilas-tema-3-revisi-2018.html" title="Buku Siswa Kelas 3 semester 1 Tema 4 Kewajiban dan Hakku K13 Revisi 2018"><strong>Tema 4 : Kewajiban dan Hakku</strong></a>|
+|Tema|<a href="/buku/buku-siswa-kelas-3-kurtilas-tema-3-revisi-2018" title="Buku Siswa Kelas 3 semester 1 Tema 4 Kewajiban dan Hakku K13 Revisi 2018"><strong>Tema 4 : Kewajiban dan Hakku</strong></a>|
 |Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
