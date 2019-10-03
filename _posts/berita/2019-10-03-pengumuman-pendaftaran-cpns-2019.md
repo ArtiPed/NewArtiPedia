@@ -2,7 +2,7 @@
 layout: news_item
 comments: true
 title: "CPNS 2019 di Umumkan bulan ini"
-date: "2019-10-03 20:48:09"
+date: "2019-10-03 14:03:09"
 image: pendaftaran-cpns.jpg
 description: Rekrutmen CPNS tahun 2019 diperkirakan akan diumumkan pada minggu keempat bulan Oktober.
 author: artipedia
