@@ -6,7 +6,7 @@ date: "2019-06-28 20:48:09"
 image: pendaftaran-cpns.jpg
 description: Hati-Hati Hoaks, Cermati Informasi yang Benar Soal Lowongan CPNS 2019.
 author: artipedia
-tags: [berita,cpns,cpns2019]
+tags: [berita,cpns,cpns-2019]
 ---
 
 * TOC
