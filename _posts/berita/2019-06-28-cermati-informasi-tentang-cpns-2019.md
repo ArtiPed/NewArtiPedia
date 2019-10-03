@@ -16,13 +16,13 @@ tags: [berita,cpns,cpns-2019]
 
 Kepala Biro Humas BKN, Mohammad Ridwan mengatakan terkait informasi penerimaan CPNS misalnya, hingga saat ini Panitia Seleksi Nasional (Panselnas) belum mengumumkan pembukaan pendaftaran dan seleksi CPNS. Oleh sebab itu, informasi yang menyebutkan jika penerimaan CPNS Tahun Anggaran 2019 sudah dibuka dipastikan hoaks.
 
-"Sampai detik ini Panselnas belum mendapatkan arahan detail kapan penerimaan ASN baik itu [PPPK](https://artipedia.id/wiki/bkn-persiapkan-perekrutan-pppk-2019.html "PPPK") dan [CPNS](https://artipedia.id/wiki/cpns-2019-dibuka-kembali.html "CPNS 2019")," ujar dia di Kantor BKN, Jakarta, Jumat (21/6/2019).
+"Sampai detik ini Panselnas belum mendapatkan arahan detail kapan penerimaan ASN baik itu [PPPK](https://artipedia.id/berita/bkn-persiapkan-perekrutan-pppk-2019 "PPPK") dan [CPNS](https://artipedia.id/berita/cpns-2019-dibuka-kembali "CPNS 2019")," ujar dia di Kantor BKN, Jakarta, Jumat (21/6/2019).
 
 Menurut Ridwan, saat ini modus penipuan terkait dengan CPNs juga semakin beragam dan baru, salah satunya dengan memuat kata-kata Calon ASN (CASN). Namun jika kata-kata tersebut muncul dalam pengumuman CPNS atau PPPK, hal ini dipastikan bentuk penipuan.
 
 "Modusnya pakai regulasi yang terkini. Kalau 4 tahun lalu kan tidak ada istilah ASN. Sekarang ada yang sebut CASN, itu tidak ada, tdk ada CPPPK. Kalau dia menyebut itu, dipastikan itu palsu," jelas dia.
 
-Ridwan menyatakan, jika masyarakat ingin mencari informasi terkait [PPPK](https://artipedia.id/wiki/bkn-persiapkan-perekrutan-pppk-2019.html "PPPK") dan [CPNS](https://artipedia.id/wiki/cpns-2019-dibuka-kembali.html "CPNS 2019"), maka lebih baik melalui saluran resmi milik pemerintah seperti situs dengan domain go.id.
+Ridwan menyatakan, jika masyarakat ingin mencari informasi terkait [PPPK](https://artipedia.id/berita/bkn-persiapkan-perekrutan-pppk-2019 "PPPK") dan [CPNS](https://artipedia.id/berita/cpns-2019-dibuka-kembali "CPNS 2019"), maka lebih baik melalui saluran resmi milik pemerintah seperti situs dengan domain go.id.
 
 "Di website, sumber informasi hanya yang domainnya go.id, karena itu punya pemerintah. Kalau informasinya sudah ada, instansi wajib umumkan di website-nya masing-masing," tandas dia
 
