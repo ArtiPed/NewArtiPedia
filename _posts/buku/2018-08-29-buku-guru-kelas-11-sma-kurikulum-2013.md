@@ -5,7 +5,7 @@ comments: true
 date: "2018-08-29 11:49:09"
 description: Berisi kumpulan Buku Guru Kelas XI SMA Kurikulum 2013 bagi guru SMA. Download buku Guru SMA Kelas 11 Kurikulum 2013.
 author: artipedia
-tags: [buku,pendidikan,sma,guru,kelasXI]
+tags: [buku,pendidikan,sma,guru,kelas-11]
 published: true
 ---
 * TOC
@@ -14,7 +14,7 @@ published: true
 ## Pendahuluan
 [ArtiPedia](/ "ArtiPedia") - **Buku Guru** sangat diperlukan baik itu dalam menyusun program pembelajaran ataupun untuk kelancaran dalam pelaksanaan kegiatan pembelajaran. Saat ini buku memiliki peran penting terlebih lagi kurikulum yang sekarang ini digunakan telah diganti menjadi kurikulum 2013.  
 
-Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menyelenggarakan program BSE (Buku Sekolah Elektronik) dimana **<acronym title="Buku Sekolah Elektronik">BSE</acronym>** merupakan **buku teks pelajaran** yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
+Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menyelenggarakan program BSE (Buku Sekolah Elektronik) dimana **<abbr title="Buku Sekolah Elektronik">BSE</abbr>** merupakan **buku teks pelajaran** yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
 
 ## Download Buku Guru Kelas XI SMA 
 Berikut ini adalah daftar **buku guru kelas XI Kurikulum 2013 Revisi** yang bisa anda unduh:
