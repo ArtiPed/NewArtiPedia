@@ -5,7 +5,7 @@ comments: true
 date: "2018-08-29 11:49:09"
 description: Buku Siswa Kelas XI SMA Kurikulum 2013. Download buku Siswa Kelas 11 SMA Kurikulum 2013.
 author: artipedia
-tags: [buku,pendidikan,sma,siswa,kelasXI]
+tags: [buku,pendidikan,sma,siswa,kelas-11]
 published: true
 ---
 * TOC
@@ -14,7 +14,7 @@ published: true
 ## Pendahuluan
 **Buku Siswa** sangat diperlukan untuk kelancaran dalam pelaksanaan kegiatan pembelajaran. Saat ini buku memiliki peran penting terlebih lagi kurikulum yang sekarang ini digunakan telah diganti menjadi **kurikulum 2013**.  
 
-Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menyelenggarakan program **BSE (Buku Sekolah Elektronik)** dimana <acronym title="Buku Sekolah Elektronik">BSE</acronym> merupakan buku teks pelajaran yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
+Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menyelenggarakan program **BSE (Buku Sekolah Elektronik)** dimana <abbr title="Buku Sekolah Elektronik">BSE</abbr> merupakan buku teks pelajaran yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
 
 **Buku Siswa Kelas XI (11) SMA Kurikulum 2013** digunakan untuk menunjang kegiatan belajar siswa, dalam buku ini, siswa dituntut berperan aktif dalam mengikuti kegiatan pembelajaran
 
