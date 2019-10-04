@@ -51,7 +51,7 @@ Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) 
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/wiki/buku-guru-kelas-9-smp-mapel-b-inggris-revisi-2018.html" title="Buku Guru Kelas 9 SMP Mapel Bahasa Inggris Revisi 2018"><strong>B. Inggris</strong></a>|
+|Mata Pelajaran|<a href="/buku/buku-guru-kelas-9-smp-mapel-b-inggris-revisi-2018.html" title="Buku Guru Kelas 9 SMP Mapel Bahasa Inggris Revisi 2018"><strong>B. Inggris</strong></a>|
 |Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
@@ -63,7 +63,7 @@ Penulis|Siti Wachidah, Yuli Rulani Khatimah, dan Diyantari|
 |Tahun|<strong>Edisi Revisi 2018</strong>|
 |ISBN|<strong>978-602-282-980-5</strong>|
 
-## Isi Buku
+## Isi Buku Guru Kelas IX B. Inggris
 ### Semester 1
 1. Congratulations!
 2. Let’s live a healthy Life!
