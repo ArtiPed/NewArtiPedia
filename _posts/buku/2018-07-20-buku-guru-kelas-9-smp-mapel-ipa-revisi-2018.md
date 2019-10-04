@@ -51,13 +51,13 @@ tags:
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran <acronym title="Ilmu Pengetahuan Alam">IPA</acronym> kelas 9 (IX).
+[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran <abbr title="Ilmu Pengetahuan Alam">IPA</abbr> kelas 9 (IX).
 
 ## Buku Guru Kelas IX IPA
 
 | Uraian            | Keterangan                                                                                                                                                                                                |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mata Pelajaran    | <a href="/wiki/buku-guru-kelas-9-smp-mapel-ipa-revisi-2018.html" title="Buku Guru Kelas 9 SMP/MTs Mapel IPA Revisi 2018"><strong><abbr title="Ilmu Pengetahuan Alam">IPA</abbr></strong></a>              |
+| Mata Pelajaran    | <a href="/buku/buku-guru-kelas-9-smp-mapel-ipa-revisi-2018.html" title="Buku Guru Kelas 9 SMP/MTs Mapel IPA Revisi 2018"><strong><abbr title="Ilmu Pengetahuan Alam">IPA</abbr></strong></a>              |
 | Jenis             | <a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>                                                                                                                                           |
 | Model             | Mata Pelajaran                                                                                                                                                                                            |
 | Satuan Pendidikan | SMP (Sekolah Menengah Pertama)                                                                                                                                                                            |
@@ -71,7 +71,7 @@ tags:
 
 ## Isi Buku Guru Kelas 9 Mata Pelajaran IPA
 
-### Bagian I: Petunjuk Umum
+### Bagian I: Petunjuk Umum Buku Guru Kelas 9 Mata Pelajaran IPA
 
 #### Bab 1 IPA Terpadu dan Pembelajarannya
 
@@ -112,7 +112,7 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 
 ### Download Buku Guru IPA Kelas 9
 
-**Buku Guru Kelas 9 Kurtilas Revisi 2018** ini dapat anda unduh melalui tombol dibawah:
+**Buku Guru Kelas 9 Mata Pelajaran IPA** ini dapat anda unduh melalui tombol dibawah:
 
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1SCswe7N2qVDqAtPzbpM-wAd3DXCHG-GZ" rel="nofollow" target="_blank" title="Download">Download</a>
 <a class="button demo open-dialog" href="https://drive.google.com/file/d/1SCswe7N2qVDqAtPzbpM-wAd3DXCHG-GZ/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
