@@ -5,7 +5,7 @@ title: "Buku Guru Kelas 4 Mapel Matematika Revisi"
 date: "2018-08-27 01:49:09"
 description: Buku K13 Buku Guru Kelas 4 SD/Mi Mapel Matematika Revisi sebagai referensi dalam pelaksanaan pembelajaran Matematika Kelas IV SD/Mi.
 author: artipedia
-tags: [buku,pendidikan,sd,guru,kelasV]
+tags: [buku,pendidikan,sd,guru,kelas-5]
 published: true
 ---
 * TOC
@@ -50,7 +50,7 @@ Buku yang bisa anda unduh kali ini adalah **buku guru** bagi satuan pendidikan S
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/wiki/buku-guru-kelas-4-sd-mapel-matematika-revisi.html" title="Buku Guru Kelas 4 SD/Mi Mapel Matematika Revisi"><strong>Matematika</strong></a>|
+|Mata Pelajaran|<a href="/buku/buku-guru-kelas-4-sd-mapel-matematika-revisi.html" title="Buku Guru Kelas 4 SD/Mi Mapel Matematika Revisi"><strong>Matematika</strong></a>|
 |Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
@@ -79,6 +79,6 @@ Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _sisw
 Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
 ### Download Buku Matematika SD Kelas IV (4)
-Buku Matematika SD Kelas 4 Kurtilas Revisi ini dapat anda unduh melalui tombol dibawah:
+**Buku Matematika SD Kelas 4** Kurtilas Revisi ini dapat anda unduh melalui tombol dibawah:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1F-JzWgbFny7VMGpEUkMaY2BRMYkdbrB9" rel="nofollow" target="_blank" title="Download">Download</a>
 <a class="button demo open-dialog" href="https://drive.google.com/file/d/1F-JzWgbFny7VMGpEUkMaY2BRMYkdbrB9/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
