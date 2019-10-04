@@ -45,13 +45,13 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran B. Indonesia kelas 9 (IX).
+[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran **B. Indonesia kelas 9 (IX)**.
 
 ## Buku Guru Kelas IX B. Indonesia
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/wiki/buku-guru-kelas-9-smp-mapel-b-indonesia-revisi-2018.html" title="Buku Guru Kelas 9 SMP Mapel Bahasa Indonesia Revisi 2018"><strong>B. Indonesia</strong></a>|
+|Mata Pelajaran|<a href="/buku/buku-guru-kelas-9-smp-mapel-b-indonesia-revisi-2018" title="Buku Guru Kelas 9 SMP Mapel Bahasa Indonesia Revisi 2018"><strong>B. Indonesia</strong></a>|
 |Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SMP (Sekolah Menengah Pertama)|
@@ -63,8 +63,8 @@ Penulis|Agus Trianto, Titik Harsiati , dan E. Kosasih|
 |Tahun|<strong>Edisi Revisi 2018</strong>|
 |ISBN|<strong>978-602-282-972-0</strong>|
 
-## Isi Buku
-### Petunjuk Umum
+## Isi Buku Guru Kelas IX B. Indonesia
+### Petunjuk Umum Buku Guru Kelas IX B. Indonesia
 1. Kurikulum 2013
 2. Pengorganisasian Materi
 3. Karakteristi Mata Pelajaran Bahasa Indonesia
@@ -72,7 +72,7 @@ Penulis|Agus Trianto, Titik Harsiati , dan E. Kosasih|
 5. Lingkup Materi Pelajaran Bahasa Indonesia
 6. Pembelajaran Bahasa Indonesia Kelas IX
 7. Format Penilaian
-### Petunjuk Khusus
+### Petunjuk Khusus Buku Guru Kelas IX B. Indonesia
 Pengembangan Literasi
 1. Melaporkan Hasil Percobaan
 2. Menyampaikan Pidato Persuasif
@@ -90,8 +90,8 @@ Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _sisw
 
 Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
-### Download Buku
-Buku SMP Kurtilas Revisi 2018 ini dapat anda unduh melalui tombol dibawah:
+### Download Buku Guru Kelas IX B. Indonesia
+Buku SMP Kurtilas Buku Guru Kelas IX B. Indonesia Revisi 2018 ini dapat anda unduh melalui tombol dibawah:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=11FCzgCCZHeuPK2ZwX1cJI1-IIxxvu5Qs" rel="nofollow" target="_blank" title="Download">Download</a>
 <a class="button demo open-dialog" href="https://drive.google.com/file/d/11FCzgCCZHeuPK2ZwX1cJI1-IIxxvu5Qs/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
 
