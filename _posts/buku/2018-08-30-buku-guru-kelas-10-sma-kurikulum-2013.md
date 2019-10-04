@@ -5,16 +5,16 @@ comments: true
 date: "2018-08-30 11:49:09"
 description: Buku Guru Kelas X (10) SMA Kurikulum 2013 Revisi 2017. Download/unduh buku Guru Kelas 10 SMA Kurikulum 2013 Revisi 2017.
 author: artipedia
-tags: [buku,pendidikan,sma,guru,kelasX]
+tags: [buku,pendidikan,sma,guru,kelas-10]
 published: true
 ---
 * TOC
 {:toc}
 
 ## Pendahuluan
-**Buku Guru Kelas 10 SMA Kurikulum 2013** ini merupakan buku paket yang diperuntukkan bagi guru sebagai penunjang kegiatan pembelajaran dan juga menyusun **program pembelajaran** seperti <acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym> dan Silabus. 
+**Buku Guru Kelas 10 SMA Kurikulum 2013** ini merupakan buku paket yang diperuntukkan bagi guru sebagai penunjang kegiatan pembelajaran dan juga menyusun **program pembelajaran** seperti <abbr title="Rencana Pelaksanaan Pembelajaran">RPP</abbr> dan Silabus. 
 
-Di era digital ini, untuk mendukung program **kurikulum 2013**, Pemerintah juga menyelenggarakan program *BSE (Buku Sekolah Elektronik)* dimana <acronym title="Buku Sekolah Elektronik">BSE</acronym> merupakan *buku teks pelajaran* yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
+Di era digital ini, untuk mendukung program **kurikulum 2013**, Pemerintah juga menyelenggarakan program *BSE (Buku Sekolah Elektronik)* dimana <abbr title="Buku Sekolah Elektronik">BSE</abbr> merupakan *buku teks pelajaran* yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
 
 
 
