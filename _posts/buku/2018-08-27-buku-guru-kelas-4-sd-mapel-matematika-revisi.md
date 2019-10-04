@@ -5,7 +5,7 @@ title: "Buku Guru Kelas 4 Mapel Matematika Revisi"
 date: "2018-08-27 01:49:09"
 description: Buku K13 Buku Guru Kelas 4 SD/Mi Mapel Matematika Revisi sebagai referensi dalam pelaksanaan pembelajaran Matematika Kelas IV SD/Mi.
 author: artipedia
-tags: [buku,pendidikan,sd,guru,kelas-5]
+tags: [buku,pendidikan,sd,guru,kelas-4]
 published: true
 ---
 * TOC
