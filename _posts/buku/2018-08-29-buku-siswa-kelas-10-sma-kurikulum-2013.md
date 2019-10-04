@@ -5,14 +5,14 @@ comments: true
 date: "2018-08-29 11:49:09"
 description: Buku Siswa Kelas X SMA Kurikulum 2013 Revisi 2017. Download/unduh buku Siswa Kelas 10 SMA Kurikulum 2013 Revisi 2017.
 author: artipedia
-tags: [buku,pendidikan,sma,siswa,kelasX]
+tags: [buku,pendidikan,sma,siswa,kelas-10,revisi-2017]
 published: true
 ---
 * TOC
 {:toc}
 
 ## Pendahuluan
-**Buku Siswa Kelas X SMA Kurikulum 2013** ini merupakan paket yang diperuntukkan untuk siswa sebagai penunjang kegiatan pembelajaran. Di era digital ini, untuk mendukung program kurikulum 2013, Pemerintah juga menyelenggarakan program **BSE (Buku Sekolah Elektronik)** dimana <acronym title="Buku Sekolah Elektronik">BSE</acronym> merupakan buku teks pelajaran yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
+**Buku Siswa Kelas X SMA Kurikulum 2013** ini merupakan paket yang diperuntukkan untuk siswa sebagai penunjang kegiatan pembelajaran. Di era digital ini, untuk mendukung program kurikulum 2013, Pemerintah juga menyelenggarakan program **BSE (Buku Sekolah Elektronik)** dimana <abbr title="Buku Sekolah Elektronik">BSE</abbr> merupakan buku teks pelajaran yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
 
 Buku pelajaran sangat diperlukan baik itu untuk guru ataupun siswa sebagai penunjang kegiatan pembelajaran. 
 
