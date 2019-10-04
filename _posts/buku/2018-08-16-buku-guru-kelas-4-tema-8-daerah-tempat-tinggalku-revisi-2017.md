@@ -45,13 +45,13 @@ published: true
  
 </script>
 
-Buku Paket Tematik bagi guru Kelas 4 <acronym title="Sekolah Dasar">SD</acronym> semester 2 (genap) Tema 8 (Daerah Tempat Tinggalku) ini merupakan buku paket tematik yang diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 272 hal. ini merupakan buku cetakan **revisi 2017** dan disusun oleh Ari Subekti serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+**Buku Paket Tematik bagi guru Kelas 4** <abbr title="Sekolah Dasar">SD</abbr> semester 2 (genap) **Tema 8 (Daerah Tempat Tinggalku)** ini merupakan buku paket tematik yang diperuntukkan bagi guru sebagai penunjang pembelajaran. **Buku** dengan jumlah halaman sebanyak 272 hal. ini merupakan buku cetakan **revisi 2017** dan disusun oleh Ari Subekti serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 ## Buku Guru Kelas IV Tema 9 Kayanya Negeriku
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-guru-kelas-4-tema-8-daerah-tempat-tinggalku-revisi-2017.html" title="Buku Guru Kelas 4 semester 2 Tema 8 Daerah Tempat Tinggalku K13 Revisi 2017"><strong>Tema 8 : Daerah Tempat Tinggalku</strong></a>|
+|Tema|<a href="/buku/buku-guru-kelas-4-tema-8-daerah-tempat-tinggalku-revisi-2017" title="Buku Guru Kelas 4 semester 2 Tema 8 Daerah Tempat Tinggalku K13 Revisi 2017"><strong>Tema 8 : Daerah Tempat Tinggalku</strong></a>|
 |Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
