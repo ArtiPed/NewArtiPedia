@@ -5,7 +5,7 @@ title: "Buku Guru Kelas 5 Mapel Matematika Revisi"
 date: "2018-08-27 01:49:09"
 description: Buku K13 Buku Guru Kelas 5 SD/Mi Mapel Matematika Revisi sebagai referensi dalam pelaksanaan pembelajaran Matematika 5 SD/Mi kelas VI.
 author: artipedia
-tags: [buku,pendidikan,sd,guru,kelasV]
+tags: [buku,pendidikan,sd,guru,kelas-5]
 published: true
 ---
 * TOC
@@ -50,7 +50,7 @@ published: true
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/wiki/buku-guru-kelas-5-sd-mapel-matematika-revisi.html" title="Buku Guru Kelas 5 SD/Mi Mapel Matematika Revisi"><strong>Matematika</strong></a>|
+|Mata Pelajaran|<a href="/buku/buku-guru-kelas-5-sd-mapel-matematika-revisi" title="Buku Guru Kelas 5 SD/Mi Mapel Matematika Revisi"><strong>Matematika</strong></a>|
 |Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Mata Pelajaran|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
@@ -80,6 +80,6 @@ Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _sisw
 Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
 ### Download Buku Matematika SD Kelas V (5)
-Buku Matematika SD Kelas 5 Kurtilas Revisi ini dapat anda unduh melalui tombol dibawah:
+**Buku Matematika SD Kelas 5** Kurtilas Revisi ini dapat anda unduh melalui tombol dibawah:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1tVuh2-tsFXtlstVokIsvU6S4aUXyhbXS" rel="nofollow" target="_blank" title="Download">Download</a>
 <a class="button demo open-dialog" href="https://drive.google.com/file/d/1tVuh2-tsFXtlstVokIsvU6S4aUXyhbXS/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
