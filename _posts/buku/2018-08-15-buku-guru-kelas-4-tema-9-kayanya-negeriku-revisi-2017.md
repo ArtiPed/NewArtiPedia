@@ -45,13 +45,13 @@ published: true
  
 </script>
 
-Buku Paket Tematik bagi guru Kelas 4 <acronym title="Sekolah Dasar">SD</acronym> semester 2 (genap) Tema 9 (Kayanya Negeriku) ini merupakan buku paket tematik yang diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 176 hal. ini merupakan buku cetakan **revisi 2017** dan disusun oleh Maryanto serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+**Buku Paket Tematik bagi guru Kelas 4** <abbr title="Sekolah Dasar">SD</abbr> **semester 2** (genap) **Tema 9 (Kayanya Negeriku)** ini merupakan buku paket tematik yang diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 176 hal. ini merupakan buku cetakan **revisi 2017** dan disusun oleh Maryanto serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 ## Buku Guru Kelas IV Tema 9 Kayanya Negeriku
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/wiki/buku-guru-kelas-4-tema-9-kayanya-negeriku-revisi-2017.html" title="Buku Guru Kelas 4 semester 2 Tema 9 Kayanya Negeriku K13 Revisi 2017"><strong>Tema 9 : Kayanya Negeriku</strong></a>|
+|Tema|<a href="/buku/buku-guru-kelas-4-tema-9-kayanya-negeriku-revisi-2017" title="Buku Guru Kelas 4 semester 2 Tema 9 Kayanya Negeriku K13 Revisi 2017"><strong>Tema 9 : Kayanya Negeriku</strong></a>|
 |Jenis|<a href="/buku" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
@@ -65,7 +65,7 @@ Penulis|Maryanto|
 
 ### Subtema
 
-<b>Buku Guru</b> <b>Kelas 4 Tema 9 Kayanya Negeriku <acronym title='Kurikulum 2013'>K13</acronym> Revisi 2017</b> terdiri dari 3 subtema antara lain: 
+<b>Buku Guru</b> <b>Kelas 4 Tema 9 Kayanya Negeriku <abbr title='Kurikulum 2013'>K13</abbr> Revisi 2017</b> terdiri dari 3 subtema antara lain: 
 
 <ol><li>Kekayaan Sumber Energi di Indonesia</li><li>Pemanfaatan Kekayaan Alam di Indonesia</li><li>Pelestarian Sumber Daya Alam Indonesia</li><li>Karyaku Prestasiku</li></ol>
 
