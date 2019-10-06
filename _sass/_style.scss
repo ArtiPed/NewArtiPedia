@@ -1192,12 +1192,12 @@ code.output {
     margin: 5px;
 }
 .demo {
-    background: #ffcb52;
+    background: #ea544d;
     margin: 5px;
 }
 .demo, .download {
     border-radius: 3px;
-    padding: 8px 12px;
+    padding: 7px 12px 5px 12px;
     color: #fff;
     transition: background-color 1s 0 ease-out;
 }
@@ -1215,7 +1215,7 @@ code.output {
 }
 .demo:before {
     content: "\f06e";
-    background: #f9c13e;
+    background: #ce4942;
 }
 .home ol {
     margin: 0;
