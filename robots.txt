@@ -2,6 +2,7 @@ User-agent: Mediapartners-Google
 Disallow: 
 
 User-agent: *
+Disallow: /wiki/
 Allow: /
 
 Sitemap: https://artipedia.id/sitemap.xml
