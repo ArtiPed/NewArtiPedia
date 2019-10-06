@@ -19,7 +19,7 @@ Adapun penetapan peserta PPG Dalam Jabatan tahun 2020 diawali dengan seleksi adm
 
 Seleksi administrasi dilakukan melalui verifikasi dan validasi berkas persayaratan administrasi yang dilakukan oleh LPMP setempat.
 
-### Syarat Jadwal PPG Dalam Jabatan Tahun 2020
+### Persyaratan PPG Dalam Jabatan Tahun 2020
 Bagi calon peserta yang lolos seleksi akademik wajib mengumpulkan persyaratan administrasi berikut ini.
 
 1. Guru negeri atau swasta yang belum memiliki sertifikat pendidik.
@@ -47,7 +47,7 @@ Adapun berkas adminstrasi yang harus dikumpulkan meliputi:
 
 Bagi anda yang telah memenuhi syarat agar mencermati jadwal pelaksanaan PPGDJ tahun 2020 berikut ini.
 
-### Jadwal PPG
+### Jadwal PPG Dalam Jabatan Tahun 2020
 ![Jadwal PPG](/img/Jadwal-ppg-2020.png "Jadwal PPG")
 
 Bagi anda yang memenuhi dan telah melakukan pemberkasan agar selalu memantau perkembangan PPG tahun 2020 sesuai jadwal di atas.
