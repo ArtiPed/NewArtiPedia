@@ -1,14 +1,15 @@
-### Keybase proof
+==================================================================
+https://keybase.io/wahyu243
+--------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am artipedia on github.
+  * I am an admin of https://artipedia.id
   * I am wahyu243 (https://keybase.io/wahyu243) on keybase.
   * I have a public key ASCUCZJra_v-tNosliCIPWS7JtMZ9R1pkMgMWTJU0OWbDgo
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
-```json
 {
   "body": {
     "key": {
@@ -19,15 +20,15 @@ To claim this, I am signing this object:
       "username": "wahyu243"
     },
     "merkle_root": {
-      "ctime": 1570353173,
-      "hash": "12c1db0fbce65df6fdd28a7f200750db3dab3ca3ec1ba271565d86460efa98daa7e5dbf7d56945e96d9f4a5ae3eef67ff45c552288b1000c91215be8d154feb8",
-      "hash_meta": "db5893f69bd307cdd5ec175acb5e7fa5d28825adee28e1030cb6ce33908af344",
-      "seqno": 7882462
+      "ctime": 1570353405,
+      "hash": "27a4d199b6055c346f53b83822a76d8e57cd0c9fa70b9ebc903101da5af5f49b33abbf859581f4a1e01357c37776278af47cfcf348b93650982a34e503ea55a6",
+      "hash_meta": "22aa4fb5e1bbc02a7feee678e20d4e86fd0c3db09da4eef3c3fa0e64a6ef7e69",
+      "seqno": 7882477
     },
     "service": {
-      "entropy": "bPlEQzRukWtd7McCcejEBI0n",
-      "name": "github",
-      "username": "artipedia"
+      "entropy": "tRL7Q9FBHdBxgZeHNEImY3K9",
+      "hostname": "artipedia.id",
+      "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 2
@@ -36,32 +37,20 @@ To claim this, I am signing this object:
     "name": "keybase.io go client",
     "version": "4.5.0"
   },
-  "ctime": 1570353181,
+  "ctime": 1570353422,
   "expire_in": 504576000,
-  "prev": "146464dfebcf0d58834dd4ebefad4c5acc3c6b3069ff1e7befd85291fb79382c",
-  "seqno": 10,
+  "prev": "4d004402e16f5a25b794d8c578723b8d1051b27b59bf855235cc0950eab54b88",
+  "seqno": 11,
   "tag": "signature"
 }
-```
 
-with the key [ASCUCZJra_v-tNosliCIPWS7JtMZ9R1pkMgMWTJU0OWbDgo](https://keybase.io/wahyu243), yielding the signature:
+which yields the signature:
 
-```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglAmSa2v7/rTaLJYgiD1kuybTGfUdaZDIDFkyVNDlmw4Kp3BheWxvYWTESpcCCsQgFGRk3+vPDViDTdTr761MWsw8azBp/x5779hSkft5OCzEIMeoqQY8MnukXwyolhJiFC6NYM99SefZ9RQtVj79QYy5AgHCo3NpZ8RAjack1U+4I2X68x3udRXfmHkKbhq0Dtj+Oz6hNhLsS/bKDsBaaUNOzGYYFkkGtuRK13Bx7SU02utiVYHyUCAYCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM8bYwVc+2K0FzwoOrY/hcjuQ5gmx28dATOjNhN8FPkRo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglAmSa2v7/rTaLJYgiD1kuybTGfUdaZDIDFkyVNDlmw4Kp3BheWxvYWTESpcCC8QgTQBEAuFvWiW3lNjFeHI7jRBRsntZv4VSNcwJUOq1S4jEIDpWTlARSP69x2cM/hk/CZ00/AOeClVKK/SxBfFNeE8/AgHCo3NpZ8RAwktL5pgZgGusQesT0ZOrWujBHRcvTHP2iKazmZdZCE+3ndaVW9+7zjVhLSH1qUt2q3c/GrcbuPkWYT4bk3asAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFHXsMoqsP6KFXdwVZhcLyndzhDLBkCzjWSuBQ/rMiNoo3RhZ80CAqd2ZXJzaW9uAQ==
 
-```
+And finally, I am proving ownership of this host by posting or
+appending to this document.
 
-And finally, I am proving ownership of the github account by posting this as a gist.
+View my publicly-auditable identity here: https://keybase.io/wahyu243
 
-### My publicly-auditable identity:
-
-https://keybase.io/wahyu243
-
-### From the command line:
-
-Consider the [keybase command line program](https://keybase.io/download).
-
-```bash
-# look me up
-keybase id wahyu243
-```
+==================================================================
