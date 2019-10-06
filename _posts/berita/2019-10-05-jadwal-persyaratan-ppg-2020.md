@@ -47,7 +47,8 @@ Adapun berkas adminstrasi yang harus dikumpulkan meliputi:
 
 Bagi anda yang telah memenuhi syarat agar mencermati jadwal pelaksanaan PPGDJ tahun 2020 berikut ini.
 
-Syarat Jadwal PPG
+### Jadwal PPG
+![Jadwal PPG](/img/Jadwal-ppg-2020.png "Jadwal PPG")
 
 Bagi anda yang memenuhi dan telah melakukan pemberkasan agar selalu memantau perkembangan PPG tahun 2020 sesuai jadwal di atas.
 Info sertifikasi atau PPG dapat anda pantau website ini atau website sebagai berikut:
