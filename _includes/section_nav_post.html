@@ -15,12 +15,12 @@ next, lets build a link to it.
     <div class="section-nav no-print clear">
       <div class="left align-left">
           {% if page.previous.url %}
-            <a href="{{page.previous.url}}" title="{{page.previous.title}}" class="prev">{{page.previous.title}}</a>
+            <a href="{{page.previous.url}}" title="{{page.previous.title}}" class="prev">{{page.previous.title | truncate: 56}}</a>
           {% endif %}
       </div>
       <div class="right align-right">
             {% if page.next.url %}
-          <a href="{{page.next.url}}" title="{{page.next.title}}" class="next">{{page.next.title}}</a>
+          <a href="{{page.next.url}}" title="{{page.next.title}}" class="next">{{page.next.title | truncate: 56}}</a>
           {% endif %}
       </div>
     </div>
