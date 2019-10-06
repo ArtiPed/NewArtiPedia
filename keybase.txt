@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am artipedia on github.
+  * I am wahyu243 (https://keybase.io/wahyu243) on keybase.
+  * I have a public key ASCUCZJra_v-tNosliCIPWS7JtMZ9R1pkMgMWTJU0OWbDgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209409926b6bfbfeb4da2c9620883d64bb26d319f51d6990c80c593254d0e59b0e0a",
+      "host": "keybase.io",
+      "kid": "01209409926b6bfbfeb4da2c9620883d64bb26d319f51d6990c80c593254d0e59b0e0a",
+      "uid": "56922798f7c38ef332dedc2e08653d19",
+      "username": "wahyu243"
+    },
+    "merkle_root": {
+      "ctime": 1570353173,
+      "hash": "12c1db0fbce65df6fdd28a7f200750db3dab3ca3ec1ba271565d86460efa98daa7e5dbf7d56945e96d9f4a5ae3eef67ff45c552288b1000c91215be8d154feb8",
+      "hash_meta": "db5893f69bd307cdd5ec175acb5e7fa5d28825adee28e1030cb6ce33908af344",
+      "seqno": 7882462
+    },
+    "service": {
+      "entropy": "bPlEQzRukWtd7McCcejEBI0n",
+      "name": "github",
+      "username": "artipedia"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1570353181,
+  "expire_in": 504576000,
+  "prev": "146464dfebcf0d58834dd4ebefad4c5acc3c6b3069ff1e7befd85291fb79382c",
+  "seqno": 10,
+  "tag": "signature"
+}
+```
+
+with the key [ASCUCZJra_v-tNosliCIPWS7JtMZ9R1pkMgMWTJU0OWbDgo](https://keybase.io/wahyu243), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglAmSa2v7/rTaLJYgiD1kuybTGfUdaZDIDFkyVNDlmw4Kp3BheWxvYWTESpcCCsQgFGRk3+vPDViDTdTr761MWsw8azBp/x5779hSkft5OCzEIMeoqQY8MnukXwyolhJiFC6NYM99SefZ9RQtVj79QYy5AgHCo3NpZ8RAjack1U+4I2X68x3udRXfmHkKbhq0Dtj+Oz6hNhLsS/bKDsBaaUNOzGYYFkkGtuRK13Bx7SU02utiVYHyUCAYCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM8bYwVc+2K0FzwoOrY/hcjuQ5gmx28dATOjNhN8FPkRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/wahyu243
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id wahyu243
+```
