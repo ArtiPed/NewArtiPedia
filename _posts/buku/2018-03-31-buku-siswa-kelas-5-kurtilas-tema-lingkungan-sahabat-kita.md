@@ -50,9 +50,13 @@ tags:
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku pelajaran sangatlah penting untuk menunjang kegiatan pembelajaran di kelas, khususnya kelas 5 Sekolah Dasar. Buku yang saat ini digunakan di kelas 5 adalah buku kurikulum 2013 (K13) Revisi. Seperti **Buku Siswa Kelas 5** Tema 8 du Bawah ini:
+[ArtiPedia](/ "ArtiPedia") - Buku pelajaran sangatlah penting untuk menunjang kegiatan pembelajaran di kelas, khususnya kelas 5 Sekolah Dasar. Buku yang saat ini digunakan di kelas 5 adalah buku kurikulum 2013 (K13) Revisi. Seperti **Buku Siswa Kelas 5** Tema 8 dibawah ini:
 
 Penggunaan buku siswa tema lingkungan sahabat kita dapat memberikan gambaran kepada siswa yang dapat membantu dalam belajar di kelas atau dirumah.
+
+Buku paket kelas 5 terdiri dari buku guru dan buku siswa. Buku tersebut mengacu pada kurikulum terbaru yaitu kurikulum 2013 yang berlaku pada saat ini. 
+
+Didalam kurikulum 2013 pendekatan pembelajaran yang digunakan adalah saintifik, yang lebih mengutamakan pada aktivitas siswa. Oleh karena itu buku siswa kelas 5 ini sangat penting dimiliki oleh siswa sebagai sumber belajar, dan buku guru sebagai panduan guru baik itu dalam menyusun program pembelajaran ataupun mengelola kelas.
 
 ## Buku Siswa Kelas 5 Tema 8 Lingkungan Sahabat Kita
 
@@ -60,7 +64,7 @@ Penggunaan buku siswa tema lingkungan sahabat kita dapat memberikan gambaran kep
 
 |Uraian|Keterangan|
 | --- | --- |
-|Tema|<a href="/buku/buku-siswa-kelas-5-kurtilas-tema-lingkungan-sahabat-kita.html" title="Buku Siswa Kelas 5 semester 2 Tema 8 Lingkungan Sahabat Kita K13 Revisi 2017"><strong>Lingkungan Sahabat Kita</strong></a>|
+|Tema|<a href="/buku/buku-siswa-kelas-5-kurtilas-tema-lingkungan-sahabat-kita" title="Buku Siswa Kelas 5 semester 2 Tema 8 Lingkungan Sahabat Kita K13 Revisi 2017"><strong>Lingkungan Sahabat Kita</strong></a>|
 |Jenis|<a href="/buku" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SD (Sekolah Dasar)|
@@ -97,6 +101,6 @@ Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _sisw
 
 Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
-## Download Buku
+## Download Buku Siswa Tema 8
 Klik tombol download atau baca
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=16POIEVB8oUHtJd3hC1YKQMDucZ1nlKB8" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/16POIEVB8oUHtJd3hC1YKQMDucZ1nlKB8/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
