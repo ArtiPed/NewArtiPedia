@@ -14,6 +14,7 @@ tags:
   - buku-guru
   - kelas-2
   - tematik
+  - revisi-2017
 ---
 
 * TOC
@@ -56,6 +57,12 @@ tags:
 **Buku Guru Kelas 2 Tema 2** menjadi salah satu prasyarat yang mau tidak mau harus tersedia dalam pelaksanaan pembelajaran, dimana melalui **buku paket** tersebut, guru dapat lebih mengembangkan ide/pemikiran dan acuan dalam mengajarkan suatu materi kepada siswa.
 
 Pada satuan pendidikan *sekolah dasar (SD)* saat ini menggunakan **kurikulum 2013** dimana dalam kurikulum tersebut bersifat tematik, artinya tiap mata pelajaran dileburkan ke dalam suatu tema. seperti halnya dalam **buku guru tema bermain dilingkunganku** yang disajikan pada halaman ini.
+
+Penggunaan buku guru dapat memberikan gambaran kepada guru yang dalam mengelola dan mengembangkan kegiatan pembelajaran di kelas yang dituntut untuk mengimplementasikan Kurikulum 2013 untuk mengembangkan kompetensi siswa dalam ranah pengetahuan, keterampilan, dan sikap secara utuh, dengan memadukan ketiga ranah pengetahuan, keterampilan, dan sikap melalui pendekatan pembelajaran tematik terpadu.
+
+Didalam kurikulum 2013 pendekatan pembelajaran yang digunakan adalah saintifik, yang lebih mengutamakan pada aktivitas siswa. Oleh karena itu buku kelas 2 ini sangat penting dimiliki oleh guru  sebagai panduan, baik itu dalam menyusun program pembelajaran ataupun mengelola kelas.
+
+Struktur penulisan buku kelas 2 ini memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Cari Tahu, Ayo Belajar. Ayo Berlatih, Ayo Amati, Ayo Lakukan, Ayo Renungkan, Ayo Kerjakan, Ayo Mencoba, Ayo Diskusikan, Ayo Menulis, Ayo Berkreasi, Ayo Bernyanyi yang sesuai dengan pendekatan saintifik.
 
 ## Buku Guru Kelas 2 Tema 2 Bermain di Lingkunganku
 
