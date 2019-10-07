@@ -5,13 +5,15 @@ permalink: /search/
 sitemap: false
 ---
 
+<div class="text-center center">
 <div id="search-container">
         <form id="search-input" role="search" method="get" action="{{ site.baseurl }}/search/">
         <input type="text" id="search-input" name="cari" placeholder="search..."/>
         <button type="submit" title="Submit your search query." class="searchbox__submit">
         <i class="fa fa-search" aria-hidden="true"></i>
 </button></form>
-              </div>
+</div>
+</div>
   
 <script>
   (function() {
