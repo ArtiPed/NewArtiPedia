@@ -61,7 +61,7 @@ tags:
 
 **Buku Guru Kelas 6 <abbr title="Sekolah Dasar">SD</abbr>** semester 2 (dua) Tema 9 (Menjelajah Angkasa Luar) ini merupakan buku paket tematik bagi guru sebagai panduan dalam menyusun program dan juga panduan penggunaan buku siswa. Buku dengan jumlah halaman sebanyak 192 halaman ini merupakan buku cetakan ke 1 dan disusun oleh Angie Siti Anggari, Afriki, Al Farani, Dara Retno Wulan, Fitria Purnihastuti, Hanni Darwanti, Nuniek Puspitawati, Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2015. 
 
-Buku ini disusun agar memudahkan guru dalam menyusun program pembelaran, dan dapat dijadikan acuan atau gambaran yang jelas dan rinci dalam menyusun dan melaksanakan kegiatan pembelajaran untuk membangun sikap serta perilaku positif, penguasaan konsep, keterampilan berpikir saintifik, berpikir tingkat tinggi, kemampuan menyelesaikan masalah, inkuiri, kreativitas, dan pribadi reflektif.
+Buku ini disusun agar memudahkan guru dalam menyusun program pembelajaran, dan dapat dijadikan acuan atau gambaran yang jelas dan rinci dalam menyusun dan melaksanakan kegiatan pembelajaran untuk membangun sikap serta perilaku positif, penguasaan konsep, keterampilan berpikir saintifik, berpikir tingkat tinggi, kemampuan menyelesaikan masalah, inkuiri, kreativitas, dan pribadi reflektif.
 
 Selain itu, **buku kurikulum 2013** ini dapat dijadikan sebagai acuan dalam mempersiapkan materi pembelajaran, menyusun soal-soal yang relevan dengan tema ini. 
 
