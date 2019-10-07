@@ -44,7 +44,7 @@ published: true
  
 </script>
 
-[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) mata pelajaran <abbr title="Ilmu Pengetahuan Alam">IPA</abbr> kelas 9 (IX).
+[ArtiPedia](/ "ArtiPedia") - Buku yang dibagikan kali ini adalah buku guru bagi satuan pendidikan SMP (SLTP) **mata pelajaran <abbr title="Ilmu Pengetahuan Alam">IPA</abbr> kelas 9 (IX)**.
 
 Buku pelajaran sangatlah penting untuk menunjang kegiatan pembelajaran di kelas. 
 
@@ -54,7 +54,7 @@ Buku tersebut mengacu pada kurikulum terbaru yaitu kurikulum 2013 yang berlaku p
 
 Implementasi Kurikulum 2013 bertujuan untuk mengembangkan kompetensi siswa dalam ranah pengetahuan, keterampilan, dan sikap secara utuh, dengan memadukan ketiga ranah pengetahuan, keterampilan, dan sikap.
 
-Didalam kurikulum 2013 pendekatan pembelajaran yang digunakan adalah saintifik, yang lebih mengutamakan pada aktivitas siswa. Oleh karena itu buku siswa kelas 5 ini sangat penting dimiliki oleh siswa sebagai sumber belajar, dan buku guru sebagai panduan guru baik itu dalam menyusun program pembelajaran ataupun mengelola kelas.
+Didalam kurikulum 2013 pendekatan pembelajaran yang digunakan adalah saintifik, yang lebih mengutamakan pada **aktivitas siswa**. Oleh karena itu **buku siswa** **kelas 9** **mapel IPA** ini sangat penting dimiliki oleh siswa sebagai sumber belajar, dan buku guru sebagai panduan guru baik itu dalam menyusun program pembelajaran ataupun mengelola kelas.
 
 **Buku siswa kelas 9 mapel IPA** ini merupakan buku terbaru yang mengacu pada kurikulum 2013.
 
