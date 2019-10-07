@@ -965,15 +965,10 @@ RewriteRule ^(.+/)?index(\.html)?$ /%1 [R=301,L]
 # Remove .html extensions
 # ----------------------------------------------------------------------
 
-# If it's a request from a browser, not an internal request by Apache/mod_rewrite.
-RewriteCond %{ENV:REDIRECT_STATUS} ^$
-# And the request has a HTML extension. Redirect to remove it.
-RewriteRule ^(.+)\.html$ /$1 [R=301,L]
-
-# If the request exists with a .html extension.
-RewriteCond %{SCRIPT_FILENAME}.html -f
-# And there is no trailing slash, rewrite to add the .html extension.
-RewriteRule [^/]$ %{REQUEST_URI}.html [QSA,L]
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html [NC,L]
 
 # ----------------------------------------------------------------------
 # Remove trailing double slashes //
