@@ -56,7 +56,11 @@ Penggunaan buku siswa tema lingkungan sahabat kita dapat memberikan gambaran kep
 
 Buku paket kelas 5 terdiri dari buku guru dan buku siswa. Buku tersebut mengacu pada kurikulum terbaru yaitu kurikulum 2013 yang berlaku pada saat ini. 
 
+Implementasi Kurikulum 2013 bertujuan untuk mengembangkan kompetensi siswa dalam ranah pengetahuan, keterampilan, dan sikap secara utuh, dengan memadukan ketiga ranah pengetahuan, keterampilan, dan sikap melalui pendekatan pembelajaran tematik terpadu.
+
 Didalam kurikulum 2013 pendekatan pembelajaran yang digunakan adalah saintifik, yang lebih mengutamakan pada aktivitas siswa. Oleh karena itu buku siswa kelas 5 ini sangat penting dimiliki oleh siswa sebagai sumber belajar, dan buku guru sebagai panduan guru baik itu dalam menyusun program pembelajaran ataupun mengelola kelas.
+
+Struktur penulisan buku siswa kelas 5 ini memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Cari Tahu, Ayo Belajar. Ayo Berlatih, Ayo Amati, Ayo Lakukan, Ayo Renungkan, Ayo Kerjakan, Ayo Mencoba, Ayo Diskusikan, Ayo Menulis, Ayo Berkreasi, Ayo Bernyanyi yang sesuai dengan pendekatan saintifik.
 
 ## Buku Siswa Kelas 5 Tema 8 Lingkungan Sahabat Kita
 
