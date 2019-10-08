@@ -23,7 +23,7 @@ Pada kesempatan kali ini, buku yang dibagikan kali ini masih belum semua, oleh k
 
 Daftar Buku Pendidikan Khusus dan Layanan Khusus
 ## Buku Tunagrahita
-Berikut ini buku paket untuk jenis kekhususan Tunagrahita:
+Berikut ini buku paket untuk jenis kekhususan [Tunagrahita](/teori/tunagrahita "Apa itu Tunagrahita"):
 ### Kelas 3 Tunagrahita
 Buku paket tematik untuk satuan pendidikan **SDLB Tunagrahita Kurikulum 2013**
 1. Tema 1 Buku Guru [Download](https://docs.google.com/uc?export=download&id=1A6-WDvF82xlwOTH9mEMiMz0b5U_s6T6z)
