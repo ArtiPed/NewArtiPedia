@@ -8,6 +8,7 @@ date: 2019-10-08T06:23:38.962Z
 author: artipedia
 tags:
   - buku
+  - pendidikan
   - tematik
   - sd
   - revisi-2018
