@@ -14,7 +14,7 @@ tags:
   - kelas-3
 ---
 
-[ArtiPedia](/ "ArtiPedia") - **Buku Sekolah Elektronik** sangatlah penting dalam menunjang kegiatan pembelajaran. Artipedi mempublikasikan Buku Digital (Buku Sekolah Elektronik) bertujuan untuk menyebarkan **buku pembelajaran** dalam bentuk digital untuk semua jenjang pendidikan **Sekolah Dasar (SD)** kelas 3 ini sebagai penunjang dalam mengimplementasikan **kurikulum 2013**.
+[ArtiPedia](/ "ArtiPedia") - **Buku Sekolah Elektronik** sangatlah penting dalam menunjang kegiatan pembelajaran. Artipedi mempublikasikan Buku Digital (Buku Sekolah Elektronik) bertujuan untuk menyebarkan **buku pembelajaran** dalam bentuk *digital* untuk semua jenjang pendidikan **Sekolah Dasar (SD)** kelas 3 ini sebagai penunjang dalam mengimplementasikan **kurikulum 2013**.
 
 **Buku Tematik Terpadu SD/Mi Kelas 3 Kurikulum 2013 Revisi 2018** yang terdapat di Artipedia telah dibeli hak ciptanya secara resmi oleh Departemen Pendidikan Nasional dari penulis atau penerbit yang terkait, yang untuk selanjutnya, buku - buku tersebut diubah dalam bentuk **buku digital (ebook)** sehingga tidak melanggar hak cipta.
 
