@@ -18,7 +18,7 @@ tags:
 
 **Buku Tematik Terpadu SD/Mi Kelas 3 Kurikulum 2013 Revisi 2018** yang terdapat di Artipedia telah dibeli hak ciptanya secara resmi oleh Departemen Pendidikan Nasional dari penulis atau penerbit yang terkait, yang untuk selanjutnya, buku - buku tersebut diubah dalam bentuk **buku digital (ebook)** sehingga tidak melanggar hak cipta.
 
-Kurikulum 2013 disusun sedemikian rupa untuk mengembangkan kemampuan peserta didik dalam berbagai ranah, diantaranya ranah pengetahuan, keterampilan, dan sikap secara utuh. Proses untuk mencapai kemampuan tersebut dilakukan dengan memadukan beberapa ranah melaui pendekatan pembelajaran tematik terpadu. Untuk mendukung tercapainya tujuan dari kurikulum, maka dibutuhkan buku tematik untuk kelas 3 yang berisi aktivitas yang mendorong peserta didik untuk mencapai standar kompetensi yang telah ditetapkan, melalui pembelajaran kreatif, aktif, menantang, bermakna, dan mendorong siswa untuk bisa berpikir kritis.
+Kurikulum 2013 disusun sedemikian rupa untuk mengembangkan kemampuan peserta didik dalam berbagai ranah, diantaranya ranah pengetahuan, keterampilan, dan sikap secara utuh. Proses untuk mencapai kemampuan tersebut dilakukan dengan memadukan beberapa ranah melaui *pendekatan pembelajaran tematik terpadu*. Untuk mendukung tercapainya tujuan dari kurikulum, maka dibutuhkan buku tematik untuk kelas 3 yang berisi aktivitas yang mendorong peserta didik untuk mencapai standar kompetensi yang telah ditetapkan, melalui pembelajaran *kreatif, aktif, menantang, bermakna, dan mendorong siswa untuk bisa berpikir kritis*.
 
 {% include ads-artikel.html %}
 
