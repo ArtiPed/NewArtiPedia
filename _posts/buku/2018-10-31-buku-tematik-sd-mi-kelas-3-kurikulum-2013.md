@@ -29,7 +29,7 @@ Berikut ini adalah daftar [Buku Tematik Terpadu Kelas 3 Kurikulum 2013 Revisi 20
 
 <ol class="arti">{% for post in site.tags.kelas-3 %}
 <li class="{% if page.title == post.title %}current{% endif %}">
-<a href="{{ post.url }}">{{ post.title }}</a>
+<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 </li>
 {% endfor %}
 </ol>
