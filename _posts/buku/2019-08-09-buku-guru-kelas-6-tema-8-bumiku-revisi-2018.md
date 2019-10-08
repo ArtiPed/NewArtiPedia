@@ -1,13 +1,21 @@
 ---
-title: Buku Guru Kelas 6 Tema 8 Bumiku Kurikulum 2013
 layout: news_item
-comments: true
-date: 2019-08-09 04:49:09
-description: Unduh Buku Guru kelas 6 Tema Bumiku Kurikulum 2013, buku panduan guru menjadi faktor penunjang dalam pembelajaran.
-author: artipedia
+title: Buku Guru Kelas 6 Tema 8 Bumiku Kurikulum 2013
+description: >-
+  Unduh Buku Guru kelas 6 Tema Bumiku Kurikulum 2013, buku panduan guru menjadi
+  faktor penunjang dalam pembelajaran.
 image: buku-guru-kelas-6-tema-8-revisi.png
-tags: [buku,pendidikan,sd,guru,buku-guru,kelas-6,revisi-2018,tematik]
-published: true
+date: 2019-08-11T04:49:09.000Z
+author: artipedia
+tags:
+  - buku
+  - pendidikan
+  - sd
+  - guru
+  - buku-guru
+  - kelas-6
+  - revisi-2018
+  - tematik
 ---
 
 * TOC
@@ -51,11 +59,11 @@ published: true
 
 **Tema 8** pada **kelas 6** kurikulum 2013 revisi 2018 ini yaitu **Tema Bumiku**. Tema Bumiku terbagi menjadi beberapa subtema.
 
-Buku Guru Kelas 6 <abbr title="Sekolah Dasar">SD</abbr> semester 2 (dua) Tema 8 (Bumiku) ini merupakan buku paket tematik bagi guru sebagai panduan dalam menyusun program dan juga panduan penggunaan buku siswa. Buku dengan jumlah halaman sebanyak 176 halaman ini merupakan buku cetakan tahun 2015 dan disusun oleh Angi St. Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mifthachul Khasanah, dan Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
+Buku Guru **Kelas 6** <abbr title="Sekolah Dasar">SD</abbr> semester 2 (dua) Tema 8 (Bumiku) ini merupakan buku paket tematik bagi guru sebagai panduan dalam menyusun program dan juga panduan penggunaan buku siswa. Buku dengan jumlah halaman sebanyak 176 halaman ini merupakan buku cetakan tahun 2015 dan disusun oleh Angi St. Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mifthachul Khasanah, dan Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
 
 Buku ini disusun agar memudahkan guru dalam menyusun program pembelaran, dan dapat dijadikan acuan atau gambaran yang jelas dan rinci dalam menyusun dan melaksanakan kegiatan pembelajaran untuk membangun sikap serta perilaku positif, penguasaan konsep, keterampilan berpikir saintifik, berpikir tingkat tinggi, kemampuan menyelesaikan masalah, inkuiri, kreativitas, dan pribadi reflektif.
 
-Selain itu, buku kurikulum 2013 ini dapat dijadikan sebagai acuan dalam mempersiapkan materi pembelajaran, menyusun soal-soal yang relevan dengan tema wirausaha ini. 
+Selain itu, **buku kurikulum 2013** ini dapat dijadikan sebagai acuan dalam mempersiapkan materi pembelajaran, menyusun soal-soal yang relevan dengan tema wirausaha ini. 
 
 {% include ads-artikel.html %}
 
