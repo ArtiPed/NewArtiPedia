@@ -13,8 +13,8 @@ tags:
   - sma
   - siswa
   - guru
-  - revisi2018
-  - kelasXII
+  - revisi-2018
+  - kelas-12
 ---
 * TOC
 {:toc}
