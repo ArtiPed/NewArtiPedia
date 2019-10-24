@@ -3,6 +3,7 @@ description: ArtiPedia - Web Referensi Pendidikan - berisi informasi tentang Pen
 url: https://artipedia.id
 repository: "ArtiPed/NewArtiPedia"
 timezone: Asia/Jakarta
+logo: logo-2x.png
 
 twitter:
   username: artipedia243
